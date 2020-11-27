@@ -1,0 +1,807 @@
+State,District,Block,Habitation Name,Habitation ID,Facility Name,Address,File Upload Date,Facility Category,Facility Subcategory,Lattitude,Longitude
+Ladakh,Leh,Durbugh,Manpangon,1393007,Panchayat Headquarter,Manpangon,2020-11-03 11:45:47.647,Transport/Admin,Panchayat Headquarter,33.86071293,78.53021055
+Ladakh,Leh,Durbugh,Manpangon,1393007,Ration store,Manpangon,2020-11-03 11:28:03.490,Agro ,Warehouse,33.85812842,78.52483671
+Ladakh,Leh,Durbugh,Manpangon,1393007,J&K Bank,Maan Pangon,2020-11-03 11:47:04.257,Transport/Admin,Bank,33.86084489,78.5303133
+Ladakh,Leh,Kharu,Gia,1393075,medical sub center,gya,2020-11-09 20:51:26.360,Medical ,Primary Health Centre,33.65259351,77.73714551
+Ladakh,Leh,Kharu,Gia,1393075,govt high school gya,gya,2020-11-09 20:52:06.030,Education ,High School - General,34.02491317,77.68066706
+Ladakh,Leh,Kharu,Gia,1393075,govt high school,gia,2020-11-09 20:51:03.370,Education ,High School - General,33.63390597,77.74604118
+Ladakh,Kargil,Sankoo,Umba,1393326,collection centre,umba sankoo,2020-10-04 12:57:34.930,Agro ,Collection Centre or Pack House,34.3213982,75.89121934
+Ladakh,Kargil,Sankoo,Umba,1393326,bus stand,umba sankoo,2020-10-04 13:00:55.993,Transport/Admin,Bus Stand,34.32622665,75.87914928
+Ladakh,Kargil,Sankoo,Umba,1393326,medical sub centre,umba sankoo,2020-10-04 12:59:36.173,Medical ,Primary Health Centre,34.32788725,75.8776124
+Ladakh,Kargil,Kargil,Kaksar,1411724,Warehouse,kaksar,2020-10-19 21:35:04.487,Agro ,Warehouse,34.58391,75.982351666667
+Ladakh,Kargil,Kargil,Kaksar,1411724,Medical,kaksar,2020-10-19 21:31:35.120,Medical ,Primary Health Centre,34.583385,75.983221666667
+Ladakh,Kargil,Kargil,Kaksar,1411724,Education,kaksar,2020-10-19 21:29:30.783,Education ,High School - General,34.583895,75.982603333333
+Ladakh,Leh,Deskit,Diskit,1411842,jk bank,diskit,2020-11-05 12:45:22.407,Transport/Admin,Bank,34.550453333333,77.54598
+Ladakh,Leh,Deskit,Diskit,1411842,hr. sec. school,diskit,2020-11-04 21:09:20.507,Education ,Higher Secondary School,34.549438333333,77.569665
+Ladakh,Leh,Deskit,Diskit,1411842,BDO office,diskit,2020-11-05 12:31:05.073,Transport/Admin,Block Headquarter,34.549675,77.546233333333
+Ladakh,Leh,Deskit,Diskit,1411842,warehouse,diskit,2020-11-05 14:44:44.243,Agro ,Warehouse,34.551196666667,77.546391666667
+Ladakh,Leh,Deskit,Diskit,1411842,livestock dev. officer,diskit,2020-11-05 12:29:38.370,Medical ,Veterinary Hospital,34.549336666667,77.546596666667
+Ladakh,Leh,Deskit,Diskit,1411842,panchayat ghar,diskit,2020-11-05 13:02:35.220,Transport/Admin,Panchayat Headquarter,34.550423333333,77.545585
+Ladakh,Leh,Deskit,Diskit,1411842,fuel station,diskit,2020-10-23 14:01:11.093,Transport/Admin,Fuel Station,34.551811666667,77.53737
+Ladakh,Leh,Deskit,Diskit,1411842,govt. degree college,diskit,2020-11-04 21:11:22.637,Education ,Degree College,34.552178333333,77.57546
+Ladakh,Leh,Deskit,Diskit,1411842,sbi bank,diskit,2020-11-05 13:04:33.807,Transport/Admin,Bank,34.551635,77.54674
+Ladakh,Leh,Deskit,Diskit,1411842,sub district hospital,diskit,2020-11-05 13:11:04.180,Medical ,Community Health Centre,34.54949,77.55277
+Ladakh,Leh,Deskit,Odmarroo,1411860,busstand,udmaru,2020-11-05 08:20:00.237,Transport/Admin,Bus Stand,34.704506666667,77.269096666667
+Ladakh,Leh,Deskit,Odmarroo,1411860,medical sub centre,udmaru,2020-11-05 08:18:01.463,Medical ,Bedded Hospital,34.705743333333,77.270638333333
+Ladakh,Leh,Deskit,Odmarroo,1411860,ware house,udmaro,2020-11-05 08:14:35.813,Agro ,Warehouse,34.70312,77.27456
+Ladakh,Leh,Khalsti,Khaltse,1393033,Community Health Centre,Khaltse,2020-10-21 21:52:56.500,Medical ,Community Health Centre,34.320308631286,76.885193260387
+Ladakh,Leh,Khalsti,Khaltse,1393033,Panchayat Headquarter,Khaltse,2020-10-21 21:47:58.093,Transport/Admin,Panchayat Headquarter,34.320286754519,76.883437335491
+Ladakh,Leh,Khalsti,Khaltse,1393033,Warehouse,Khaltse,2020-10-21 21:46:49.700,Agro ,Warehouse,34.320112452842,76.884254906327
+Ladakh,Leh,Khalsti,Khaltse,1393033,Tiger Hill Filling Station,Khaltsi,2020-10-21 21:49:15.273,Transport/Admin,Fuel Station,34.322105627507,76.895780945197
+Ladakh,Kargil,Sankoo,Stakpa,1393318,Medical sub centre,Stakpa Sankoo,2020-10-04 12:53:37.667,Medical ,Primary Health Centre,34.30482857,75.92066898
+Ladakh,Kargil,Sankoo,Stakpa,1393318,panchayat ghar,stakpa sankoo,2020-10-04 12:08:44.610,Transport/Admin,Panchayat Headquarter,34.30413611,75.92150072
+Ladakh,Kargil,Sankoo,Stakpa,1393318,cllection centre,stakpa sankoo,2020-10-04 12:07:25.760,Agro ,Collection Centre or Pack House,34.30479695,75.92271247
+Ladakh,Kargil,Tai Suru,Kargee,1393399,govt high school,kargee,2020-10-16 05:44:59.790,Education ,High School - General,34.133645,75.95848
+Ladakh,Leh,Skurbuchan,Beema,1411800,panchayat headquarter,sanith beema,2020-10-16 19:37:33.450,Transport/Admin,Panchayat Headquarter,34.593883333333,76.52698
+Ladakh,Leh,Skurbuchan,Beema,1411800,bus stop,beema,2020-10-16 19:44:51.833,Transport/Admin,Bus Stand,34.594651666667,76.525751666667
+Ladakh,Leh,Skurbuchan,Beema,1411800,govt higher secondary school,beema,2020-10-16 19:35:09.730,Education ,Higher Secondary School,34.600656666667,76.513643333333
+Ladakh,Leh,Skurbuchan,Beema,1411800,Govt. High School,Beema,2020-10-16 19:35:47.107,Education ,High School - General,34.606344429776,76.502760462463
+Ladakh,Leh,Skurbuchan,Beema,1411800,J&K Bank,Beema,2020-10-16 19:39:04.167,Transport/Admin,Bank,34.594069132581,76.527133192867
+Ladakh,Leh,Skurbuchan,Beema,1411800,J & K Bank,Beema,2020-10-16 19:43:09.877,Transport/Admin,Bank,34.594069132581,76.527133192867
+Ladakh,Leh,Singay Lalok Wanla,Youlchong,1411834,Ration Store,Yulchung,2020-10-29 12:13:50.367,Agro ,Warehouse,33.92742673,76.90680154
+Ladakh,Leh,Singay Lalok Wanla,Youlchong,1411834,Bus Stand,Yulchung,2020-10-29 12:16:31.897,Transport/Admin,Bus Stand,33.92741016,76.90620266
+Ladakh,Leh,Turtuk,Taksi,1411868,warehouse,taksi,2020-11-05 08:24:20.250,Agro ,Warehouse,34.8764,76.816678333333
+Ladakh,Leh,Turtuk,Taksi,1411868,busstand,taksi,2020-11-05 08:22:37.240,Transport/Admin,Bus Stand,34.88492,76.808375
+Ladakh,Leh,Turtuk,Taksi,1411868,panchayat gharr,taksi,2020-11-09 10:56:50.973,Transport/Admin,Panchayat Headquarter,34.888775,76.808138333333
+Ladakh,Leh,Turtuk,Taksi,1411868,panchayat ghar,taksi,2020-11-05 08:22:45.243,Transport/Admin,Panchayat Headquarter,34.888775,76.808138333333
+Ladakh,Leh,Turtuk,Taksi,1411868,govt hr sec school,taksi,2020-11-05 08:23:12.733,Education ,Higher Secondary School,34.88894,76.80808
+Ladakh,Kargil,TSG,Baroo village,1412051,Swab public secondary school kargil,Baroo kargil,2020-10-16 21:21:36.597,Education ,High School - General,34.539106666667,76.136881666667
+Ladakh,Kargil,TSG,Baroo village,1412051,State cooperative Bank branch baroo kargil,Baroo,2020-10-15 23:43:21.043,Transport/Admin,Bank,34.54112,76.140536666667
+Ladakh,Kargil,TSG,Baroo village,1412051,Mutahhary public school baroo kargil,Baroo kargil,2020-10-16 21:19:53.963,Education ,High School - General,34.538861666667,76.136651666667
+Ladakh,Kargil,TSG,Baroo village,1412051,Govt. Boys higher secondary school baroo kargil,Baroo Kargil,2020-10-16 21:26:33.580,Education ,Higher Secondary School,34.54144,76.138911666667
+Ladakh,Leh,Durbugh,Lukung,1393012,Ration store,Lukung,2020-11-03 11:18:49.900,Agro ,Warehouse,33.994263,78.41137756
+Ladakh,Kargil,Kargil,Poyen,1393271,Govt. High school poyen,Poyen kargil,2020-10-21 15:23:01.813,Education ,High School - General,34.56309,76.132521666667
+Ladakh,Kargil,Shakar Chiktan,Sanjak main,1393344,J & K BANK,SANJAK,2020-10-01 20:22:39.720,Transport/Admin,Bank,34.57574374,76.5286253
+Ladakh,Kargil,Zanaskar,Sani,1393446,F. C. I SALE CENTRE SANI,SANI,2020-10-19 12:30:14.373,Agro ,Warehouse,33.506955,76.809906666667
+Ladakh,Leh,Panamic,Kobet  Sasoma,1411855,Panchayat ghar,Kobet,2020-11-04 19:21:52.570,Transport/Admin,Panchayat Headquarter,34.82343287,77.49133192
+Ladakh,Leh,Panamic,Kobet  Sasoma,1411855,Busstand,Kobet,2020-11-04 19:22:57.120,Transport/Admin,Bus Stand,34.81821132,77.49449937
+Ladakh,Leh,Panamic,Kobet  Sasoma,1411855,Warehouse,Kobet,2020-11-04 19:27:26.370,Agro ,Warehouse,34.8181142,77.49444362
+Ladakh,Leh,Rong,Likchey,1411889,education,likchey,2020-11-02 13:10:31.723,Education ,High School - General,33.72904001,77.95295613
+Ladakh,Leh,Rong,Likchey,1411889,bank,liichey,2020-11-02 13:11:05.743,Transport/Admin,Bank,33.72885136,77.95284127
+Ladakh,Leh,Rong,Likchey,1411889,halqa Panchayat,likchey,2020-11-02 13:10:50.140,Transport/Admin,Panchayat Headquarter,33.72898307,77.95287124
+Ladakh,Leh,Rong,Likchey,1411889,Warehouse,likchey,2020-11-02 13:10:13.417,Agro ,Warehouse,33.72939077,77.95168809
+Ladakh,Leh,Rong,Likchey,1411889,PHC,likchey,2020-11-02 13:08:45.947,Medical ,Primary Health Centre,33.92526711,77.73498721
+Ladakh,Kargil,Pashkum,Pheakbar,1411928,Bus stop,yoga pheakbar,2020-10-20 18:40:10.567,Transport/Admin,Bus Stand,34.517802186839,76.189610150124
+Ladakh,Kargil,TSG,G  Trespone,1412064,bus stop,lungma trespone,2020-11-13 08:25:43.820,Transport/Admin,Bus Stand,34.42054111,76.02760809
+Ladakh,Kargil,TSG,G  Trespone,1412064,SAFRON CULTIVATION,Saliskote thang,2020-10-17 12:25:52.460,Agro ,Agro Industry,34.41647217,76.01899784
+Ladakh,Kargil,TSG,G  Trespone,1412064,DEPT OF SHEEP HUSBANDRY,trespone,2020-10-17 11:32:46.557,Medical ,Veterinary Hospital,34.42543026,76.05119433
+Ladakh,Kargil,TSG,G  Trespone,1412064,BDO OFFICE,trespone,2020-10-09 14:27:15.527,Transport/Admin,Block Headquarter,34.42096011,76.03931668
+Ladakh,Kargil,TSG,G  Trespone,1412064,ORCHARD HIGH DENSITY,saliskote thang,2020-10-17 12:28:43.027,Agro ,Agro Industry,34.4163075,76.01898452
+Ladakh,Kargil,TSG,G  Trespone,1412064,G HR SEC SCHOOL,trespone,2020-10-09 14:27:37.637,Education ,Higher Secondary School,34.426689147949,76.050158143044
+Ladakh,Kargil,TSG,G  Trespone,1412064,jk bank,trespone,2020-10-09 14:28:03.730,Transport/Admin,Bank,34.420911669731,76.03944003582
+Ladakh,Kargil,TSG,G  Trespone,1412064,Apna panchayat ghar,trespone,2020-10-09 14:30:14.200,Transport/Admin,Panchayat Headquarter,34.423819184303,76.046531796455
+Ladakh,Kargil,TSG,G  Trespone,1412064,dept of animal husbandry,trespone,2020-10-09 14:26:51.683,Medical ,Veterinary Hospital,34.42015577,76.03626727
+Ladakh,Kargil,TSG,G  Trespone,1412064,GOAT SHEED,trespone,2020-10-17 12:24:43.460,Medical ,Veterinary Hospital,34.41772066,76.02427264
+Ladakh,Kargil,TSG,G  Trespone,1412064,orchad farm,trespone,2020-10-09 14:26:37.823,Agro ,Mandi (Notified),34.420123100281,76.035513281822
+Ladakh,Kargil,TSG,G  Trespone,1412064,KENDRIYA VIDYALAYA TRESPONE,trespone,2020-10-17 12:19:04.667,Education ,High School - General,34.42191931,76.02952914
+Ladakh,Leh,Khalsti,Nirmo,1393036,bus stop,nirmo,2020-10-17 17:11:24.867,Transport/Admin,Bus Stand,34.36929,76.805016666667
+Ladakh,Kargil,Kargil,Batimbis,1393247,collection centre,batambis kargil,2020-10-12 19:15:01.617,Agro ,Collection Centre or Pack House,34.41375072,76.10073593
+Ladakh,Kargil,Kargil,Batimbis,1393247,medical sub centre,bartoo,2020-10-12 19:16:15.000,Medical ,Primary Health Centre,34.41268727,76.10105462
+Ladakh,Kargil,Kargil,Batimbis,1393247,panchayat ghar,batambis kargil,2020-10-12 19:15:38.877,Transport/Admin,Panchayat Headquarter,34.41373299,76.10126081
+Ladakh,Kargil,Kargil,Batimbis,1393247,govt. high school,batambis,2020-10-12 19:18:33.027,Education ,High School - General,34.41349312,76.10075113
+Ladakh,Kargil,Kargil,Batimbis,1393247,bus stand,batambis,2020-10-12 19:17:18.400,Transport/Admin,Bus Stand,34.41320237,76.10153656
+Ladakh,Kargil,Zanaskar,Padum,1393436,Block Development Office Zanskar,Padum,2020-10-11 22:54:41.253,Transport/Admin,Block Headquarter,33.46382493359,76.883664881342
+Ladakh,Kargil,Zanaskar,Padum,1393436,Chief Executive Officer Development Authority,Padum zanskar,2020-10-11 20:39:45.957,Transport/Admin,Block Headquarter,33.478410487259,76.874999686749
+Ladakh,Kargil,Zanaskar,Padum,1393436,F. C. I OFFICE,PADUM,2020-10-17 10:41:14.043,Transport/Admin,Block Headquarter,33.4612,76.879981666667
+Ladakh,Kargil,Zanaskar,Padum,1393436,Zanskar Filling Station,Marthang,2020-10-11 22:55:11.790,Transport/Admin,Fuel Station,33.461483227365,76.885415434153
+Ladakh,Kargil,Zanaskar,Padum,1393436,Sub. Divisional Agriculture Office,Padum,2020-10-11 22:53:21.773,Agro ,Agro Industry,33.46618329292,76.876497342723
+Ladakh,Kargil,Zanaskar,Padum,1393436,Office Of Sub Divisional Magistrate  Zanskar,Padum,2020-10-11 22:53:51.170,Transport/Admin,Block Headquarter,33.462388945901,76.882691553888
+Ladakh,Kargil,Zanaskar,Padum,1393436,Community health center,Padum zanskar,2020-09-27 22:13:25.833,Medical ,Community Health Centre,33.469900592825,76.876819648369
+Ladakh,Kargil,Zanaskar,Padum,1393436,Zonal Education Office,Padum,2020-10-11 22:54:30.717,Transport/Admin,Block Headquarter,33.463481332446,76.883798987271
+Ladakh,Kargil,Zanaskar,Padum,1393436,Govt. Higher Secondary School,Marthang,2020-10-11 22:55:23.073,Education ,Higher Secondary School,33.4615104166,76.885360567752
+Ladakh,Kargil,Zanaskar,Padum,1393436,Office Of The Handicrafts Training Center,Padum,2020-10-11 22:52:55.443,Transport/Admin,Block Headquarter,33.459583954514,76.879532597277
+Ladakh,Kargil,Zanaskar,Padum,1393436,BUS STAND,PADUM ZANSKAR,2020-10-16 17:06:04.427,Transport/Admin,Bus Stand,33.460358333333,76.880221666667
+Ladakh,Kargil,Zanaskar,Padum,1393436,Zanskar Health Care & Sowa Rigpa Research Institute,Padum zanskar,2020-10-11 20:39:25.067,Medical ,Primary Health Centre,33.476513690175,76.878302637899
+Ladakh,Kargil,Zanaskar,Padum,1393436,F. C. I Godown,Padum,2020-10-11 22:54:04.523,Agro ,Warehouse,33.462675169714,76.883109864268
+Ladakh,Kargil,Zanaskar,Padum,1393436,Supervisor Handloom Weaving traning Centre,Padum,2020-10-11 22:53:08.493,Transport/Admin,Block Headquarter,33.463138405063,76.875499748979
+Ladakh,Kargil,Zanaskar,Padum,1393436,Jammu and Kashmir Bank,Padum,2020-10-11 22:53:37.887,Transport/Admin,Bank,33.466764722935,76.878546957026
+Ladakh,Kargil,Zanaskar,Padum,1393436,C.D.P.O OFFICE ZANSKAR,PADUM,2020-10-17 10:42:36.513,Transport/Admin,Block Headquarter,33.4595,76.879836666667
+Ladakh,Kargil,Zanaskar,Padum,1393436,Animal husbandary,Padum,2020-10-11 22:56:13.147,Medical ,Veterinary Hospital,33.472803506748,76.874303106773
+Ladakh,Kargil,Zanaskar,Padum,1393436,PANCHAYAT GHAR PADUM,PADUM,2020-10-16 17:00:26.230,Transport/Admin,Block Headquarter,33.464136666667,76.883401666667
+Ladakh,Leh,Khalsti,Alchi,1393020,ware house,lhardo near alchi,2020-11-16 11:19:12.543,Agro ,Warehouse,34.238833333333,77.115233333333
+Ladakh,Leh,Khalsti,Alchi,1393020,warehouse,alchi,2020-11-16 11:22:18.203,Agro ,Warehouse,34.230271666667,77.167786666667
+Ladakh,Leh,Khalsti,Alchi,1393020,bus stand,alchi,2020-11-16 11:24:26.403,Transport/Admin,Bus Stand,34.223088333333,77.17324
+Ladakh,Leh,Khalsti,Alchi,1393020,bus stop,lhardo near alchi,2020-11-16 11:16:38.873,Transport/Admin,Bus Stand,34.238913333333,77.115256666667
+Ladakh,Leh,Khalsti,Alchi,1393020,panchayat ghar,alchi,2020-11-16 11:30:22.907,Transport/Admin,Panchayat Headquarter,34.229735,77.168363333333
+Ladakh,Leh,Khalsti,Alchi,1393020,j&k bank,alchi,2020-11-16 11:27:52.530,Transport/Admin,Bank,34.225328333333,77.171651666667
+Ladakh,Leh,Khalsti,Alchi,1393020,dev. of sheep & wool centre,alchi,2020-11-16 11:26:21.590,Medical ,Veterinary Hospital,34.231883333333,77.167016666667
+Ladakh,Kargil,TSG,KANOOR,1411761,primary health care centre,kanoor kargil,2020-10-12 11:40:20.100,Medical ,Primary Health Centre,34.42160981,76.05565435
+Ladakh,Kargil,TSG,KANOOR,1411761,collection centre,kanoor kargil,2020-10-12 11:38:47.723,Agro ,Collection Centre or Pack House,34.42108539,76.05337983
+Ladakh,Kargil,TSG,KANOOR,1411761,Muthahhary public school,kanoor sankoo,2020-10-09 21:51:47.803,Education ,High School - General,34.41570213,76.05336098
+Ladakh,Leh,Singay Lalok Wanla,Skumpata,1411811,Bus Stand,Skumpata,2020-10-29 12:20:32.037,Transport/Admin,Bus Stand,33.9276631,76.87276068
+Ladakh,Leh,Deskit,Khardong,1411847,panchayat ghar,khardong,2020-11-04 20:59:08.720,Transport/Admin,Panchayat Headquarter,34.398796666667,77.657476666667
+Ladakh,Leh,Deskit,Khardong,1411847,ware house,khardong,2020-11-04 20:46:04.590,Agro ,Warehouse,34.398498333333,77.66171
+Ladakh,Leh,Deskit,Khardong,1411847,ware house rasermo,"rasermo, khardong",2020-10-30 20:24:37.177,Agro ,Warehouse,34.377846666667,77.658223333333
+Ladakh,Leh,Deskit,Khardong,1411847,ware house khardong pharka,khardong farka,2020-11-03 10:38:48.197,Agro ,Warehouse,34.382156666667,77.677651666667
+Ladakh,Leh,Deskit,Khardong,1411847,jk bank,khardong,2020-11-04 20:56:30.687,Transport/Admin,Bank,34.398711666667,77.657411666667
+Ladakh,Leh,Deskit,Khardong,1411847,busstand khardong pharka,khardong farka,2020-11-04 20:42:42.563,Transport/Admin,Bus Stand,34.381845,77.677731666667
+Ladakh,Leh,Deskit,Khardong,1411847,fac khardong,khardong,2020-11-04 21:00:54.730,Medical ,Veterinary Hospital,34.398905,77.657731666667
+Ladakh,Leh,Deskit,Khardong,1411847,busstand,rasermo khardong,2020-11-03 10:21:04.310,Transport/Admin,Bus Stand,34.377871666667,77.65816
+Ladakh,Leh,Deskit,Khardong,1411847,medical sub centre,khardong,2020-11-04 20:49:44.223,Medical ,Bedded Hospital,34.39877,77.656591666667
+Ladakh,Kargil,Barsoo,Ticket,1411897,GOVT. HIGH SCHOOL,Taikat Barsoo,2020-10-04 11:49:11.273,Education ,High School - General,34.23656925,76.09011985
+Ladakh,Kargil,Barsoo,Ticket,1411897,collection centre,tiaket khandi barsoo,2020-10-03 18:38:39.787,Agro ,Collection Centre or Pack House,34.23765485,76.08863127
+Ladakh,Kargil,Barsoo,Ticket,1411897,primary health centre,tiaket khandi Barsoo,2020-10-04 11:48:56.773,Medical ,Primary Health Centre,34.23635415,76.08826272
+Ladakh,Kargil,Barsoo,Ticket,1411897,Bus stand,taiket khandi barsoo,2020-10-03 18:40:53.153,Transport/Admin,Bus Stand,34.23740227,76.0887924
+Ladakh,Kargil,TSG,Gramthang,1412054,FCI STORE,gramthang,2020-10-09 16:23:07.147,Agro ,Collection Centre or Pack House,34.428197,76.05290348
+Ladakh,Leh,Durbugh,Satoo,1393004,Ration store,Satoo,2020-11-03 12:59:29.600,Agro ,Warehouse,33.87387188,78.29071388
+Ladakh,Leh,Durbugh,Satoo,1393004,Panchayat headquarter,Satoo,2020-11-03 12:58:33.660,Transport/Admin,Panchayat Headquarter,33.87310328,78.29156618
+Ladakh,Leh,Durbugh,Satoo,1393004,Govt. centralised residential high school,Satoo,2020-11-03 12:24:30.337,Education ,High School - General,33.87085256,78.29202425
+Ladakh,Leh,Durbugh,Satoo,1393004,J&K Bank,Satoo Kargyam,2020-11-03 12:57:36.317,Transport/Admin,Bank,33.87315619,78.29161724
+Ladakh,Kargil,Tai Suru,Panikhar,1393404,govt higher secondary School,prantee,2020-10-16 05:42:59.857,Education ,Higher Secondary School,34.113178333333,75.951706666667
+Ladakh,Kargil,Tai Suru,Panikhar,1393404,panikhar,panikhar,2020-10-16 05:44:39.173,Medical ,Primary Health Centre,34.11667,75.948053333333
+Ladakh,Kargil,Tai Suru,Panikhar,1393404,vegetable farm,choskore panikhar,2020-10-19 11:20:25.190,Agro ,Agro Industry,34.112561666667,75.947771666667
+Ladakh,Kargil,Tai Suru,Panikhar,1393404,govt girls high school,prantee,2020-10-16 05:43:23.620,Education ,High School - Girls,34.112163333333,75.951173333333
+Ladakh,Kargil,Tai Suru,Panikhar,1393404,noon public high school,choskore thang,2020-10-16 05:44:12.400,Education ,High School - General,34.103155,75.945493333333
+Ladakh,Kargil,Tai Suru,Panikhar,1393404,panchayat ghar,choskore,2020-10-16 05:43:46.380,Transport/Admin,Panchayat Headquarter,34.105458333333,75.947261666667
+Ladakh,Kargil,Soudh,Silmo,1411745,govt higher secondary school,silmo,2020-10-14 10:25:25.470,Education ,Higher Secondary School,34.62469513,76.31883497
+Ladakh,Kargil,Soudh,Silmo,1411745,primary health centre,silmo,2020-10-15 14:20:00.210,Medical ,Primary Health Centre,34.62233263,76.31375715
+Ladakh,Kargil,Soudh,Silmo,1411745,sale house,silmo,2020-10-15 14:20:27.567,Agro ,Warehouse,34.62223398,76.31272868
+Ladakh,Leh,Singay Lalok Wanla,Fanjila,1411813,Warehouse,Fanjila,2020-10-18 16:54:07.763,Agro ,Warehouse,34.20134184882,76.876800712198
+Ladakh,Leh,Singay Lalok Wanla,Fanjila,1411813,Bus Stand,Fanjila,2020-10-18 16:53:26.343,Transport/Admin,Bus Stand,34.197122440673,76.865916475654
+Ladakh,Leh,Singay Lalok Wanla,Fanjila,1411813,Panchayat Ghar (Wanla B),Fanjila,2020-10-19 08:44:51.450,Transport/Admin,Panchayat Headquarter,34.199917218648,76.874118587002
+Ladakh,Leh,Panamic,Taksha,1411863,Dev. of sheep & wool centre,Taksha,2020-11-04 19:47:51.563,Medical ,Veterinary Hospital,34.83310849,77.51078717
+Ladakh,Leh,Panamic,Taksha,1411863,Bus stand,Taksha,2020-11-04 19:48:45.740,Transport/Admin,Bus Stand,34.83284444,77.5104973
+Ladakh,Leh,Panamic,Taksha,1411863,warehouse,Taksha,2020-11-04 19:45:48.163,Agro ,Warehouse,34.82178795,77.51179875
+Ladakh,Leh,Rong,Himya,1411881,ration store,himya,2020-11-02 13:42:15.160,Agro ,Warehouse,33.65347331,78.0130215
+Ladakh,Leh,Rong,Himya,1411881,PHC,himya,2020-11-03 20:45:11.047,Medical ,Primary Health Centre,33.65293958,78.01434707
+Ladakh,Leh,Rong,Himya,1411881,Bank,himya,2020-11-02 13:13:14.660,Transport/Admin,Bank,33.65414448,78.01291647
+Ladakh,Kargil,Lotsum,Skamboo,1411931,bus stop,skamboo,2020-10-06 21:52:32.597,Transport/Admin,Bus Stand,34.461104637344,76.240395119835
+Ladakh,Kargil,Lotsum,Skamboo,1411931,high school,skamboo,2020-10-06 21:51:08.090,Education ,High School - General,34.462027814099,76.238494578607
+Ladakh,Kargil,Lotsum,Skamboo,1411931,PANCHAYAT Headquaters,skamboo,2020-10-06 21:50:20.493,Transport/Admin,Panchayat Headquarter,34.459574875238,76.243703180712
+Ladakh,Leh,Kharu,Phokchy,1393085,PHC,phukchy,2020-11-09 20:49:44.897,Medical ,Primary Health Centre,33.81231914,77.90993828
+Ladakh,Kargil,Drass,Muradbagh,1393221,High School,NH 1D,2020-10-02 11:12:37.440,Education ,High School - General,34.4289146,75.7438348
+Ladakh,Kargil,Sankoo,Thang Dumru,1393321,SANKOO PUBLIC SCHOOL,sankoo,2020-10-04 12:00:30.903,Education ,High School - General,34.28619627,75.96250605
+Ladakh,Kargil,Sankoo,Thang Dumru,1393321,chc,sankoo,2020-10-04 12:04:34.827,Medical ,Community Health Centre,34.29338192,75.96193088
+Ladakh,Kargil,Sankoo,Thang Dumru,1393321,govt girls high school,sankoo,2020-10-03 15:16:45.093,Education ,High School - Girls,34.28595153,75.9633541
+Ladakh,Kargil,Sankoo,Thang Dumru,1393321,Higher secondary school,sankoo,2020-10-04 13:11:57.407,Education ,Higher Secondary School,34.28781954,75.95855869
+Ladakh,Kargil,Sankoo,Thang Dumru,1393321,j&k bank,sankoo,2020-10-04 12:01:23.563,Transport/Admin,Bank,34.2887848,75.9622092
+Ladakh,Kargil,Sankoo,Thang Dumru,1393321,sub division magistrate,sankoo,2020-10-04 13:11:45.233,Transport/Admin,Block Headquarter,34.28978091,75.9550024
+Ladakh,Kargil,Sankoo,Thang Dumru,1393321,vet hospital,sankoo,2020-10-04 13:12:10.280,Medical ,Veterinary Hospital,34.28667372,75.96301916
+Ladakh,Kargil,Shakar Chiktan,Bodhkharboo,1393328,INTENSIVE CATTLE DEVELOPMENT,Bodhkarboo,2020-10-01 14:40:09.590,Medical ,Veterinary Hospital,34.34177355,76.5617025
+Ladakh,Kargil,Shakar Chiktan,Bodhkharboo,1393328,INTENSIVE CATTLE DEVELOPMENT CENTRE,Bodhkarboo,2020-10-01 12:37:05.260,Medical ,Veterinary Hospital,34.34177355,76.5617025
+Ladakh,Kargil,Shakar Chiktan,Bodhkharboo,1393328,HALQA PANCHAYAT,Bodhkharboo,2020-10-01 14:38:35.140,Transport/Admin,Panchayat Headquarter,34.33885022,76.56569244
+Ladakh,Kargil,Shakar Chiktan,Bodhkharboo,1393328,GOVT HIGH SCHOOL,Bodhkharboo,2020-10-01 14:38:09.840,Education ,High School - General,34.33718378,76.56818827
+Ladakh,Kargil,Shakar Chiktan,Bodhkharboo,1393328,STATE BANK OF INDIA,Bodhkharboo,2020-10-01 14:37:23.077,Transport/Admin,Bank,34.33717751,76.5692379
+Ladakh,Kargil,Shakar Chiktan,Bodhkharboo,1393328,Bharat Petroleum,Bodhkharboo,2020-10-01 14:37:01.657,Transport/Admin,Fuel Station,34.33674279,76.56953604
+Ladakh,Kargil,Soudh,Chutumail,1411748,primary health centre,chutumail,2020-10-14 17:13:37.027,Medical ,Primary Health Centre,34.55829236,76.18982285
+Ladakh,Kargil,Soudh,Chutumail,1411748,sale house,chutumail,2020-10-14 17:13:48.103,Agro ,Warehouse,34.55758961,76.18679825
+Ladakh,Leh,Skurbuchan,Dhomkhar Gongma,1411803,Warehouse,Domkhar gongma,2020-10-21 16:06:53.510,Agro ,Warehouse,34.449409595691,76.818545563146
+Ladakh,Leh,Skurbuchan,Dhomkhar Gongma,1411803,Govt. High School,Domkhar Gongma,2020-10-21 16:08:09.917,Education ,High School - General,34.449727772735,76.81880062446
+Ladakh,Leh,Skurbuchan,Dhomkhar Gongma,1411803,Bus Stop,Domkhar Gongma,2020-10-21 16:07:22.247,Transport/Admin,Bus Stand,34.449380678125,76.818649079651
+Ladakh,Leh,Skurbuchan,Domkhar Dho,1411805,Bus Stop,Domkhar Dho,2020-10-21 16:13:48.700,Transport/Admin,Bus Stand,34.389304812066,76.759838210419
+Ladakh,Leh,Skurbuchan,Domkhar Dho,1411805,Livestock Dev. Centre,Domkhar Dho,2020-10-21 16:16:26.057,Medical ,Veterinary Hospital,34.393553305417,76.760159153491
+Ladakh,Leh,Skurbuchan,Domkhar Dho,1411805,J&K Bank,Domkhar Dho,2020-10-21 16:17:03.167,Transport/Admin,Bank,34.393878732808,76.760031078011
+Ladakh,Leh,Skurbuchan,Domkhar Dho,1411805,Warehouse,Domkhar Dho,2020-10-21 16:14:47.290,Agro ,Warehouse,34.389272206463,76.759920855984
+Ladakh,Leh,Durbugh,Pholang Lay,1393015,Ration store,Pholang lay,2020-11-03 13:09:13.317,Agro ,Warehouse,33.98986176,78.15142255
+Ladakh,Leh,Durbugh,Tharuk,1393017,Govt. Hr. Sec. School,Tharuk,2020-11-03 13:00:43.270,Education ,Higher Secondary School,34.02971601,78.16784476
+Ladakh,Leh,Durbugh,Tharuk,1393017,Ration store,Tharuk,2020-11-03 13:04:42.427,Agro ,Warehouse,34.01742734,78.13372354
+Ladakh,Kargil,Tai Suru,Tangole Yugma,1393417,govt high school,tangole,2020-10-19 11:21:35.707,Education ,High School - General,34.057595,75.934158333333
+Ladakh,Kargil,Bhimbat,Bimbhet village,1411716,warehouse,NH 1D,2020-10-08 15:27:55.827,Agro ,Agro Industry,34.43185395,75.81155561
+Ladakh,Kargil,Bhimbat,Bimbhet village,1411716,Office Of The Block Development Officer,NH 1D,2020-10-02 11:09:48.323,Transport/Admin,Block Headquarter,34.43011339,75.81852839
+Ladakh,Kargil,Bhimbat,Bimbhet village,1411716,High School,NH 1D,2020-10-02 11:11:13.677,Education ,High School - General,34.43019178,75.8177113
+Ladakh,Kargil,Bhimbat,Bimbhet village,1411716,Animal Husbandry,NH 1D,2020-10-02 11:11:53.293,Medical ,Veterinary Hospital,34.4291441,75.81358216
+Ladakh,Kargil,Bhimbat,Bimbhet village,1411716,primary health centre,NH 1D,2020-10-02 11:10:38.730,Medical ,Primary Health Centre,34.42891753,75.81856715
+Ladakh,Kargil,Soudh,Barchay,1411735,primary health care,barchay,2020-10-11 12:40:31.800,Medical ,Primary Health Centre,34.5747597,76.22628718
+Ladakh,Kargil,Barsoo,Kerchekhar,1411765,MEDICAL SUB CENTRE,Karchaykhar,2020-10-04 11:56:57.587,Medical ,Community Health Centre,34.26826911,76.00168612
+Ladakh,Leh,Singay Lalok Wanla,Wanla,1411816,Panchayat Ghar (Wanla A),Wanla,2020-10-19 08:44:10.907,Transport/Admin,Panchayat Headquarter,34.24934790004,76.828657491133
+Ladakh,Leh,Singay Lalok Wanla,Wanla,1411816,J&K Bank,Wanla,2020-10-18 16:46:13.160,Transport/Admin,Bank,34.249336835928,76.8287018314
+Ladakh,Leh,Singay Lalok Wanla,Wanla,1411816,Warehouse,Wanla,2020-10-18 16:44:29.160,Agro ,Warehouse,34.247411764227,76.831063600257
+Ladakh,Leh,Singay Lalok Wanla,Wanla,1411816,Bus Stand,Wanla,2020-10-18 16:54:57.670,Transport/Admin,Bus Stand,34.290221203119,76.81274805218
+Ladakh,Leh,Singay Lalok Wanla,Wanla,1411816,Dev. of Sheep and Wool Centre,Wanla,2020-10-18 17:09:48.470,Medical ,Veterinary Hospital,34.24751016777,76.831245739013
+Ladakh,Leh,Singay Lalok Wanla,Wanla,1411816,Govt. High School,Wanla,2020-10-18 16:45:20.643,Education ,High School - General,34.247545036487,76.830930411816
+Ladakh,Leh,Singay Lalok Wanla,Wanla,1411816,Panchayat Headquarter (Wanla A),Wanla,2020-10-18 20:45:55.540,Transport/Admin,Panchayat Headquarter,34.24934790004,76.828657491133
+Ladakh,Leh,Turtuk,Bogdang,1411835,J&k bank,Bogdang,2020-11-04 18:50:15.693,Transport/Admin,Bank,34.80259887,77.04556256
+Ladakh,Leh,Turtuk,Bogdang,1411835,Bus Stand,Bogdang,2020-11-04 18:52:29.473,Transport/Admin,Bus Stand,34.80248822,77.04545544
+Ladakh,Leh,Turtuk,Bogdang,1411835,L.D.C,Bogdang,2020-11-04 18:53:24.660,Medical ,Veterinary Hospital,34.80224976,77.0469782
+Ladakh,Leh,Turtuk,Bogdang,1411835,P.H.C Bogdang,Bogdang,2020-11-04 18:47:57.307,Medical ,Primary Health Centre,34.80326261,77.03425976
+Ladakh,Leh,Turtuk,Bogdang,1411835,Ware House,Bogdang,2020-11-04 18:51:27.230,Agro ,Warehouse,34.80245857,77.0454236
+Ladakh,Leh,Turtuk,Bogdang,1411835,panchayat ghar b,bogdang a,2020-11-09 11:00:55.790,Transport/Admin,Panchayat Headquarter,34.80225,77.046935
+Ladakh,Leh,Turtuk,Bogdang,1411835,warehouses,changmar,2020-11-05 09:01:58.803,Agro ,Warehouse,34.767485,77.125008333333
+Ladakh,Kargil,Drass,Pandrass,1393224,High School,NH 1D,2020-10-02 11:01:38.523,Education ,High School - General,34.41072538,75.63150937
+Ladakh,Kargil,Drass,Pandrass,1393224,animal husbandry,NH 1D,2020-10-02 11:02:16.540,Medical ,Veterinary Hospital,34.41215955,75.63253382
+Ladakh,Kargil,Kargil,Hardas,1393259,fruit growers marketing,hardass,2020-10-21 15:39:33.390,Agro ,Agro Industry,34.599516666667,76.101861666667
+Ladakh,Kargil,Kargil,Hardas,1393259,store ( sale centre),Hardass,2020-10-21 15:40:36.030,Agro ,Warehouse,34.604395,76.10127
+Ladakh,Kargil,Kargil,Hardas,1393259,Primary health centre,Hardass,2020-10-21 15:41:07.327,Medical ,Primary Health Centre,34.606453333333,76.098121666667
+Ladakh,Kargil,Kargil,Safi,1393273,Sale centre ( food godown sapi),SAPI kargil,2020-10-21 15:44:05.653,Agro ,Warehouse,34.362908333333,76.134801666667
+Ladakh,Kargil,Kargil,Safi,1393273,primary health centre,Sapi kargil,2020-10-21 15:43:30.810,Medical ,Primary Health Centre,34.36313,76.13482
+Ladakh,Kargil,Shakar Chiktan,Yugmakharboo,1393359,HALQA PANCHAYAT,Yokmakharboo,2020-10-01 20:10:16.360,Transport/Admin,Panchayat Headquarter,34.52166355,76.43001629
+Ladakh,Kargil,Shakar Chiktan,Yugmakharboo,1393359,GOVT HIGH SCHOOL,YOMAKHARBOO,2020-10-01 19:54:56.773,Education ,High School - General,34.52129822,76.42836934
+Ladakh,Kargil,Shakar Chiktan,Yugmakharboo,1393359,VETERINARY CENTRE,Samar yokmakharboo,2020-10-01 20:00:02.630,Medical ,Veterinary Hospital,34.52194579,76.43024624
+Ladakh,Kargil,Shakar Chiktan,Yugmakharboo,1393359,Food Godown,Samar yokmakharboo,2020-10-01 20:21:14.867,Agro ,Warehouse,34.52233403,76.42992623
+Ladakh,Kargil,Tai Suru,Yuljuk,1393424,govt high school,yuljuk,2020-10-16 05:41:42.157,Education ,High School - General,34.159006666667,75.951001666667
+Ladakh,Kargil,Soudh,Rong,1411693,sale house,rong akchamail,2020-10-14 17:19:26.457,Agro ,Warehouse,34.55634387,76.16495453
+Ladakh,Leh,Skurbuchan,Hanu thang,1411807,bus stop,hanu thang,2020-10-16 20:01:39.950,Transport/Admin,Bus Stand,34.561371666667,76.596378333333
+Ladakh,Leh,Deskit,Hunder Dog,1411844,busstand,hunder dog,2020-11-04 22:00:04.683,Transport/Admin,Bus Stand,34.512296666667,77.412116666667
+Ladakh,Leh,Rong,Tukla,1411893,phc,tukla,2020-11-02 13:12:36.140,Medical ,Primary Health Centre,33.74568055,77.98378548
+Ladakh,Leh,Rong,Tukla,1411893,ration store,tukla,2020-11-02 13:11:56.947,Agro ,Warehouse,33.74594359,77.98436823
+Ladakh,Leh,Rong,Tukla,1411893,warehouse,tukla,2020-11-04 15:29:02.280,Agro ,Warehouse,33.74598124,77.98438597
+Ladakh,Kargil,Karsha,Karsha,1411944,GOVT. HIGH SCHOOL KARSHA,KARSHA,2020-10-19 12:25:29.503,Education ,High School - General,33.525705,76.904683333333
+Ladakh,Kargil,Karsha,Karsha,1411944,B.D.O OFFICE KARSHA,KARSHA,2020-10-19 11:52:47.097,Transport/Admin,Block Headquarter,33.526888333333,76.90472
+Ladakh,Kargil,Karsha,Karsha,1411944,BUS STAND KARSHA,KARSHA,2020-10-19 12:13:10.227,Transport/Admin,Bus Stand,33.531915,76.906375
+Ladakh,Kargil,Karsha,Karsha,1411944,N.T.P.H.C KARSHA,KARSHA,2020-10-19 12:19:31.740,Medical ,Primary Health Centre,33.526361666667,76.904315
+Ladakh,Kargil,Karsha,Karsha,1411944,F.C.I SALE CENTRE KARSHA,KARSHA,2020-10-19 11:58:24.263,Agro ,Warehouse,33.531608333333,76.904985
+Ladakh,Kargil,Karsha,Karsha,1411944,PANCHAYAT GHAR KARSHA,KARSHA,2020-10-19 12:06:45.730,Transport/Admin,Block Headquarter,33.525221666667,76.904206666667
+Ladakh,Kargil,Kargil,Majdas,1411993,Medical,Majidas,2020-10-21 15:34:32.030,Medical ,Primary Health Centre,34.611026666667,76.047378333333
+Ladakh,Leh,Durbugh,Chilam,1393013,Ration Store,Chilam,2020-11-03 13:08:25.757,Agro ,Warehouse,33.98535239,78.17237599
+Ladakh,Leh,Khalsti,GeramanGu,1393027,bus stand,mangu,2020-11-16 11:11:53.650,Transport/Admin,Bus Stand,34.23342,77.049333333333
+Ladakh,Leh,Khalsti,GeramanGu,1393027,warehouse,mangu,2020-11-16 11:09:25.340,Agro ,Warehouse,34.233568333333,77.048776666667
+Ladakh,Leh,Khalsti,GeramanGu,1393027,bus stop,gera,2020-11-16 11:13:40.530,Transport/Admin,Bus Stand,34.250048333333,77.080828333333
+Ladakh,Leh,Khalsti,GeramanGu,1393027,panchayat ghar,mangu,2020-11-16 11:08:09.527,Transport/Admin,Panchayat Headquarter,34.233046666667,77.048838333333
+Ladakh,Leh,Khalsti,GeramanGu,1393027,j&k bank,mangu,2020-11-16 11:10:25.730,Transport/Admin,Bank,34.233061666667,77.048885
+Ladakh,Kargil,Kargil,Kargil Town NAC,1393270,J& k Grameen bank,Kargil,2020-10-15 23:33:15.270,Transport/Admin,Bank,34.56063,76.125898333333
+Ladakh,Kargil,Kargil,Kargil Town NAC,1393270,Suru valley public HR.Sec. school,Kargil,2020-10-16 21:15:09.443,Education ,Higher Secondary School,34.559385,76.128058333333
+Ladakh,Kargil,Kargil,Kargil Town NAC,1393270,Kargil public secondary school Kargil,Honakey poyen kargil,2020-10-16 21:14:01.797,Education ,High School - General,34.559865,76.132961666667
+Ladakh,Kargil,Kargil,Kargil Town NAC,1393270,Jk Northern public school kargil,kargil,2020-10-16 21:22:51.880,Education ,High School - General,34.556575,76.140031666667
+Ladakh,Kargil,Kargil,Kargil Town NAC,1393270,J&K Bank (kargil),Kargil,2020-10-15 23:26:31.457,Transport/Admin,Bank,34.557213333333,76.126625
+Ladakh,Kargil,Kargil,Kargil Town NAC,1393270,Govt. Girls Higher secondary school kargil,Kargil ( near hospital road),2020-10-21 15:20:10.533,Education ,Higher Secondary School,34.560068333333,76.12386
+Ladakh,Kargil,Kargil,Kargil Town NAC,1393270,State cooperative bank,Kargil,2020-10-15 23:31:13.757,Transport/Admin,Bank,34.558683333333,76.126423333333
+Ladakh,Kargil,Kargil,Kargil Town NAC,1393270,Sale centre( Bazar 2nd A),Kargil ladakh,2020-10-21 15:46:24.653,Agro ,Warehouse,34.55801,76.12674
+Ladakh,Kargil,Kargil,Kargil Town NAC,1393270,(jaffaria Academy modern)Higher  Secondary school kargil,kargil,2020-10-16 21:18:49.810,Education ,Higher Secondary School,34.53292,76.151933333333
+Ladakh,Kargil,Kargil,Kargil Town NAC,1393270,ICICI Bank kargil,kargil,2020-10-15 23:39:43.970,Transport/Admin,Bank,34.558953333333,76.126215
+Ladakh,Kargil,Kargil,Kargil Town NAC,1393270,J & K Bank  lal chowk kargil,Kargil lal chowk,2020-10-15 23:35:52.200,Transport/Admin,Bank,34.56014,76.126135
+Ladakh,Kargil,Kargil,Kargil Town NAC,1393270,Muthhary public high school kargil,kargil,2020-10-16 21:17:42.883,Education ,High School - General,34.554045,76.141943333333
+Ladakh,Kargil,Kargil,Kargil Town NAC,1393270,sale centre (Bazar B1st ),Kargil ladakh,2020-10-21 15:45:28.107,Agro ,Warehouse,34.558,76.12669
+Ladakh,Kargil,Kargil,Kargil Town NAC,1393270,Axis bank,Kargil,2020-10-15 23:29:14.880,Transport/Admin,Bank,34.551813333333,76.12844
+Ladakh,Kargil,Kargil,Kargil Town NAC,1393270,HDFC bank,Baghi khomeni kargil,2020-10-15 23:37:22.070,Transport/Admin,Bank,34.559033333333,76.126383333333
+Ladakh,Kargil,Kargil,Kargil Town NAC,1393270,ITI Kargil,kargil,2020-10-16 21:25:31.977,Education ,ITI,34.557333333333,76.1314
+Ladakh,Kargil,Kargil,Kargil Town NAC,1393270,Petrol pump,Kargil,2020-10-21 15:27:12.750,Transport/Admin,Fuel Station,34.541365,76.150613333333
+Ladakh,Kargil,Kargil,Kargil Town NAC,1393270,"Bus stand ,Mini Truck & Tata Mobile",Kargil,2020-10-21 15:25:45.487,Transport/Admin,Bus Stand,34.551788333333,76.128418333333
+Ladakh,Leh,Durbugh,Shachukul,1393016,Ration store,Shachukul,2020-11-03 13:02:00.927,Agro ,Warehouse,33.9917126,78.10449368
+Ladakh,Leh,Durbugh,Shachukul,1393016,Panchayat Headquarter,Shachukul,2020-11-03 13:03:37.457,Transport/Admin,Panchayat Headquarter,33.99048699,78.10801577
+Ladakh,Leh,Durbugh,Shachukul,1393016,J&K Bank,Shachukul,2020-11-03 13:02:45.787,Transport/Admin,Bank,33.99059918,78.10797804
+Ladakh,Leh,Kharu,Meroo,1393084,bus stand,meeru,2020-11-09 20:50:22.913,Transport/Admin,Bus Stand,33.74035657,77.75583562
+Ladakh,Leh,Nyoma,Nyoma,1393199,Bank,Nyoma,2020-11-02 14:09:56.253,Transport/Admin,Bank,33.20105768,78.64148672
+Ladakh,Leh,Nyoma,Nyoma,1393199,Higher secondary,Nyoma,2020-11-02 14:10:53.910,Education ,Higher Secondary School,33.20344054,78.62684043
+Ladakh,Leh,Nyoma,Nyoma,1393199,PHC,Nyoma,2020-11-02 14:10:23.643,Medical ,Primary Health Centre,33.20160549,78.64317649
+Ladakh,Leh,Nyoma,Nyoma,1393199,Ration store,Nyoma,2020-11-02 14:10:10.677,Agro ,Warehouse,33.20160625,78.64071207
+Ladakh,Leh,Nyoma,Nyoma,1393199,Panchayat halqa,Nyoma,2020-11-02 14:10:40.567,Transport/Admin,Panchayat Headquarter,33.20496333,78.65308265
+Ladakh,Leh,Nyoma,Nyoma,1393199,veterinary,nyoma,2020-11-02 14:21:50.423,Medical ,Veterinary Hospital,33.20514618,78.64939694
+Ladakh,Kargil,Drass,Ulbearas,1393233,Potato Farm,NH 1D,2020-10-02 11:03:02.777,Agro ,Agro Industry,34.41141826,75.69992853
+Ladakh,Kargil,Sankoo,Thasgam,1393301,Service coorperative society,thasgam,2020-10-04 11:59:02.907,Transport/Admin,Bank,34.27890719,75.9797121
+Ladakh,Kargil,Sankoo,Thasgam,1393301,Govt high school,thasgam,2020-10-04 11:57:41.150,Education ,High School - General,34.27788405,75.97956624
+Ladakh,Kargil,Sankoo,Thasgam,1393301,National rural health  mission,thasgam,2020-10-04 12:00:01.550,Medical ,Primary Health Centre,34.28182497,75.97623416
+Ladakh,Kargil,Shargole,Shargole,1393382,bus stop,shargole,2020-10-06 22:00:36.897,Transport/Admin,Bus Stand,34.395070460072,76.310252081251
+Ladakh,Kargil,Shargole,Shargole,1393382,bus stand,shargole,2020-10-06 21:56:38.617,Transport/Admin,Bus Stand,34.395790088948,76.300658438057
+Ladakh,Kargil,Shargole,Shargole,1393382,Block development officer,shargole,2020-10-20 18:49:41.260,Transport/Admin,Block Headquarter,34.403429283691,76.296953926557
+Ladakh,Kargil,Shargole,Shargole,1393382,food and supply store,shargole,2020-10-06 21:57:29.127,Agro ,Warehouse,34.39350646979,76.298607303153
+Ladakh,Kargil,Shargole,Shargole,1393382,PHC,shargole,2020-10-06 21:55:59.387,Medical ,Primary Health Centre,34.393433426311,76.299135469112
+Ladakh,Kargil,Shargole,Shargole,1393382,PANCHAYAT Headquaters,shargole,2020-10-06 21:59:02.587,Transport/Admin,Panchayat Headquarter,34.393472513975,76.313443569464
+Ladakh,Kargil,Shargole,Shargole,1393382,veterinary hospital,shargole,2020-10-06 22:00:10.567,Medical ,Veterinary Hospital,34.394060991302,76.311943647542
+Ladakh,Kargil,Shargole,Shargole,1393382,State bank of india,shargole,2020-10-20 18:50:02.917,Transport/Admin,Bank,34.395670998181,76.300599850805
+Ladakh,Kargil,Shargole,Shargole,1393382,sale centre,darchok shargole,2020-10-06 21:56:25.380,Agro ,Collection Centre or Pack House,34.403636885567,76.295824636536
+Ladakh,Kargil,Shargole,Shargole,1393382,higher secondary school,shargole,2020-10-06 21:57:46.977,Education ,Higher Secondary School,34.395693463228,76.309364144319
+Ladakh,Kargil,Soudh,Yourbaltak,1411749,primary health centre,yourbaltak,2020-10-11 12:39:24.010,Medical ,Primary Health Centre,34.57082628,76.19350912
+Ladakh,Leh,Durbugh,Kherapullu,1393003,Ration store,Kherapullu,2020-11-03 12:04:33.307,Agro ,Warehouse,33.83609801,78.33217849
+Ladakh,Leh,Khalsti,Chipkyangchan,1393037,bus stand,chipkyangchan,2020-11-16 10:50:47.997,Transport/Admin,Bus Stand,34.304345,76.662341666667
+Ladakh,Leh,Nyoma,Anlay,1393178,high school anlay,anlay,2020-11-02 14:22:43.610,Education ,High School - General,32.77187287,78.98138253
+Ladakh,Leh,Nyoma,Anlay,1393178,high school,anlay,2020-11-02 14:05:37.677,Education ,High School - General,32.77187287,78.98138253
+Ladakh,Leh,Nyoma,Anlay,1393178,Bank,Anlay,2020-11-02 14:04:01.910,Transport/Admin,Bank,32.77230815,78.98233489
+Ladakh,Leh,Nyoma,Anlay,1393178,PHC,anlay,2020-11-02 14:06:43.020,Medical ,Primary Health Centre,32.77298617,78.9831375
+Ladakh,Kargil,Shargole,Mulbekh,1393369,bus stand,mulbekh,2020-10-06 22:02:45.790,Transport/Admin,Bus Stand,34.380951743873,76.359818993948
+Ladakh,Kargil,Shargole,Mulbekh,1393369,veterinary hospital,mulbekh,2020-10-06 22:04:00.233,Medical ,Veterinary Hospital,34.381227507366,76.359447590352
+Ladakh,Kargil,Shargole,Mulbekh,1393369,food and supply store,mulbek,2020-10-06 22:05:05.923,Agro ,Warehouse,34.378986339845,76.372332440275
+Ladakh,Kargil,Shargole,Mulbekh,1393369,bus stop,mulbekh koti,2020-10-06 22:01:36.557,Transport/Admin,Bus Stand,34.381143148799,76.35732418655
+Ladakh,Kargil,Shargole,Mulbekh,1393369,J& K bank,mulbekh,2020-10-20 18:50:56.390,Transport/Admin,Bank,34.381272300349,76.354782868093
+Ladakh,Kargil,Shargole,Mulbekh,1393369,spring dales public high school,mulbek,2020-10-06 22:08:49.753,Education ,High School - General,34.380823020904,76.373885632561
+Ladakh,Kargil,Shargole,Mulbekh,1393369,PHC,mulbekh,2020-10-06 22:04:24.647,Medical ,Primary Health Centre,34.379008515224,76.363421108908
+Ladakh,Kargil,Shargole,Mulbekh,1393369,High school,mulbekh,2020-10-06 22:01:02.467,Education ,High School - General,34.37931396775,76.355989253885
+Ladakh,Kargil,Shargole,Mulbekh,1393369,PANCHAYAT Headquaters,mulbek,2020-10-06 22:06:18.970,Transport/Admin,Panchayat Headquarter,34.381718896664,76.375381397249
+Ladakh,Kargil,Shargole,Mulbekh,1393369,PANCHAYAT ghar,mulbek,2020-10-08 16:30:56.197,Transport/Admin,Panchayat Headquarter,34.381718896664,76.375381397249
+Ladakh,Kargil,Soudh,Yokma Akchamal,1411694,primary hospital,yokma akchamal,2020-10-14 17:14:44.600,Medical ,Bedded Hospital,34.55534658,76.16582734
+Ladakh,Kargil,Soudh,Yokma Akchamal,1411694,govt higher secondary school,akchamal,2020-10-15 11:52:28.890,Education ,Higher Secondary School,34.5562821,76.16213127
+Ladakh,Kargil,Soudh,Yokma Akchamal,1411694,beded hospital,yokma akchamal,2020-10-15 14:21:41.910,Medical ,Bedded Hospital,34.55534658,76.16582734
+Ladakh,Kargil,Soudh,Yokma Akchamal,1411694,j&k bank,akchamal,2020-10-15 10:22:22.010,Transport/Admin,Bank,34.55636111,76.16117545
+Ladakh,Kargil,Bhimbat,Shimsha,1411728,Animal Husbandry,NH 1D,2020-10-02 11:07:15.997,Medical ,Veterinary Hospital,34.50308206,75.96353365
+Ladakh,Leh,Deskit,Partap pore,1411864,panchayat ghar,partap pore,2020-11-04 22:06:29.353,Transport/Admin,Panchayat Headquarter,34.61213,77.446736666667
+Ladakh,Leh,Deskit,Partap pore,1411864,medical sun centre,partap pore,2020-11-04 21:53:49.050,Medical ,Bedded Hospital,34.610768333333,77.454388333333
+Ladakh,Leh,Deskit,Partap pore,1411864,busstand,partap pore,2020-11-04 21:57:37.707,Transport/Admin,Bus Stand,34.610745,77.45473
+Ladakh,Leh,Deskit,Partap pore,1411864,veterinary,partap pore,2020-11-04 21:56:06.550,Medical ,Veterinary Hospital,34.611153333333,77.45479
+Ladakh,Leh,Durbugh,Tagtse,1393019,Block Head Quarter,Tangtse,2020-10-30 18:48:45.300,Transport/Admin,Block Headquarter,34.029592483731,78.16762490101
+Ladakh,Leh,Durbugh,Tagtse,1393019,veterinary Hospital,Tangtse,2020-10-30 18:54:02.060,Medical ,Veterinary Hospital,34.030406297026,78.167528924106
+Ladakh,Leh,Durbugh,Tagtse,1393019,Panchayat Ghar,Tangtse,2020-10-30 18:51:20.657,Transport/Admin,Panchayat Headquarter,34.030804980431,78.167187837526
+Ladakh,Leh,Durbugh,Tagtse,1393019,J&k Bank,Tangtse,2020-10-30 18:46:24.880,Transport/Admin,Bank,34.033071104124,78.168292364112
+Ladakh,Leh,Durbugh,Tagtse,1393019,primary health centres,Tangtse,2020-10-30 19:01:39.650,Medical ,Primary Health Centre,34.033004213785,78.168215046869
+Ladakh,Leh,Durbugh,Tagtse,1393019,Bus Stand,Tangtse,2020-10-30 18:58:47.990,Transport/Admin,Bus Stand,34.030453699847,78.167535787016
+Ladakh,Leh,Durbugh,Tagtse,1393019,Ration store,Tangtse,2020-10-30 18:47:50.447,Agro ,Warehouse,34.032570246258,78.167537366028
+Ladakh,Kargil,Kargil,Lato  Phultuks,1393262,Medical Sub.centre,Latoo,2020-10-19 21:37:33.093,Medical ,Primary Health Centre,34.594608333333,75.97588
+Ladakh,Kargil,Shargole,Khache,1393364,veterinary hospital,khacha,2020-10-06 21:53:47.200,Medical ,Veterinary Hospital,34.38751340962,76.264284201354
+Ladakh,Kargil,Shargole,Khache,1393364,high school,khache,2020-10-06 21:52:46.057,Education ,High School - General,34.387679706744,76.265315680033
+Ladakh,Kargil,Shargole,Khache,1393364,bus stop,khache,2020-10-06 21:55:42.743,Transport/Admin,Bus Stand,34.387502151753,76.260245933167
+Ladakh,Kargil,Shargole,Khache,1393364,bus stand,khache,2020-10-06 21:54:08.053,Transport/Admin,Bus Stand,34.387607540416,76.259340011139
+Ladakh,Kargil,Shargole,Khache,1393364,PHC,khache,2020-10-06 21:53:02.433,Medical ,Primary Health Centre,34.38750238165,76.264993003246
+Ladakh,Kargil,Shargole,Khache,1393364,Food and supply store,khache,2020-10-06 21:55:11.823,Agro ,Warehouse,34.387362905563,76.259718077759
+Ladakh,Kargil,Tai Suru,Tai Suru,1393419,Jammu and Kashmir bank,Taisuru,2020-10-16 05:42:09.980,Transport/Admin,Bank,34.122145,75.953936666667
+Ladakh,Kargil,Tai Suru,Tai Suru,1393419,Tehsildar Office,Taisuru,2020-10-16 05:42:34.400,Transport/Admin,Block Headquarter,34.121648333333,75.9561
+Ladakh,Kargil,Soudh,Darchiks,1411739,primary health centre,darchiks,2020-10-14 10:29:30.867,Medical ,Primary Health Centre,34.63348021,76.37554408
+Ladakh,Kargil,Soudh,Darchiks,1411739,sale house,darchiks,2020-10-14 10:30:24.630,Agro ,Warehouse,34.63494168,76.37349027
+Ladakh,Kargil,Soudh,Tumail,1411746,primary health centre,tumail,2020-10-14 17:13:11.823,Medical ,Primary Health Centre,34.56244611,76.20239736
+Ladakh,Kargil,Soudh,Tumail,1411746,sale house,tumail,2020-10-14 17:12:34.497,Agro ,Warehouse,34.56277145,76.20296593
+Ladakh,Leh,Deskit,Khalsar,1411846,medical sub centre,khalsar,2020-11-04 21:07:12.353,Medical ,Bedded Hospital,34.494285,77.710001666667
+Ladakh,Leh,Deskit,Khalsar,1411846,warehouse,khalsar,2020-11-04 21:05:10.690,Agro ,Warehouse,34.492781666667,77.703708333333
+Ladakh,Leh,Deskit,Khalsar,1411846,busstand,khalsar,2020-11-04 21:03:22.307,Transport/Admin,Bus Stand,34.491815,77.701735
+Ladakh,Leh,Deskit,Rongdo,1411848,warehouse,rongdo,2020-11-05 15:13:34.620,Agro ,Warehouse,34.409378333333,77.784233333333
+Ladakh,Leh,Deskit,Rongdo,1411848,busstand,rongdo,2020-11-05 15:11:31.213,Transport/Admin,Bus Stand,34.40938,77.784238333333
+Ladakh,Leh,Durbugh,Merak,1393008,Ration store,Merak,2020-11-03 11:48:33.730,Agro ,Warehouse,33.79542622,78.59409338
+Ladakh,Leh,Khalsti,Urbis,1393058,medical sub centre,urbis,2020-11-16 10:45:48.760,Medical ,Bedded Hospital,34.394813333333,76.714006666667
+Ladakh,Leh,Kharu,Sasoma,1393076,bus stand,sasoma,2020-11-09 20:50:43.063,Transport/Admin,Bus Stand,33.63951335,77.74335069
+Ladakh,Kargil,Drass,Rambirpur  Drass,1393225,Sub District Hospital,NH 1D,2020-10-03 20:20:55.890,Medical ,Bedded Hospital,34.42980124,75.7545108
+Ladakh,Kargil,Drass,Rambirpur  Drass,1393225,SBI BANK,NH 1D,2020-10-03 20:22:07.320,Transport/Admin,Bank,34.43082539,75.75291298
+Ladakh,Kargil,Drass,Rambirpur  Drass,1393225,Block Development Council,NH 1D,2020-10-03 20:23:14.023,Transport/Admin,Block Headquarter,34.42980606,75.75130087
+Ladakh,Kargil,Drass,Rambirpur  Drass,1393225,Trauma Unit,NH 1D,2020-10-03 20:20:33.423,Medical ,Bedded Hospital,34.4304735,75.75444275
+Ladakh,Kargil,Drass,Rambirpur  Drass,1393225,veterinary hospital,NH 1D,2020-10-03 20:20:06.527,Medical ,Veterinary Hospital,34.43048395,75.75506706
+Ladakh,Kargil,Drass,Rambirpur  Drass,1393225,Sub Divisional Magistrate,NH 1D,2020-10-03 20:21:46.367,Transport/Admin,Block Headquarter,34.42960708,75.75256777
+Ladakh,Kargil,Drass,Rambirpur  Drass,1393225,Ratio Depot,NH 1D,2020-10-02 13:15:53.693,Agro ,Warehouse,34.42889089,75.75255659
+Ladakh,Kargil,Drass,Rambirpur  Drass,1393225,Higher Secondary School,NH 1D,2020-10-03 20:22:28.753,Education ,Higher Secondary School,34.43051446,75.75288789
+Ladakh,Kargil,Shakar Chiktan,Samrah Lungma,1393343,FOOD CIVIL SUPPLIES & CONSUMER AFFAIRS SALE CENTRE,Samrah Dow,2020-10-01 14:36:37.110,Agro ,Collection Centre or Pack House,34.41090839,76.52256835
+Ladakh,Kargil,Shakar Chiktan,Samrah Lungma,1393343,GOVT HIGH SCHOOL,Samrah,2020-10-01 14:36:08.760,Education ,High School - General,34.41080736,76.52228289
+Ladakh,Kargil,Tai Suru,Purtikchay,1393408,NTPHC,Purtikchey,2020-10-16 05:41:20.990,Medical ,Primary Health Centre,34.202045,75.931496666667
+Ladakh,Kargil,Zanaskar,Zangla,1393458,Govt. High School Zangla,Zangla,2020-10-11 22:55:01.837,Education ,High School - General,33.65678867926,76.983716971143
+Ladakh,Kargil,Zanaskar,Zangla,1393458,F.C.I Godown,Zangla,2020-10-11 22:54:51.660,Agro ,Warehouse,33.656810475521,76.992391921439
+Ladakh,Kargil,Zanaskar,Zangla,1393458,PANCHAYAT GHAR ZANGLA,ZANGLA,2020-10-16 16:42:10.337,Transport/Admin,Panchayat Headquarter,33.65833,76.991438333333
+Ladakh,Kargil,Soudh,Gargardoo,1411741,primary health centre,gargardoo,2020-10-14 10:27:11.227,Medical ,Primary Health Centre,34.66084219,76.33368056
+Ladakh,Kargil,Soudh,Gargardoo,1411741,medical sub centre,gargardoo,2020-10-21 18:50:36.010,Medical ,Primary Health Centre,34.66082,76.333668333333
+Ladakh,Kargil,Soudh,Gargardoo,1411741,sale house,gargardoo,2020-10-14 10:28:50.880,Agro ,Warehouse,34.66111353,76.33380716
+Ladakh,Kargil,Soudh,Gargardoo,1411741,store sale centre,gargardoo,2020-10-21 18:50:01.870,Agro ,Warehouse,34.66124,76.334091666667
+Ladakh,Leh,Skurbuchan,Hunu Gongma,1411809,warehouse,hanu gongma,2020-10-16 19:55:31.543,Agro ,Warehouse,34.629016666667,76.629683333333
+Ladakh,Leh,Skurbuchan,Hunu Gongma,1411809,bus stand,hanu gongma,2020-10-16 19:56:26.280,Transport/Admin,Bus Stand,34.628636666667,76.62956
+Ladakh,Leh,Deskit,Largiab,1411859,bus stand yokma,largaib pachathang,2020-11-09 10:56:37.083,Transport/Admin,Bus Stand,34.699811666667,77.14982
+Ladakh,Leh,Deskit,Largiab,1411859,ware house,pachathang,2020-11-05 08:13:30.383,Agro ,Warehouse,34.699958333333,77.149595
+Ladakh,Leh,Durbugh,Chushul,1393002,Veterinary dispensary,Chushul,2020-11-03 11:59:16.010,Medical ,Veterinary Hospital,33.60144493,78.6436704
+Ladakh,Leh,Durbugh,Chushul,1393002,Ration store,Chushul,2020-11-03 11:52:09.730,Agro ,Warehouse,33.60137422,78.64400689
+Ladakh,Leh,Durbugh,Chushul,1393002,Primary Health centre,Chushul,2020-11-03 11:53:50.400,Medical ,Primary Health Centre,33.60144788,78.64244777
+Ladakh,Leh,Durbugh,Chushul,1393002,J&K Bank,Chushul,2020-11-03 11:57:21.120,Transport/Admin,Bank,33.60088031,78.64319728
+Ladakh,Leh,Durbugh,Chushul,1393002,Govt. High school,Chushul,2020-11-03 11:50:14.700,Education ,High School - General,33.70727328,78.63637753
+Ladakh,Leh,Durbugh,Chushul,1393002,Panchayat Headquarter,Chushul,2020-11-03 11:55:11.523,Transport/Admin,Panchayat Headquarter,33.60068533,78.64344122
+Ladakh,Leh,Kharu,Sharangs,1393095,bus stand,sharnoz,2020-11-09 20:48:15.880,Transport/Admin,Bus Stand,33.77248687,77.89133244
+Ladakh,Kargil,Sankoo,Thuina Komotul,1393302,collection centre,Thuina,2020-10-05 13:09:38.490,Agro ,Collection Centre or Pack House,34.37677732,75.97454251
+Ladakh,Kargil,Sankoo,Thuina Komotul,1393302,Medical Centre,Thuina,2020-10-05 13:09:25.037,Medical ,Primary Health Centre,34.359102845192,75.97167134285
+Ladakh,Kargil,Bhimbat,Thasgam,1411729,high school,NH 1D,2020-10-02 11:07:59.037,Education ,High School - General,34.47366056,75.93321556
+Ladakh,Kargil,Bhimbat,Thasgam,1411729,sheep husbandry,NH 1D,2020-10-02 11:08:30.093,Medical ,Veterinary Hospital,34.47271767,75.93278189
+Ladakh,Kargil,Soudh,Batalik,1411736,j&k bank,batalik,2020-10-14 11:18:09.790,Transport/Admin,Bank,34.6554567,76.34109606
+Ladakh,Kargil,Soudh,Batalik,1411736,sale centre,batalik,2020-10-14 11:19:00.073,Agro ,Warehouse,34.6547507,76.34144436
+Ladakh,Kargil,Soudh,Batalik,1411736,NTPHC,batalik,2020-10-14 11:17:07.243,Medical ,Bedded Hospital,34.65549739,76.34094818
+Ladakh,Leh,Skurbuchan,Achinathang,1411822,govt. high school,achinathang,2020-10-16 20:02:17.673,Education ,High School - General,34.50397,76.631495
+Ladakh,Leh,Skurbuchan,Achinathang,1411822,bus stop,achinathang,2020-10-16 20:02:54.393,Transport/Admin,Bus Stand,34.505093333333,76.625496666667
+Ladakh,Leh,Skurbuchan,Achinathang,1411822,warehouse,achinathang,2020-10-16 20:04:28.807,Agro ,Warehouse,34.504098333333,76.634173333333
+Ladakh,Leh,Panamic,Burma,1411836,Warehouse,Burma,2020-11-04 19:37:13.883,Agro ,Warehouse,34.63048738,77.57119251
+Ladakh,Leh,Panamic,Burma,1411836,Bus stand,Burma,2020-11-04 19:38:15.820,Transport/Admin,Bus Stand,34.63044323,77.57124134
+Ladakh,Kargil,Lotsum,LoCHUM,1411922,PANCHAYAT Headquaters,Lotsum,2020-10-06 21:48:47.827,Transport/Admin,Panchayat Headquarter,34.467931800885,76.254835305278
+Ladakh,Kargil,Lotsum,LoCHUM,1411922,collection and sale centre,lochum,2020-10-20 18:48:03.167,Agro ,Collection Centre or Pack House,34.466759786846,76.254459204553
+Ladakh,Kargil,Lotsum,LoCHUM,1411922,High school,lotsum,2020-10-06 21:49:32.380,Education ,High School - General,34.468760901319,76.255571242512
+Ladakh,Kargil,Lotsum,LoCHUM,1411922,bus stop,lochum,2020-10-20 18:47:38.493,Transport/Admin,Bus Stand,34.46639309116,76.253070247696
+Ladakh,Kargil,Lotsum,LoCHUM,1411922,block development officer,lochum,2020-10-20 18:48:51.557,Transport/Admin,Block Headquarter,34.469090369374,76.255959961296
+Ladakh,Kargil,Lotsum,LoCHUM,1411922,PHC,Lotsum,2020-10-06 21:21:06.213,Medical ,Primary Health Centre,34.467625982404,76.255378924958
+Ladakh,Leh,Nyoma,Koyul,1393191,ration store,koyul,2020-11-02 14:01:40.677,Agro ,Warehouse,32.87950755,79.19634101
+Ladakh,Leh,Nyoma,Koyul,1393191,PHC,koyul,2020-11-05 07:25:40.343,Medical ,Primary Health Centre,32.879726,79.19661711
+Ladakh,Leh,Nyoma,Koyul,1393191,Bank,koyul,2020-11-02 14:01:20.363,Transport/Admin,Bank,32.87978218,79.19664397
+Ladakh,Kargil,Bhimbat,Kharboo mohallah,1411725,Animal Husbandry,NH 1D,2020-10-02 11:05:48.260,Medical ,Veterinary Hospital,34.54103229,75.99198424
+Ladakh,Kargil,Bhimbat,Kharboo mohallah,1411725,High school,NH 1D,2020-10-02 11:06:23.460,Education ,High School - General,34.53908713,75.99202917
+Ladakh,Kargil,Bhimbat,Kharboo village,1411726,health sub center,NH 1D,2020-10-02 11:05:01.893,Medical ,Primary Health Centre,34.53740118,75.98725992
+Ladakh,Kargil,Bhimbat,Kharboo village,1411726,warehouse,NH 1D,2020-10-10 14:56:10.573,Agro ,Warehouse,34.53179493,75.98780032
+Ladakh,Leh,Skurbuchan,SkurBuchan,1411825,Warehouse,Skurbuchan,2020-10-17 17:03:33.540,Agro ,Warehouse,34.427766557783,76.720873005688
+Ladakh,Leh,Skurbuchan,SkurBuchan,1411825,J&K Bank,Skurbuchan,2020-10-17 17:04:47.693,Transport/Admin,Bank,34.430821300484,76.71838844195
+Ladakh,Leh,Skurbuchan,SkurBuchan,1411825,lifestock dev. centre,skurbuchan,2020-10-17 17:03:50.960,Medical ,Veterinary Hospital,34.425873333333,76.722981666667
+Ladakh,Leh,Skurbuchan,SkurBuchan,1411825,mandi,skurbuchan,2020-10-17 17:05:14.663,Agro ,Mandi (Notified),34.434995,76.71117
+Ladakh,Leh,Skurbuchan,SkurBuchan,1411825,govt. higher secondary school,skurbuchan,2020-10-17 17:01:30.120,Education ,Higher Secondary School,34.425043333333,76.724721666667
+Ladakh,Leh,Skurbuchan,SkurBuchan,1411825,community health centre,skurbuchan,2020-10-17 17:02:09.977,Medical ,Community Health Centre,34.434836666667,76.712648333333
+Ladakh,Leh,Skurbuchan,SkurBuchan,1411825,panchayat headquarter,skurbuchan,2020-10-17 17:04:44.210,Transport/Admin,Panchayat Headquarter,34.425616666667,76.723305
+Ladakh,Leh,Turtuk,Chulungkha,1411840,warehouse,chulungkha,2020-11-05 08:26:48.200,Agro ,Warehouse,34.824561666667,76.937241666667
+Ladakh,Leh,Turtuk,Chulungkha,1411840,bus stand,chulungkha,2020-11-05 08:27:32.610,Transport/Admin,Bank,34.821386666667,76.935516666667
+Ladakh,Leh,Turtuk,Chulungkha,1411840,medical sub centre,chulungkha,2020-11-05 08:25:08.660,Transport/Admin,Bus Stand,34.821126666667,76.935813333333
+Ladakh,Leh,Turtuk,Turtok,1411875,warehouse,turtuk,2020-11-05 08:20:59.790,Agro ,Warehouse,34.847885,76.830915
+Ladakh,Leh,Turtuk,Turtok,1411875,jk bank,turtuk,2020-11-05 08:20:37.350,Transport/Admin,Bank,34.848465,76.830735
+Ladakh,Leh,Turtuk,Turtok,1411875,panchayat ghar,turtuk,2020-11-05 08:22:22.160,Transport/Admin,Panchayat Headquarter,34.848111666667,76.831336666667
+Ladakh,Leh,Turtuk,Turtok,1411875,LDC,turtuk,2020-11-05 08:21:31.100,Medical ,Veterinary Hospital,34.845405,76.832978333333
+Ladakh,Leh,Turtuk,Turtok,1411875,busstand,turtuk,2020-11-05 08:22:08.027,Transport/Admin,Bus Stand,34.848176666667,76.830776666667
+Ladakh,Leh,Turtuk,Turtok,1411875,ISD,turtuk,2020-11-05 08:21:50.227,Transport/Admin,Panchayat Headquarter,34.848538333333,76.831333333333
+Ladakh,Leh,Turtuk,Turtok,1411875,govt. hr sec school,turtuk,2020-11-05 08:20:14.900,Education ,Higher Secondary School,34.848193333333,76.830256666667
+Ladakh,Leh,Turtuk,Turtok,1411875,PHC,turtuk,2020-11-05 08:21:15.010,Medical ,Primary Health Centre,34.848093333333,76.83167
+Ladakh,Kargil,Sankoo,Itchoo,1393292,govt H school itchoo barsoo,itchoo barsoo sanko,2020-11-13 08:33:17.333,Education ,High School - General,34.19880702,76.21417776
+Ladakh,Kargil,Sankoo,Itchoo,1393292,collection centre,itchoo barsoo,2020-11-13 08:32:13.443,Agro ,Collection Centre or Pack House,34.19975818,76.21360495
+Ladakh,Kargil,Sankoo,Itchoo,1393292,tourism deprmnt,itchoo shargandi sankoo,2020-11-13 08:26:15.353,Transport/Admin,Panchayat Headquarter,34.21578046,76.15647358
+Ladakh,Kargil,Sankoo,Itchoo,1393292,medical sub centre,itchoo barsoo sankoo,2020-11-13 08:31:11.593,Medical ,Primary Health Centre,34.19970127,76.21343901
+Ladakh,Kargil,Shargole,Wakha,1393391,PANCHAYAT Headquaters,wakha,2020-10-06 22:10:44.133,Transport/Admin,Panchayat Headquarter,34.374925646006,76.396728466272
+Ladakh,Kargil,Shargole,Wakha,1393391,veterinary hospital,wakha,2020-10-06 22:10:05.750,Medical ,Veterinary Hospital,34.383224312991,76.393624781821
+Ladakh,Kargil,Shargole,Wakha,1393391,food and supply store,wakha,2020-10-06 22:12:23.977,Agro ,Warehouse,34.370876158292,76.392556091097
+Ladakh,Kargil,Shargole,Wakha,1393391,fuel station,wakha,2020-10-06 22:10:24.453,Transport/Admin,Fuel Station,34.371161436253,76.388189269166
+Ladakh,Kargil,Shargole,Wakha,1393391,bus stand,wakha,2020-10-06 22:11:02.120,Transport/Admin,Bus Stand,34.374644587074,76.394572559133
+Ladakh,Kargil,Shargole,Wakha,1393391,High school,wakha,2020-10-06 22:09:42.360,Education ,High School - General,34.375167744882,76.385427153816
+Ladakh,Leh,Skurbuchan,Kachey Thang,1411826,bus stand,kachey thang,2020-10-17 17:07:27.570,Transport/Admin,Bus Stand,34.435221666667,76.704098333333
+Ladakh,Leh,Skurbuchan,Kachey Thang,1411826,ware house,kachey thang,2020-10-17 17:06:51.070,Agro ,Warehouse,34.435095,76.704001666667
+Ladakh,Leh,Durbugh,Chibra,1393001,Ration store,Chibra,2020-11-03 13:06:20.740,Agro ,Warehouse,33.90768019,78.26341722
+Ladakh,Leh,Durbugh,Khakthak,1393005,Bus Stand,Khakted,2020-10-23 17:32:39.333,Transport/Admin,Bus Stand,33.77139112,78.61966848
+Ladakh,Leh,Durbugh,Khakthak,1393005,Ration store,Khakted,2020-10-23 13:05:03.587,Agro ,Warehouse,33.77152081,78.61992958
+Ladakh,Leh,Durbugh,Spangmik,1393010,Ration store,Spangmik,2020-11-03 11:25:18.753,Agro ,Warehouse,33.90897563,78.45673216
+Ladakh,Leh,Nimoo,Umla,1411798,ladakh coperative fuels petrol pump,near gurudwara pathar sahib,2020-10-15 18:54:57.493,Transport/Admin,Fuel Station,34.18373,77.362021666667
+Ladakh,Leh,Panamic,Aranu Yokma Gongma,1411853,Warehouse aranu yokma,Aranu yokma,2020-11-04 19:16:51.247,Agro ,Warehouse,34.86525266,77.46885423
+Ladakh,Leh,Panamic,Aranu Yokma Gongma,1411853,Warehouse,Aranu,2020-11-04 19:13:18.627,Agro ,Warehouse,34.88021333,77.46614593
+Ladakh,Leh,Panamic,Aranu Yokma Gongma,1411853,Bus stand,Aranu,2020-11-04 19:14:17.287,Transport/Admin,Bus Stand,34.8801766,77.46613268
+Ladakh,Kargil,Pashkum,Zgang,1411930,bus stand,zgang,2020-10-20 18:41:00.387,Transport/Admin,Bus Stand,34.512783199542,76.193571582431
+Ladakh,Kargil,Pashkum,Zgang,1411930,girls high school,zgang pashkum,2020-10-20 18:40:37.790,Education ,High School - Girls,34.514494817453,76.194672194429
+Ladakh,Kargil,TSG,Baroo village,1412051,Sheep husbandry,Baroo kargil,2020-10-21 18:47:55.950,Medical ,Veterinary Hospital,34.541121666667,76.139333333333
+Ladakh,Kargil,TSG,Baroo village,1412051,Sale centre baroo kargil,Baroo,2020-10-21 18:46:51.280,Agro ,Warehouse,34.541835,76.140495
+Ladakh,Kargil,TSG,Baroo village,1412051,J&K Bank ( Branch Baroo ) kargil,Baroo,2020-10-15 23:44:54.063,Transport/Admin,Bank,34.541108333333,76.14057
+Ladakh,Kargil,TSG,Baroo village,1412051,Munshi Habibullah  Mission higher secondary school kargil,Baroo kargil,2020-10-21 12:50:38.527,Education ,Higher Secondary School,34.558335,76.126616666667
+Ladakh,Kargil,TSG,Baroo village,1412051,Sale centre Baroo colony,Baroo kargil,2020-10-21 18:47:28.213,Agro ,Warehouse,34.541411666667,76.140383333333
+Ladakh,Leh,Deskit,Odmarroo,1411860,SWDC,udmaru,2020-11-05 08:19:41.923,Medical ,Veterinary Hospital,34.703236666667,77.269191666667
+Ladakh,Leh,Deskit,Odmarroo,1411860,panchayat ghar,urmaru,2020-11-05 08:18:36.183,Transport/Admin,Panchayat Headquarter,34.698203333333,77.28144
+Ladakh,Leh,Khalsti,Leido,1393040,bus stand,lehdo,2020-10-17 16:58:27.647,Transport/Admin,Bus Stand,34.434761666667,76.690318333333
+Ladakh,Leh,Khalsti,Leido,1393040,bus stop,leido,2020-10-17 16:59:48.823,Transport/Admin,Bus Stand,34.443605,76.683798333333
+Ladakh,Leh,Khalsti,Leido,1393040,warehouse,leido,2020-10-17 17:00:46.353,Agro ,Warehouse,34.445485,76.681566666667
+Ladakh,Leh,Khalsti,Takmachik,1393057,Warehouse,Takmachik,2020-10-17 17:10:49.227,Agro ,Warehouse,34.380801455118,76.762750335038
+Ladakh,Leh,Khalsti,Takmachik,1393057,Livestock Dev. Centre,Takmachik,2020-10-17 17:10:02.303,Medical ,Veterinary Hospital,34.38207026571,76.761489612982
+Ladakh,Leh,Khalsti,Takmachik,1393057,bus stand,takmachik,2020-10-17 17:10:18.897,Transport/Admin,Bus Stand,34.381553333333,76.761401666667
+Ladakh,Leh,Khalsti,Takmachik,1393057,panchayat ghar,takmachik,2020-10-17 17:09:47.520,Transport/Admin,Panchayat Headquarter,34.382435,76.760985
+Ladakh,Kargil,Sankoo,Bemalsa,1393308,BDO OFFICE,barsoo,2020-10-04 11:51:34.330,Transport/Admin,Block Headquarter,34.25596093,76.0471186
+Ladakh,Kargil,Soudh,Garkon,1411742,sale house,garkon,2020-10-14 10:30:57.693,Agro ,Warehouse,34.63548049,76.44585321
+Ladakh,Kargil,Soudh,Garkon,1411742,garkone,govt high school,2020-10-14 10:32:22.943,Education ,High School - General,34.63447174,76.44204571
+Ladakh,Kargil,Soudh,Garkon,1411742,primary health centre,garkone,2020-10-14 10:33:52.723,Medical ,Primary Health Centre,34.63481058,76.44025539
+Ladakh,Leh,Deskit,Tirchy,1411874,ware house,tirchy,2020-11-04 21:15:59.713,Agro ,Warehouse,34.662478333333,77.324831666667
+Ladakh,Leh,Deskit,Tirchy,1411874,medical sub centre,tirchy,2020-11-04 21:13:42.747,Medical ,Bedded Hospital,34.662273333333,77.325528333333
+Ladakh,Leh,Deskit,Tirchy,1411874,jk bank,tirchy,2020-11-04 21:20:13.640,Transport/Admin,Bank,34.662533333333,77.324313333333
+Ladakh,Leh,Deskit,Tirchy,1411874,panchayat garh,tirchy,2020-11-04 21:18:28.350,Transport/Admin,Panchayat Headquarter,34.662336666667,77.324215
+Ladakh,Leh,Deskit,Tirchy,1411874,busstand,tirchy,2020-11-04 21:22:36.147,Transport/Admin,Bus Stand,34.662343333333,77.324123333333
+Ladakh,Leh,Rong,Tarchit,1411891,PHC,Tarchit,2020-11-02 14:17:56.410,Medical ,Primary Health Centre,33.69932621,77.94177862
+Ladakh,Kargil,TSG,G  Trespone,1412064,PH CENTRE,trespone,2020-10-09 14:29:11.157,Medical ,Primary Health Centre,34.42247328,76.04542022
+Ladakh,Leh,Nyoma,Demjok,1393184,CHC,demjok,2020-11-05 07:26:08.837,Medical ,Community Health Centre,32.69767942,79.44979454
+Ladakh,Leh,Nyoma,Demjok,1393184,PHC,Demjok,2020-11-02 14:03:28.973,Medical ,Community Health Centre,32.69764702,79.44983418
+Ladakh,Kargil,Shakar Chiktan,Isgang Chiktan,1393333,BUS LAYBY,ZGANG CHIKTAN,2020-10-01 20:50:00.530,Transport/Admin,Bus Stand,34.46572,76.51476314
+Ladakh,Kargil,Shakar Chiktan,Isgang Chiktan,1393333,BUS STOP,Chiktan,2020-10-01 14:46:55.117,Transport/Admin,Bus Stand,34.45999299,76.5180121
+Ladakh,Kargil,Shakar Chiktan,Isgang Chiktan,1393333,FOOD CIVIL SUPPLIES & CONSUMER AFFAIRS RATION STORE,Zgang Chiktan,2020-10-01 20:35:31.660,Agro ,Warehouse,34.46211699,76.51612255
+Ladakh,Kargil,Shakar Chiktan,Isgang Chiktan,1393333,HORTICULTURE FARM,ZGANG CHIKTAN,2020-10-01 20:46:23.987,Agro ,Agro Industry,34.46422377,76.51523642
+Ladakh,Kargil,Shakar Chiktan,Khangral,1393350,NT PRIMARY HEALTH CENTRE,Khangral,2020-10-01 12:12:42.443,Medical ,Primary Health Centre,34.37587746,76.52416603
+Ladakh,Kargil,Shakar Chiktan,Khangral,1393350,Bus Stop,Stakchey Khangral,2020-10-01 11:51:47.417,Transport/Admin,Bus Stand,34.37593979,76.52289348
+Ladakh,Kargil,Shakar Chiktan,Khangral,1393350,Halqa Panchayat,Khangral NH1,2020-10-01 12:00:57.840,Transport/Admin,Panchayat Headquarter,34.3759706,76.52326425
+Ladakh,Kargil,Shakar Chiktan,Khangral,1393350,Govt High School Khangral,Khangral,2020-10-01 12:07:44.853,Education ,High School - General,34.37541067,76.525063
+Ladakh,Kargil,Zanaskar,Stongsday,1393452,RATION SALE CENTRE,STONGSDAY,2020-10-16 16:37:39.917,Agro ,Warehouse,33.516925,76.97076
+Ladakh,Kargil,Zanaskar,Stongsday,1393452,PANCHAYAT GHAR STONGDAY,STONGDAY,2020-10-17 10:44:47.780,Transport/Admin,Panchayat Headquarter,33.524145,76.970278333333
+Ladakh,Kargil,Zanaskar,Stongsday,1393452,N.T.P.H.C,STONGSDAY,2020-10-16 16:39:46.777,Medical ,Primary Health Centre,33.522176666667,76.981438333333
+Ladakh,Leh,Singay Lalok Wanla,Photoksar,1411819,Panchayat Ghar,Fotoksar,2020-10-28 22:04:06.100,Transport/Admin,Panchayat Headquarter,34.07128429,76.82868395
+Ladakh,Leh,Singay Lalok Wanla,Photoksar,1411819,Ration Store,Fotoksar,2020-10-29 12:11:58.037,Agro ,Warehouse,34.0726441,76.82609214
+Ladakh,Leh,Singay Lalok Wanla,Photoksar,1411819,Bus Stop,Fotoksar,2020-10-28 22:01:51.073,Transport/Admin,Bus Stand,34.07060263,76.83019408
+Ladakh,Kargil,LUNGNAK,Raru,1411951,PANCHAYAT GHAR RARU MUNEY,RARU,2020-10-31 17:41:13.123,Transport/Admin,Panchayat Headquarter,33.332633333333,76.969418333333
+Ladakh,Kargil,LUNGNAK,Raru,1411951,F. C. I SALE CENTRE RARU,RARU,2020-10-31 17:46:16.140,Agro ,Warehouse,33.332426666667,76.969638333333
+Ladakh,Leh,Durbugh,Durbok,1392994,Bus stop,Durbok,2020-11-03 11:03:31.093,Transport/Admin,Bus Stand,34.08725568,78.12357941
+Ladakh,Leh,Durbugh,Durbok,1392994,Panchayat Headquarter,Durbok,2020-11-03 11:16:26.180,Transport/Admin,Panchayat Headquarter,34.08613058,78.12300438
+Ladakh,Leh,Durbugh,Durbok,1392994,Veterinary dispensary,Durbuk,2020-11-03 11:11:33.710,Medical ,Veterinary Hospital,34.10200748,78.11942006
+Ladakh,Leh,Durbugh,Durbok,1392994,Ration store,Durbok,2020-11-03 11:14:02.570,Agro ,Warehouse,34.08606271,78.12273939
+Ladakh,Leh,Kharu,Shara,1393094,"Govt High School, Shara",Shara,2020-10-19 20:59:04.610,Education ,High School - General,33.77914546,77.89364896
+Ladakh,Leh,Kharu,Shara,1393094,govt high school shara,shara,2020-11-09 20:48:37.180,Education ,High School - General,33.77915156,77.89357862
+Ladakh,Leh,Kharu,Upshi,1393096,PHC,upshi,2020-11-09 20:48:57.977,Medical ,Primary Health Centre,33.81803594,77.82086975
+Ladakh,Leh,Kharu,Upshi,1393096,bank,upshi,2020-11-09 20:50:02.550,Transport/Admin,Bank,33.82896072,77.81547438
+Ladakh,Kargil,Soudh,Chulichan,1411737,sale centre,chulichan,2020-10-14 11:15:31.120,Agro ,Warehouse,34.66238926,76.31367424
+Ladakh,Kargil,Soudh,Chulichan,1411737,primary health care,chulichan,2020-10-14 10:36:11.017,Medical ,Primary Health Centre,34.66203234,76.31294676
+Ladakh,Kargil,Soudh,Chulichan,1411737,sale house,chulichan,2020-10-14 10:35:31.063,Agro ,Warehouse,34.66231558,76.31389264
+Ladakh,Kargil,Soudh,Lhalung,1411744,govt high school,lhalung,2020-10-11 12:42:08.540,Education ,High School - General,34.59017196,76.29360965
+Ladakh,Kargil,Soudh,Lhalung,1411744,primary health centre,lhalung,2020-10-14 10:23:43.283,Medical ,Primary Health Centre,34.59026079,76.30013663
+Ladakh,Kargil,Soudh,Lhalung,1411744,sale house,lhalung,2020-10-11 12:43:48.233,Agro ,Warehouse,34.59024406,76.29360191
+Ladakh,Leh,Singay Lalok Wanla,Hanupata,1411814,Bus Stand,Hanupata,2020-10-29 12:20:49.160,Transport/Admin,Bus Stand,34.16106481,76.84145505
+Ladakh,Leh,Panamic,Chamshan,1411837,Bus stand,Chamshan,2020-11-04 20:12:12.680,Transport/Admin,Bus Stand,34.67668209,77.58869454
+Ladakh,Leh,Panamic,Chamshan,1411837,warehouse,Chamshan,2020-11-04 20:13:07.540,Agro ,Warehouse,34.67664523,77.58879321
+Ladakh,Leh,Panamic,Chamshan,1411837,Sheep & Wool Dev. Centre,Chamshen,2020-11-04 20:14:10.283,Medical ,Veterinary Hospital,34.67361399,77.58241271
+Ladakh,Leh,Nyoma,Nidder,1393198,ration store,Nidder,2020-11-02 14:11:30.660,Agro ,Warehouse,33.16362444,78.60857689
+Ladakh,Leh,Nyoma,Nidder,1393198,PHC,Nidder,2020-11-02 14:11:17.347,Medical ,Primary Health Centre,33.16390291,78.60887139
+Ladakh,Kargil,Shakar Chiktan,Hagnis,1393334,GOVT HIGH SCHOOL,HAGNIS,2020-10-01 20:31:56.253,Education ,High School - General,34.48972042,76.48969275
+Ladakh,Kargil,Shakar Chiktan,Hagnis,1393334,FOOD CIVIL SUPPLIES & CONSUMER AFFAIRS SALE CENTRE,HAGNIS LUNGMA,2020-10-01 20:43:27.460,Agro ,Collection Centre or Pack House,34.48245903,76.47859602
+Ladakh,Kargil,Shakar Chiktan,Hagnis,1393334,VETERINARY CENTRE,HAGNIS LUNGMA,2020-10-01 20:44:27.843,Medical ,Veterinary Hospital,34.4826284,76.47898507
+Ladakh,Kargil,Shakar Chiktan,Hagnis,1393334,HALQA PANCHAYAT,Hagnis,2020-10-01 20:30:47.787,Transport/Admin,Panchayat Headquarter,34.48903338,76.49124303
+Ladakh,Kargil,Shakar Chiktan,Shakar village,1393349,HALQA PANCHAYAT,Shakrdoo,2020-10-01 20:28:32.610,Transport/Admin,Panchayat Headquarter,34.51122074,76.49435077
+Ladakh,Kargil,Shakar Chiktan,Shakar village,1393349,STATE BANK OF INDIA,SHAKER,2020-10-01 20:25:23.730,Transport/Admin,Bank,34.50765176,76.45528917
+Ladakh,Kargil,Shakar Chiktan,Shakar village,1393349,NTPHC,SHAKAR,2020-10-01 20:26:42.847,Medical ,Primary Health Centre,34.50779136,76.45643898
+Ladakh,Kargil,Shakar Chiktan,Shakar village,1393349,BLOCK DEVELOPMENT OFFICE,Shakar,2020-10-01 20:24:18.693,Transport/Admin,Block Headquarter,34.508148,76.4550767
+Ladakh,Kargil,Shakar Chiktan,Shakar village,1393349,GOVT HIGHER SECONDARY SCHOOL,SHAKAR,2020-10-01 16:35:48.270,Education ,Higher Secondary School,34.50496424,76.45782938
+Ladakh,Leh,Singay Lalok Wanla,Ursi,1411818,Bus Stand,Ursi,2020-10-18 17:11:11.347,Transport/Admin,Bus Stand,34.215716645122,76.893188757822
+Ladakh,Leh,Singay Lalok Wanla,Ursi,1411818,Warehouse,Ursi,2020-10-18 17:12:51.393,Agro ,Warehouse,34.216399141587,76.894711665809
+Ladakh,Leh,Rupsho,Kharnak,1411884,bus stand,kharnak,2020-10-17 20:45:06.143,Transport/Admin,Bus Stand,33.51000801,77.50650078
+Ladakh,Kargil,TSG,Tambis,1411918,primary health care centre,tambis sanko,2020-10-09 20:45:03.247,Medical ,Primary Health Centre,34.40905795,76.0473965
+Ladakh,Kargil,TSG,Tambis,1411918,collection centre,shagaran tambis sankoo,2020-10-09 21:01:39.883,Agro ,Collection Centre or Pack House,34.40873789,76.04719677
+Ladakh,Kargil,TSG,Tambis,1411918,govt.high school,tambis sanko,2020-10-09 16:19:27.147,Education ,High School - General,34.40973953,76.04738496
+Ladakh,Kargil,Lotsum,Tacha,1411933,government high school,tacha,2020-10-20 18:42:10.400,Education ,High School - General,34.49408943788,76.308623868659
+Ladakh,Kargil,Lotsum,Tacha,1411933,medical sub centre,tacha,2020-10-20 18:46:28.590,Medical ,Primary Health Centre,34.493373684448,76.314283019833
+Ladakh,Kargil,Lotsum,Tacha,1411933,bus stop,tacha,2020-10-20 18:47:07.557,Transport/Admin,Bus Stand,34.493144611932,76.314454710499
+Ladakh,Kargil,Lotsum,Tacha,1411933,food and supply store,tacha,2020-10-20 18:43:26.163,Agro ,Warehouse,34.494217422365,76.311752437955
+Ladakh,Kargil,Lotsum,Tacha,1411933,bus stand,tacha,2020-10-20 18:44:34.417,Transport/Admin,Bus Stand,34.494205726515,76.312014574424
+Ladakh,Kargil,Lotsum,Tacha,1411933,PANCHAYAT ghar,tacha,2020-10-20 18:42:52.900,Transport/Admin,Panchayat Headquarter,34.493792227637,76.307611730864
+Ladakh,Kargil,Lotsum,Skamboo,1411931,Bus stand,Skamboo,2020-10-06 21:52:11.520,Transport/Admin,Bus Stand,34.461154914225,76.239060300081
+Ladakh,Kargil,Lotsum,Skamboo,1411931,Food and supply,skamboo,2020-10-06 21:50:43.277,Agro ,Warehouse,34.459602359355,76.243619710629
+Ladakh,Kargil,TSG,Minji,1412056,medical centre,minjee,2020-10-10 08:50:31.027,Medical ,Primary Health Centre,34.47623989,76.08417244
+Ladakh,Kargil,TSG,Minji,1412056,Apna panchayat ghar,minjee,2020-10-10 08:51:49.247,Transport/Admin,Panchayat Headquarter,34.48702275753,76.104746460915
+Ladakh,Kargil,TSG,Minji,1412056,FOOD CIVIL SUPPLIES centre,minjee,2020-10-10 08:51:19.120,Agro ,Collection Centre or Pack House,34.48842982,76.10176792
+Ladakh,Kargil,TSG,Minji,1412056,govt. high school,minjee,2020-10-10 08:53:09.333,Education ,High School - General,34.488449692726,76.10176384449
+Ladakh,Kargil,TSG,Minji,1412056,unity public school,minjee,2020-10-10 08:49:47.240,Education ,High School - General,34.47623989,76.08417244
+Ladakh,Kargil,TSG,Minji,1412056,food civil supplies,gund,2020-10-10 08:52:03.390,Agro ,Collection Centre or Pack House,34.492435455322,76.111248135567
+Ladakh,Kargil,Zanaskar,Padum,1393436,Tourist reception centre,Padum zanskar,2020-10-11 20:38:56.113,Transport/Admin,Block Headquarter,33.478190108166,76.874271982031
+Ladakh,Kargil,Zanaskar,Padum,1393436,Office of Tehsildar  Zanskar,Padum,2020-10-11 22:54:19.087,Transport/Admin,Block Headquarter,33.463469468207,76.883613621665
+Ladakh,Kargil,Soudh,Grong,1411695,vet hospital,grong choskore,2020-10-12 19:22:17.353,Medical ,Veterinary Hospital,34.46562094,76.11798888
+Ladakh,Kargil,Soudh,Grong,1411695,collection centre,grong choskore,2020-10-12 19:26:31.307,Agro ,Collection Centre or Pack House,34.46653279,76.12370534
+Ladakh,Kargil,Soudh,Grong,1411695,Apna panchayat ghar,choskore,2020-10-12 19:21:16.540,Transport/Admin,Panchayat Headquarter,34.45220102,76.12846251
+Ladakh,Kargil,Soudh,Grong,1411695,bus stand,grong choskore,2020-10-12 19:27:37.620,Transport/Admin,Bus Stand,34.4665124,76.12372017
+Ladakh,Kargil,Soudh,Grong,1411695,govt high school,grong choskore,2020-10-12 19:22:50.073,Education ,High School - General,34.46564702,76.12140423
+Ladakh,Kargil,Soudh,Grong,1411695,new primary health centre,groung choskore,2020-10-12 19:23:38.257,Transport/Admin,Panchayat Headquarter,34.4657635,76.12167702
+Ladakh,Kargil,TSG,G M  PORE,1411756,Govt.Girls High School,G.M.Pore,2020-10-09 14:26:00.183,Education ,High School - Girls,34.41425624,76.02725133
+Ladakh,Kargil,TSG,G M  PORE,1411756,bus stop,g m pore sankoo,2020-10-09 14:51:49.833,Transport/Admin,Bus Stand,34.41669296,76.02491441
+Ladakh,Kargil,TSG,G M  PORE,1411756,collection centre,G M PORE sankoo,2020-10-09 14:52:39.030,Agro ,Collection Centre or Pack House,34.40694715,76.03925857
+Ladakh,Kargil,TSG,G M  PORE,1411756,Medical Sub Centre,G.M.Pore,2020-10-09 14:25:44.527,Medical ,Primary Health Centre,34.41425596,76.02716598
+Ladakh,Leh,Deskit,Tanyar,1411870,busstand,tanyar,2020-11-05 14:54:30.213,Transport/Admin,Bus Stand,34.252535,77.872385
+Ladakh,Leh,Deskit,Tanyar,1411870,warehouse,tanyar,2020-11-05 14:56:39.920,Agro ,Warehouse,34.252615,77.872686666667
+Ladakh,Leh,Rong,Kungiam,1411888,PHC,kungiam,2020-11-02 13:54:48.610,Medical ,Primary Health Centre,33.64370689,78.11387581
+Ladakh,Leh,Rong,Kungiam,1411888,Panchayat halqa,kungiam,2020-11-02 13:54:20.923,Transport/Admin,Panchayat Headquarter,33.62323146,78.09799662
+Ladakh,Leh,Rong,Kungiam,1411888,community hall,kungiam,2020-11-02 13:56:46.470,Agro ,Warehouse,33.64460763,78.11357714
+Ladakh,Leh,Turtuk,Bogdang,1411835,Govt. Hr. Sec. School,Bogdang,2020-11-04 18:49:31.177,Education ,Higher Secondary School,34.80419382,77.03644821
+Ladakh,Leh,Turtuk,Bogdang,1411835,Bus stand Changmar,Changmar,2020-11-04 18:55:09.963,Transport/Admin,Bus Stand,34.76661648,77.12450792
+Ladakh,Leh,Turtuk,Bogdang,1411835,panchayat ghar,bogdang b,2020-11-05 09:01:23.973,Transport/Admin,Panchayat Headquarter,34.802873333333,77.031566666667
+Ladakh,Kargil,Kargil,Majdas,1411993,Sale centre,Majidas,2020-10-21 15:33:11.877,Agro ,Warehouse,34.61251,76.044921666667
+Ladakh,Kargil,TSG,Faroona,1412058,collecyion centre,faroona,2020-10-05 13:09:04.147,Agro ,Collection Centre or Pack House,34.324716925621,75.958861112595
+Ladakh,Leh,Nyoma,Rongo,1393179,phc,rongo,2020-11-02 14:06:56.410,Medical ,Primary Health Centre,33.11412375,78.83564787
+Ladakh,Leh,Nyoma,Mood,1393197,Ration store,Mood,2020-11-02 14:09:22.567,Agro ,Warehouse,33.20182172,78.69494153
+Ladakh,Leh,Nyoma,Mood,1393197,PHC,Mood,2020-11-02 14:07:22.130,Medical ,Primary Health Centre,33.20011126,78.69508203
+Ladakh,Leh,Saspol,GeramanGu,1411806,Ration Store,Mangue,2020-11-04 10:29:49.473,Agro ,Warehouse,34.23340442,77.04899203
+Ladakh,Leh,Saspol,GeramanGu,1411806,Bank,Mangue,2020-11-04 10:30:48.400,Transport/Admin,Bank,34.23306673,77.04883055
+Ladakh,Leh,Saspol,GeramanGu,1411806,Bus Stand,Mangue,2020-11-04 10:29:37.990,Transport/Admin,Bus Stand,34.23356517,77.04871593
+Ladakh,Leh,Saspol,GeramanGu,1411806,Panchayat Headquarter,Mangue,2020-11-04 10:30:07.553,Transport/Admin,Panchayat Headquarter,34.23310088,77.0489086
+Ladakh,Leh,Deskit,Hundri,1411845,ware house,hundro,2020-11-05 08:18:52.827,Agro ,Warehouse,34.665993333333,77.39807
+Ladakh,Leh,Deskit,Hundri,1411845,busstand,hundri,2020-11-05 08:19:10.260,Transport/Admin,Bus Stand,34.6661,77.398093333333
+Ladakh,Leh,Deskit,Hundri,1411845,medical sub centre,hundri,2020-11-05 08:19:31.580,Medical ,Bedded Hospital,34.66617,77.397895
+Ladakh,Leh,Khalsti,SkurBuchan,1393051,warehouse,skurbuchan,2020-11-16 10:34:03.497,Agro ,Warehouse,34.434083333333,76.713858333333
+Ladakh,Leh,Khalsti,SkurBuchan,1393051,office of naib tehsildar,skurbuchan,2020-11-16 10:39:16.260,Transport/Admin,Block Headquarter,34.425255,76.722606666667
+Ladakh,Leh,Khalsti,SkurBuchan,1393051,live stock centre,skurbuchan,2020-11-16 10:43:23.137,Medical ,Veterinary Hospital,34.45313,76.688171666667
+Ladakh,Leh,Khalsti,SkurBuchan,1393051,j&k bank,skurbuchan,2020-11-16 10:41:12.490,Transport/Admin,Bank,34.430603333333,76.718361666667
+Ladakh,Kargil,Kargil,Chanigund village,1393253,Primar Health centre,Chanigound,2020-10-19 21:41:39.840,Medical ,Primary Health Centre,34.600528333333,76.052628333333
+Ladakh,Kargil,Kargil,Chanigund village,1393253,Govt. Higher Secondary School,Chanigound,2020-10-19 21:39:13.943,Education ,Higher Secondary School,34.600705,76.053361666667
+Ladakh,Kargil,Kargil,Chanigund village,1393253,store ( sale centre),chanigund,2020-10-19 21:44:54.823,Agro ,Warehouse,34.601441666667,76.056543333333
+Ladakh,Leh,Panamic,Pinchimic,1411871,Bus stand,Pinchimic,2020-11-04 20:40:06.923,Transport/Admin,Bus Stand,34.65914448,77.59659842
+Ladakh,Leh,Panamic,Pinchimic,1411871,Warehouse,Pinchimic,2020-11-04 20:16:57.427,Agro ,Warehouse,34.65902642,77.59677625
+Ladakh,Leh,Turtuk,Thanga,1411873,busstand,thang,2020-11-05 08:23:56.720,Transport/Admin,Bus Stand,34.92544,76.798423333333
+Ladakh,Leh,Turtuk,Thanga,1411873,warehouse,thang,2020-11-05 08:23:29.890,Agro ,Warehouse,34.905986666667,76.791935
+Ladakh,Leh,Rong,Kesar,1411878,ration store,kesar,2020-11-02 14:00:15.783,Agro ,Warehouse,33.40876108,78.23946807
+Ladakh,Leh,Rong,Nee,1411880,ration store,nee,2020-11-02 13:59:38.957,Agro ,Warehouse,33.42802915,78.2064991
+Ladakh,Leh,Rong,Nee,1411880,PHC,nee,2020-11-02 13:58:54.080,Medical ,Primary Health Centre,33.42842894,78.20565291
+Ladakh,Leh,Skurbuchan,Domkhar Dho,1411805,Govt. High School,Domkhar Dho,2020-10-21 16:15:29.370,Education ,High School - General,34.389839912765,76.759788505733
+Ladakh,Leh,Panamic,Charasa,1411839,Bus stand,Charasa,2020-11-04 19:35:21.637,Transport/Admin,Bus Stand,34.68155204,77.54840203
+Ladakh,Leh,Panamic,Charasa,1411839,S.W.D.C,charasa,2020-11-04 19:41:53.183,Medical ,Veterinary Hospital,34.69101493,77.54886891
+Ladakh,Leh,Panamic,Charasa,1411839,Govt. High School,Charasa,2020-11-04 19:33:17.120,Education ,High School - General,34.6872278,77.54907087
+Ladakh,Leh,Panamic,Charasa,1411839,warehouse,Charasa,2020-11-04 19:34:27.367,Agro ,Warehouse,34.68155493,77.54836011
+Ladakh,Leh,Panamic,Charasa,1411839,J&K bank,Charasa,2020-11-04 19:36:02.270,Transport/Admin,Bank,34.68193957,77.54745562
+Ladakh,Kargil,LUNGNAK,Cha,1411939,N.T OFFICE CHA,CHA,2020-10-31 18:09:51.067,Transport/Admin,Block Headquarter,33.24398,77.12611
+Ladakh,Kargil,LUNGNAK,Cha,1411939,N.T.P.H.C CHA,CHA,2020-10-31 18:04:34.080,Medical ,Primary Health Centre,33.244998333333,77.127896666667
+Ladakh,Kargil,LUNGNAK,Cha,1411939,HANDLOOM OFFICE CHA,CHA,2020-10-31 18:01:15.627,Transport/Admin,Block Headquarter,33.245433333333,77.128078333333
+Ladakh,Kargil,LUNGNAK,Cha,1411939,F. C. I SALE CENTRE CHA,CHA,2020-10-31 17:57:19.770,Agro ,Warehouse,33.244958333333,77.127976666667
+Ladakh,Kargil,LUNGNAK,Cha,1411939,B. D. O OFFICE CHA,CHA,2020-10-31 17:53:01.167,Transport/Admin,Block Headquarter,33.242253333333,77.130281666667
+Ladakh,Kargil,LUNGNAK,Cha,1411939,PANCHAYAT GHAR CHA,CHA,2020-10-31 18:07:58.847,Transport/Admin,Block Headquarter,33.24395,77.126616666667
+Ladakh,Kargil,Karsha,Phey,1411946,F. C. I SALE CENTRE PHEY,PHEY,2020-10-18 15:13:25.263,Agro ,Warehouse,33.61286,76.711708333333
+Ladakh,Kargil,Karsha,Phey,1411946,GOVT. HIGH SCHOOL PHEY,PHEY,2020-10-18 15:09:11.950,Education ,High School - General,33.60792,76.714625
+Ladakh,Kargil,Karsha,Phey,1411946,PANCHAYAT GHAR PHEY,PHEY,2020-10-18 13:11:50.400,Transport/Admin,Panchayat Headquarter,33.607768333333,76.714281666667
+Ladakh,Leh,Durbugh,Punpun,1392997,Ration store,Punpun,2020-11-03 11:08:54.393,Agro ,Warehouse,34.08619371,78.12298941
+Ladakh,Leh,Durbugh,Erath,1393014,Ration store,Erath,2020-11-03 13:07:38.847,Agro ,Warehouse,33.96507526,78.19256988
+Ladakh,Kargil,Kargil,Archoo,1393248,collection centre,Archu choskore,2020-10-12 19:20:00.057,Agro ,Collection Centre or Pack House,34.44021595,76.12921665
+Ladakh,Kargil,Zanaskar,Ufti Pipiting,1393435,PANCHAYAT GHAR,UFTI,2020-10-16 17:10:38.033,Transport/Admin,Panchayat Headquarter,33.488763333333,76.8908
+Ladakh,Kargil,Zanaskar,Ufti Pipiting,1393435,Executive Engineer P.W.D zanskar,Pipiting,2020-10-11 22:55:36.060,Transport/Admin,Block Headquarter,33.478293167701,76.889857243127
+Ladakh,Kargil,Zanaskar,Ufti Pipiting,1393435,Lamdon Model High School,Ufti Zanskar,2020-10-11 22:55:47.640,Education ,High School - General,33.482580325693,76.893325049542
+Ladakh,Kargil,Zanaskar,Ufti Pipiting,1393435,PANCHAYAT GHAR UFTI PIPITING,UFTI,2020-10-16 16:55:35.997,Transport/Admin,Panchayat Headquarter,33.488828333333,76.890828333333
+Ladakh,Kargil,Zanaskar,Ufti Pipiting,1393435,Duzin Photang School,Ufti zanskar,2020-10-11 22:56:02.520,Education ,High School - General,33.489676655008,76.887679903871
+Ladakh,Kargil,Soudh,Apatee,1411734,sale house,apatee,2020-10-14 13:37:00.010,Agro ,Warehouse,34.56628417,76.20789915
+Ladakh,Kargil,Soudh,Apatee,1411734,primary health centre,apatee,2020-10-14 17:12:02.920,Medical ,Primary Health Centre,34.56607544,76.20712065
+Ladakh,Kargil,Soudh,Apatee,1411734,extension centre,apatee,2020-10-14 13:38:12.460,Medical ,Veterinary Hospital,34.566242,76.20786216
+Ladakh,Leh,Singay Lalok Wanla,Shiela,1411815,Bus Stand,Shiela,2020-10-18 17:23:01.543,Transport/Admin,Bus Stand,34.244164237753,76.808351576328
+Ladakh,Leh,Deskit,Skuru,1411866,warehouse,skuru,2020-11-04 21:28:22.637,Agro ,Warehouse,34.671466666667,77.294208333333
+Ladakh,Leh,Deskit,Skuru,1411866,busstand,skuru,2020-11-04 21:25:39.817,Transport/Admin,Bus Stand,34.671005,77.293761666667
+Ladakh,Leh,Rong,Kerey,1411883,Bus stand,kerey,2020-11-02 14:16:18.223,Transport/Admin,Bus Stand,33.47842757,78.12618261
+Ladakh,Leh,Durbugh,Shayok,1392998,Ration store,Shayok,2020-11-03 11:06:50.550,Agro ,Warehouse,34.17569804,78.13837249
+Ladakh,Leh,Durbugh,Burma,1393000,Ration store,Burma,2020-11-03 12:01:46.590,Agro ,Warehouse,33.77723479,78.3954698
+Ladakh,Leh,Khalsti,Langru,1393034,Bus Stand,Langru,2020-10-18 17:23:37.723,Transport/Admin,Bus Stand,34.312901208177,76.842153696343
+Ladakh,Kargil,Bhimbat,Chowkiyal,1411718,Food Godown,NH 1D,2020-10-13 12:48:08.857,Agro ,Warehouse,34.42462444,75.83911511
+Ladakh,Leh,Singay Lalok Wanla,Nerak,1411833,Bus Stand,Nyeraks,2020-10-29 12:18:11.567,Transport/Admin,Bus Stand,33.87691895,76.92440607
+Ladakh,Leh,Singay Lalok Wanla,Nerak,1411833,Ration Store,Nyeraks,2020-10-29 12:17:41.990,Agro ,Warehouse,33.87909411,76.92561331
+Ladakh,Leh,Panamic,Sumor,1411867,Govt. Higher Sec. School,Sumor,2020-11-05 06:46:59.333,Education ,Higher Secondary School,34.61730962,77.61495071
+Ladakh,Leh,Panamic,Sumor,1411867,S.W.D.C,Sumor,2020-11-05 06:49:27.397,Medical ,Veterinary Hospital,34.61820994,77.61311136
+Ladakh,Leh,Panamic,Sumor,1411867,Bus stand,Sumor,2020-11-05 06:50:34.980,Transport/Admin,Bus Stand,34.61944522,77.61305405
+Ladakh,Leh,Panamic,Sumor,1411867,Warehouse,Sumor,2020-11-05 06:51:55.010,Agro ,Warehouse,34.61837229,77.61508829
+Ladakh,Leh,Panamic,Sumor,1411867,J & k bank,Sumor,2020-11-05 06:51:31.533,Transport/Admin,Bank,34.6183876,77.61359162
+Ladakh,Leh,Panamic,Sumor,1411867,Livestock Dev. Center,Sumor,2020-11-05 06:50:00.343,Medical ,Veterinary Hospital,34.61868113,77.61299791
+Ladakh,Leh,Panamic,Sumor,1411867,Panchayat ghar,Sumor,2020-11-05 06:51:03.487,Transport/Admin,Panchayat Headquarter,34.62133438,77.6131299
+Ladakh,Leh,Rupsho,Karzok,1411882,PHC,korzok,2020-11-05 07:29:02.000,Medical ,Primary Health Centre,33.19768785,78.36210637
+Ladakh,Leh,Rupsho,Karzok,1411882,Bank,Karzok,2020-11-02 14:12:07.287,Transport/Admin,Bank,32.96900559,78.26436364
+Ladakh,Leh,Rupsho,Karzok,1411882,ration store,karzok,2020-11-02 14:11:55.550,Agro ,Warehouse,32.9694916,78.26531236
+Ladakh,Kargil,Kargil,Goma Kargil NAC,1393269,High school,Lankhore,2020-10-21 18:42:40.340,Education ,High School - General,34.562661666667,76.119633333333
+Ladakh,Kargil,Kargil,Goma Kargil NAC,1393269,Govt. High school,Goma kargil,2020-10-21 18:44:03.043,Education ,High School - General,34.563198333333,76.119545
+Ladakh,Kargil,Kargil,Goma Kargil NAC,1393269,Medical sub centre longmitha,Longmitha,2020-10-21 18:45:36.603,Medical ,Primary Health Centre,34.566375,76.124555
+Ladakh,Kargil,Kargil,Goma Kargil NAC,1393269,Medical sub centre,Gongma kargil,2020-10-21 18:44:45.900,Medical ,Primary Health Centre,34.566395,76.116315
+Ladakh,Leh,Panamic,Panamic,1411862,Bus stand hargam,Hargam,2020-11-04 19:43:37.310,Transport/Admin,Bus Stand,34.77080517,77.52436922
+Ladakh,Leh,Panamic,Panamic,1411862,warehouse trisha,Trisha,2020-11-05 06:57:39.637,Agro ,Warehouse,34.72880262,77.57006398
+Ladakh,Leh,Panamic,Panamic,1411862,Warehouse,Panamic,2020-11-04 18:58:59.720,Agro ,Warehouse,34.78729585,77.53202535
+Ladakh,Leh,Panamic,Panamic,1411862,J&K bank,Panamic,2020-11-04 18:56:06.740,Transport/Admin,Bank,34.78719863,77.5330961
+Ladakh,Leh,Panamic,Panamic,1411862,warehouse hargam,Hargam,2020-11-04 19:44:55.273,Agro ,Warehouse,34.80927074,77.51197971
+Ladakh,Leh,Panamic,Panamic,1411862,Animal Husbandry sub unit,Panamic,2020-11-04 19:59:35.563,Medical ,Veterinary Hospital,34.77971708,77.54127702
+Ladakh,Leh,Panamic,Panamic,1411862,Bus stand tirsha,Trisha,2020-11-04 20:04:38.153,Transport/Admin,Bus Stand,34.72880287,77.5700253
+Ladakh,Leh,Panamic,Panamic,1411862,Govt. High school,Panamic,2020-11-04 19:50:42.657,Education ,High School - General,34.78398111,77.53593104
+Ladakh,Leh,Panamic,Panamic,1411862,Bus stop tirsha,Trisha,2020-11-05 06:56:26.180,Transport/Admin,Bus Stand,34.72880287,77.5700253
+Ladakh,Leh,Panamic,Panamic,1411862,Panchayat ghar,Panamic,2020-11-04 18:56:56.050,Transport/Admin,Panchayat Headquarter,34.78693106,77.53231792
+Ladakh,Leh,Panamic,Panamic,1411862,P.H.C,Panamic,2020-11-04 20:01:25.623,Medical ,Primary Health Centre,34.77598052,77.54096153
+Ladakh,Leh,Rong,Kumdok,1411887,PHC,kumdok,2020-11-02 13:57:50.940,Medical ,Primary Health Centre,33.52102211,78.1890025
+Ladakh,Kargil,TSG,Stikchay,1412057,primary health care centre,stikchay kargil,2020-10-09 20:38:55.583,Medical ,Primary Health Centre,34.48290087,76.09844372
+Ladakh,Leh,Durbugh,Yourgo,1393011,Ration Store,Yurgo,2020-10-30 18:56:09.420,Agro ,Warehouse,34.044510776438,78.427340328995
+Ladakh,Leh,Durbugh,Yourgo,1393011,panchayat Ghar,Yurgo,2020-10-30 19:03:25.907,Transport/Admin,Panchayat Headquarter,34.050484230547,78.428413316893
+Ladakh,Leh,Kharu,Igoo,1393079,bank,igoo,2020-11-16 13:30:26.377,Transport/Admin,Bank,33.90640276,77.80846033
+Ladakh,Leh,Kharu,Igoo,1393079,ration store,igoo,2020-11-16 13:31:25.550,Agro ,Warehouse,33.91989809,77.8602519
+Ladakh,Leh,Kharu,Igoo,1393079,govt high school,igoo,2020-11-16 13:30:48.587,Education ,High School - General,33.90644604,77.80872814
+Ladakh,Kargil,Tai Suru,Biama,1393411,Govt. hr. sec. school,biama,2020-10-16 05:39:47.653,Education ,Higher Secondary School,34.205376666667,75.929758333333
+Ladakh,Leh,Panamic,Yulkham,1411838,warehouse,Yulkham,2020-11-04 20:09:51.333,Agro ,Warehouse,34.70523014,77.57700869
+Ladakh,Leh,Panamic,Yulkham,1411838,Bus stand,Yulkham,2020-11-04 20:10:51.063,Transport/Admin,Bus Stand,34.70526989,77.57703013
+Ladakh,Leh,Deskit,Lakjung,1411856,busstandd,lakjung,2020-11-09 11:09:04.583,Transport/Admin,Bus Stand,34.586423333333,77.618211666667
+Ladakh,Leh,Deskit,Lakjung,1411856,busstand,lakjung,2020-11-05 15:25:09.417,Transport/Admin,Bus Stand,34.586423333333,77.618211666667
+Ladakh,Leh,Deskit,Lakjung,1411856,panchayat char,lakjung,2020-11-05 15:27:25.190,Transport/Admin,Panchayat Headquarter,34.58662,77.619118333333
+Ladakh,Leh,Deskit,Lakjung,1411856,medical sub centre,lakjung,2020-11-05 15:30:31.190,Medical ,Bedded Hospital,34.586506666667,77.61865
+Ladakh,Leh,Deskit,Lakjung,1411856,warehouse,lakjung,2020-11-05 15:28:02.990,Agro ,Warehouse,34.586715,77.61835
+Ladakh,Kargil,TSG,Saliskote,1412063,bus stand,Saliskote thang,2020-10-17 12:30:26.070,Transport/Admin,Bus Stand,34.41158071,76.01391595
+Ladakh,Kargil,TSG,Saliskote,1412063,collection centre,Saliskote(B),2020-10-09 14:23:30.417,Transport/Admin,Panchayat Headquarter,34.41257005,76.02010253
+Ladakh,Kargil,TSG,Saliskote,1412063,solar power plant,sakiskot khumbuthang,2020-11-13 08:25:57.690,Agro ,Is Part of Rurban Cluster?,34.409442543983,76.007151603699
+Ladakh,Kargil,TSG,Saliskote,1412063,govt. high school saliskote,saliskote B sankoo,2020-10-09 14:49:41.170,Education ,High School - General,34.41285786,76.02094606
+Ladakh,Kargil,TSG,Saliskote,1412063,Primary Health Centre,Saliskote,2020-10-05 13:09:49.410,Medical ,Primary Health Centre,34.358282089233,75.973672270775
+Ladakh,Kargil,TSG,Saliskote,1412063,muthahhary public high school,saliskote sanko kargil,2020-10-09 14:48:47.173,Education ,High School - General,34.41045665,76.01250399
+Ladakh,Kargil,TSG,Saliskote,1412063,vegetable farm,saliskote sankoo,2020-10-09 14:50:43.177,Agro ,Mandi (Notified),34.41269151,76.0196716
+Ladakh,Kargil,TSG,Saliskote,1412063,cllection centre,saliskote A sankoo,2020-10-09 14:49:26.407,Agro ,Collection Centre or Pack House,34.41017321,76.01236245
+Ladakh,Kargil,TSG,Saliskote,1412063,solar power house and ware house,Saliskote A,2020-10-17 12:29:33.027,Agro ,Warehouse,34.41557615,76.0154892
+Ladakh,Kargil,TSG,Saliskote,1412063,Panchayat Ghar,Saliskote(B),2020-10-09 14:23:49.853,Transport/Admin,Panchayat Headquarter,34.41268314,76.01936907
+Ladakh,Kargil,TSG,Saliskote,1412063,collection centre,Saliskote(B),2020-10-09 14:24:02.310,Agro ,Collection Centre or Pack House,34.41269041,76.01967395
+Ladakh,Leh,Khalsti,ShanglangPotorstey,1393039,bus stand,shanglang potorstey,2020-11-16 10:52:34.440,Transport/Admin,Bus Stand,34.324146666667,76.681011666667
+Ladakh,Kargil,Sankoo,Lankarche,1393307,veterinary,lankarchy sankoo,2020-10-04 13:14:44.450,Medical ,Veterinary Hospital,34.32475705,75.95840551
+Ladakh,Kargil,Sankoo,Lankarche,1393307,collection centre lankarchay,lankarchay sankoo,2020-10-03 19:19:53.033,Agro ,Collection Centre or Pack House,34.278089404106,75.96516430378
+Ladakh,Kargil,Sankoo,Lankarche,1393307,MEDICAL AID CENTRE,langkarchy sankoo,2020-10-04 13:14:31.390,Medical ,Community Health Centre,34.32432091,75.95868219
+Ladakh,Kargil,Sankoo,Lankarche,1393307,govf middle school,lankarchey,2020-10-04 13:12:21.400,Education ,High School - General,34.32069993,75.9590367
+Ladakh,Leh,Singay Lalok Wanla,Lingshed,1411810,Ration Store,Lingshed,2020-10-29 12:19:51.507,Agro ,Warehouse,33.9065499,76.83084115
+Ladakh,Leh,Singay Lalok Wanla,Lingshed,1411810,Bus Stand,Lingshed,2020-10-29 12:19:21.100,Transport/Admin,Bus Stand,33.90636494,76.83020622
+Ladakh,Leh,Singay Lalok Wanla,Lingshed,1411810,Block Development Office,Lingshet,2020-10-29 12:18:36.193,Transport/Admin,Block Headquarter,33.90257984,76.82569335
+Ladakh,Leh,Singay Lalok Wanla,Lingshed,1411810,New type Of PHC,Lingshet,2020-10-29 12:18:51.257,Medical ,Primary Health Centre,33.90243939,76.8256143
+Ladakh,Leh,Singay Lalok Wanla,Lingshed,1411810,Development of sheep and wool centre,Lingshed,2020-10-29 12:20:08.053,Medical ,Veterinary Hospital,33.90404962,76.82572448
+Ladakh,Leh,Skurbuchan,Skambardo,1411824,warehouse,skambardo,2020-10-17 17:08:53.057,Agro ,Warehouse,34.481143333333,76.743455
+Ladakh,Leh,Skurbuchan,Skambardo,1411824,Bus Stop,Skambardo,2020-10-17 17:08:23.610,Transport/Admin,Bus Stand,34.481064649299,76.743348240852
+Ladakh,Leh,Deskit,Degar,1411841,busstand,degar,2020-11-05 14:59:32.310,Transport/Admin,Bus Stand,34.294466666667,77.8077
+Ladakh,Leh,Deskit,Degar,1411841,jk bank,degar,2020-11-05 12:10:57.000,Transport/Admin,Bank,34.293813333333,77.806998333333
+Ladakh,Leh,Deskit,Degar,1411841,dev of sheep and wool centre,degar,2020-11-05 15:09:12.027,Medical ,Veterinary Hospital,34.29299,77.808286666667
+Ladakh,Leh,Deskit,Degar,1411841,panchayat ghar,degar,2020-11-05 15:03:17.637,Transport/Admin,Panchayat Headquarter,34.293906666667,77.806968333333
+Ladakh,Leh,Deskit,Degar,1411841,warehouse,degar,2020-11-05 14:57:48.700,Agro ,Warehouse,34.294016666667,77.810386666667
+Ladakh,Leh,Deskit,Degar,1411841,P.H.C,Degar,2020-11-05 06:48:03.893,Medical ,Primary Health Centre,34.29404618,77.80983028
+Ladakh,Leh,Rong,Teri,1411892,PHC,teri,2020-11-02 13:57:12.377,Medical ,Primary Health Centre,33.56414111,78.03751441
+Ladakh,Leh,Khalsti,Kanjil,1393032,bus stand,kanji,2020-11-16 10:48:25.197,Transport/Admin,Bus Stand,34.232443333333,76.606628333333
+Ladakh,Leh,Khalsti,Kanjil,1393032,warehouse,kanji,2020-10-20 12:22:05.353,Agro ,Warehouse,34.232471666667,76.604038333333
+Ladakh,Leh,Khalsti,Kanjil,1393032,panchayat ghar,kanji,2020-10-20 12:24:53.837,Transport/Admin,Panchayat Headquarter,34.23241,76.60424
+Ladakh,Kargil,Shakar Chiktan,Chiktan Main,1393332,HIGHER SECONDARY SCHOOL CHIKTAN,CHIKTAN,2020-10-01 20:45:23.033,Education ,Higher Secondary School,34.46832875,76.51199989
+Ladakh,Kargil,Shakar Chiktan,Chiktan Main,1393332,J & K BANK,CHIKTAN,2020-10-01 14:31:00.770,Transport/Admin,Bank,34.45656208,76.52066741
+Ladakh,Kargil,Shakar Chiktan,Chiktan Main,1393332,LIVESTOCK DEVELOPMENT CENTRE,CHIKTAN Khardun,2020-10-01 14:35:42.807,Medical ,Veterinary Hospital,34.45608354,76.52556437
+Ladakh,Kargil,Shakar Chiktan,Chiktan Main,1393332,BUS STOP,CHIKTAN,2020-10-01 20:34:00.767,Transport/Admin,Bus Stand,34.46924047,76.51185833
+Ladakh,Kargil,Shakar Chiktan,Chiktan Main,1393332,COMMUNITY HEALTH CENTRE CHIKTAN,KHARDOON CHIKTAN,2020-10-01 14:35:18.870,Medical ,Community Health Centre,34.4576266,76.51904811
+Ladakh,Kargil,Zanaskar,Kumi,1393451,FUEL STATION KUMIK,KUMIK,2020-10-16 16:36:04.107,Transport/Admin,Fuel Station,33.501881666667,76.9338
+Ladakh,Kargil,Barsoo,Barsoo,1411750,Medical sub centre,patto,2020-10-04 11:51:04.910,Medical ,Primary Health Centre,34.24919138,76.05147048
+Ladakh,Kargil,Barsoo,Barsoo,1411750,higher sec. school,barsoo sankoo,2020-10-04 11:56:41.273,Education ,Higher Secondary School,34.26338745,76.03587417
+Ladakh,Kargil,Barsoo,Barsoo,1411750,MEDICAL SUB CENTRE barsoo,Barsoo,2020-10-04 11:53:08.333,Medical ,Primary Health Centre,34.25974473,76.04439129
+Ladakh,Kargil,Barsoo,Barsoo,1411750,COLLECTION CENTRE,PATOO,2020-10-04 11:51:19.723,Agro ,Collection Centre or Pack House,34.24942661,76.05212325
+Ladakh,Kargil,Barsoo,Barsoo,1411750,collection centre Barsoo,singrong,2020-10-04 11:56:23.937,Agro ,Collection Centre or Pack House,34.26017189,76.04277186
+Ladakh,Kargil,Barsoo,Patoo,1411752,bus stand,patoo barsoo,2020-10-04 11:50:15.520,Transport/Admin,Bus Stand,34.25086937,76.0533729
+Ladakh,Leh,Skurbuchan,Dha,1411801,WAREHOUSE,DHA,2020-10-16 19:30:43.837,Agro ,Warehouse,34.619221666667,76.490263333333
+Ladakh,Leh,Skurbuchan,Dha,1411801,bus stand,DHA,2020-10-16 19:32:36.897,Transport/Admin,Bus Stand,34.619661666667,76.488773333333
+Ladakh,Leh,Panamic,Henachi Tongsteth,1411850,Bus stand Tongsteth,Tongsteth,2020-11-04 19:06:30.800,Transport/Admin,Bus Stand,34.9823118,77.39562918
+Ladakh,Leh,Panamic,Henachi Tongsteth,1411850,Bus stand,Henachi,2020-11-04 19:01:32.843,Transport/Admin,Bus Stand,34.97351927,77.39552699
+Ladakh,Leh,Panamic,Henachi Tongsteth,1411850,Warehouse,Henachi,2020-11-04 19:00:02.350,Agro ,Warehouse,34.9713566,77.40415894
+Ladakh,Leh,Panamic,Henachi Tongsteth,1411850,Warehouse Tongsteth,Tongsteth,2020-11-04 19:03:09.347,Agro ,Warehouse,34.98245509,77.39552392
+Ladakh,Leh,Panamic,Gonboo Nungsteth,1411852,Bus stand,Nungsteth,2020-11-04 19:08:44.140,Transport/Admin,Bus Stand,34.98450225,77.38067681
+Ladakh,Leh,Panamic,Gonboo Nungsteth,1411852,Warehouse,Nungsteth,2020-11-04 19:09:48.343,Agro ,Warehouse,34.98449845,77.38064501
+Ladakh,Leh,Deskit,Partap pore,1411864,ware house,partap pore,2020-11-04 21:50:18.357,Agro ,Warehouse,34.610755,77.454111666667
+Ladakh,Leh,Deskit,Partap pore,1411864,hr. sec. school,partap pore,2020-11-04 21:42:45.090,Education ,Higher Secondary School,34.609891666667,77.453486666667
+Ladakh,Kargil,Karsha,Rantaksha,1411948,F.C.I SALE CENTRE,RANTAKSHA,2020-10-19 11:42:23.087,Agro ,Warehouse,33.56411,76.762698333333
+Ladakh,Kargil,Soudh,Yourbaltak,1411749,higher secondary school,yourbaltak,2020-10-11 12:37:32.790,Education ,Higher Secondary School,34.56592413,76.19090358
+Ladakh,Kargil,Soudh,Yourbaltak,1411749,sale house,yourbaltak,2020-10-14 11:23:46.290,Agro ,Warehouse,34.57073021,76.19320119
+Ladakh,Leh,Singay Lalok Wanla,Hinju,1411817,Bus Stand,Hinju,2020-10-18 17:20:14.530,Transport/Admin,Bus Stand,34.186823512428,76.934084817767
+Ladakh,Leh,Singay Lalok Wanla,Hinju,1411817,Warehouse,Hinju,2020-10-18 17:21:48.137,Agro ,Warehouse,34.186680684797,76.930313548073
+Ladakh,Leh,Panamic,Khemi,1411851,Warehouse,Khemi,2020-11-04 19:10:58.953,Agro ,Warehouse,34.94704476,77.42131069
+Ladakh,Leh,Panamic,Khemi,1411851,Panchayat ghar,Kheme,2020-11-04 19:07:30.760,Transport/Admin,Panchayat Headquarter,34.97211341,77.39403077
+Ladakh,Leh,Panamic,Khemi,1411851,Bus stand,Khemi,2020-11-04 19:11:56.750,Transport/Admin,Bus Stand,34.94708596,77.42132507
+Ladakh,Leh,Rong,Kistmang,1411885,PHC,kistmang,2020-11-02 14:00:50.160,Medical ,Primary Health Centre,33.38269142,78.27301022
+Ladakh,Leh,Rong,Kistmang,1411885,Panchayat ghar,kistmang,2020-11-02 14:01:09.893,Transport/Admin,Panchayat Headquarter,33.3828017,78.27312861
+Ladakh,Leh,Rong,Kistmang,1411885,ration store,kistmang,2020-11-05 07:25:09.280,Agro ,Warehouse,33.40870815,78.23948744
+Ladakh,Kargil,Lotsum,Jun Jun Darket,1411919,medical sub centre,Darket,2020-10-20 18:49:23.183,Medical ,Primary Health Centre,34.451821729527,76.271396718294
+Ladakh,Kargil,Lotsum,LoCHUM,1411922,food and supply store,lochum,2020-10-20 18:49:06.057,Agro ,Warehouse,34.466733247722,76.262083033511
+Ladakh,Kargil,Lotsum,LoCHUM,1411922,LDC,Lostum,2020-10-06 21:49:04.697,Medical ,Veterinary Hospital,34.468423695105,76.255134294218
+Ladakh,Kargil,Lotsum,LoCHUM,1411922,bus stand,lochum,2020-10-20 18:48:31.433,Transport/Admin,Bus Stand,34.467433773688,76.256625093386
+Ladakh,Kargil,Pashkum,Samar Pashkum,1411929,sheep husbendry,pashkum,2020-10-20 18:38:54.767,Medical ,Veterinary Hospital,34.522882053883,76.18157594921
+Ladakh,Kargil,Pashkum,Samar Pashkum,1411929,block development officer,pashkum,2020-10-20 18:36:35.077,Transport/Admin,Block Headquarter,34.515982943797,76.186154447632
+Ladakh,Kargil,Pashkum,Samar Pashkum,1411929,PANCHAYAT ghar,pashkum,2020-10-20 18:35:45.700,Transport/Admin,Panchayat Headquarter,34.508546573017,76.194941379047
+Ladakh,Kargil,Pashkum,Samar Pashkum,1411929,food and supply store,pashkum,2020-10-20 18:37:00.513,Agro ,Warehouse,34.515696805006,76.186303774704
+Ladakh,Kargil,Pashkum,Samar Pashkum,1411929,J&k bank,pashkum,2020-10-20 18:37:24.733,Transport/Admin,Bank,34.514959470978,76.187496760379
+Ladakh,Kargil,Pashkum,Samar Pashkum,1411929,agriculture sale centre,pashkum,2020-10-20 18:36:15.810,Agro ,Collection Centre or Pack House,34.509712442962,76.194279249759
+Ladakh,Kargil,Pashkum,Samar Pashkum,1411929,Animal husbandry,pashkum,2020-10-20 18:39:25.120,Medical ,Veterinary Hospital,34.524340378998,76.182143913922
+Ladakh,Kargil,Pashkum,Samar Pashkum,1411929,PHC,pashkum,2020-10-20 18:37:50.670,Medical ,Primary Health Centre,34.517923532544,76.185245514945
+Ladakh,Kargil,Pashkum,Samar Pashkum,1411929,medical sub centre,tharumsa pashkum,2020-10-20 18:39:47.957,Medical ,Primary Health Centre,34.526068606388,76.182338084241
+Ladakh,Kargil,Pashkum,Samar Pashkum,1411929,bus stop,Jamia masjid bus stop,2020-10-20 18:41:36.510,Transport/Admin,Bus Stand,34.509577238995,76.197069933113
+Ladakh,Kargil,Pashkum,Samar Pashkum,1411929,higher secondary school,pashkum,2020-10-20 18:35:19.123,Education ,Higher Secondary School,34.508210567756,76.193931034745
+Ladakh,Kargil,Kargil,Kargil Town NAC,1393270,Punjab National Bank (kargil),Kargil,2020-10-15 23:25:31.673,Transport/Admin,Bank,34.556463333333,76.126871666667
+Ladakh,Kargil,Kargil,Kargil Town NAC,1393270,Degree College kargil,Kargil,2020-10-16 21:24:25.750,Education ,Degree College,34.55623,76.131043333333
+Ladakh,Kargil,Kargil,Kargil Town NAC,1393270,District Hospital kargil,Kargil,2020-10-15 23:21:43.617,Medical ,Bedded Hospital,34.560085,76.125093333333
+Ladakh,Kargil,Kargil,Kargil Town NAC,1393270,Poineer public high school kargil,kargil,2020-10-16 21:16:34.710,Education ,High School - General,34.558815,76.128095
+Ladakh,Kargil,Sankoo,Yakza,1393327,GOVT. HIGH SCHOOL,yakza umba sankoo,2020-10-04 12:54:17.470,Education ,High School - General,34.32659645,75.87281827
+Ladakh,Kargil,Sankoo,Yakza,1393327,collection centre,yakza sankoo,2020-10-04 12:54:56.050,Agro ,Collection Centre or Pack House,34.32508644,75.87098725
+Ladakh,Kargil,Tai Suru,Parkachik Yukma,1393406,new type primary health center,parkachik,2020-10-19 11:26:43.440,Medical ,Primary Health Centre,34.08258,75.984245
+Ladakh,Kargil,Tai Suru,Parkachik Yukma,1393406,govt high school,parkachik,2020-10-19 11:26:25.047,Education ,High School - General,34.078325,75.982886666667
+Ladakh,Kargil,Barsoo,Bertoo,1411754,govt High school Bartoo,bartoo,2020-10-04 11:45:15.210,Education ,High School - General,34.22413992,76.12819284
+Ladakh,Kargil,Barsoo,Bertoo,1411754,APANA PANCHAYAT GHAR,bartoo,2020-10-03 21:04:45.963,Transport/Admin,Panchayat Headquarter,34.22470357,76.12960346
+Ladakh,Kargil,Barsoo,Bertoo,1411754,BUS STAND,bartoo,2020-10-04 11:48:43.353,Transport/Admin,Bus Stand,34.22342685,76.12641681
+Ladakh,Leh,Skurbuchan,Domkhar Burma,1411804,Warehouse,Domkhar Burma,2020-10-21 16:11:39.043,Agro ,Warehouse,34.417568170466,76.798984883353
+Ladakh,Leh,Skurbuchan,Domkhar Burma,1411804,Bus Stop,Domkhar Burma,2020-10-21 16:09:53.887,Transport/Admin,Bus Stand,34.417701736093,76.799046071246
+Ladakh,Leh,Skurbuchan,Domkhar Burma,1411804,Panchayat Headquarter,Domkhar Burma,2020-10-21 16:08:59.167,Transport/Admin,Panchayat Headquarter,34.418050381355,76.799392746761
+Ladakh,Leh,Panamic,Ayee,1411854,busstand,Ayee,2020-11-04 19:18:42.490,Transport/Admin,Bus Stand,34.83564951,77.48672082
+Ladakh,Leh,Panamic,Ayee,1411854,Warehouse,Ayee,2020-11-04 19:17:48.567,Agro ,Warehouse,34.83553053,77.48675262
+Ladakh,Leh,Panamic,Kuri Murgi,1411861,Bus stand,Murgi,2020-11-04 19:31:19.427,Transport/Admin,Bus Stand,34.75555386,77.53057038
+Ladakh,Leh,Panamic,Kuri Murgi,1411861,warehouse,Murgi,2020-11-04 19:32:22.657,Agro ,Warehouse,34.75542986,77.53036884
+Ladakh,Leh,Rupsho,Samad Rokcha,1411890,PHC,Samad Rokcha,2020-11-02 14:12:37.893,Medical ,Primary Health Centre,33.35901773,78.02407648
+Ladakh,Leh,Rupsho,Samad Rokcha,1411890,Panchayat Ghar,samad Rokcha,2020-11-02 14:12:23.893,Transport/Admin,Panchayat Headquarter,33.35901324,78.02480258
+Ladakh,Kargil,LUNGNAK,Atcher,1411940,F. C. I SALE CENTRE ICHAR,ICHAR,2020-10-31 18:16:19.253,Agro ,Warehouse,33.304941666667,76.999275
+Ladakh,Kargil,LUNGNAK,Atcher,1411940,GOVT. H.S ICHAR,ICHAR,2020-10-31 18:14:59.040,Education ,High School - General,33.295016666667,77.012921666667
+Ladakh,Leh,Deskit,Largiab,1411859,bus stand largaib,largaib gongma,2020-11-04 18:46:41.590,Transport/Admin,Bus Stand,34.61837569,77.12133624
+Ladakh,Leh,Deskit,Largiab,1411859,bus stand,largiab,2020-11-04 20:25:08.923,Transport/Admin,Bus Stand,34.617883333333,77.121396666667
+Ladakh,Leh,Deskit,Largiab,1411859,f. a. c pachathang,pachathang,2020-11-05 08:10:40.913,Medical ,Veterinary Hospital,34.700005,77.149753333333
+Ladakh,Leh,Deskit,Largiab,1411859,medical sub centre,largaib yokma,2020-11-05 08:03:47.087,Medical ,Bedded Hospital,34.708978333333,77.154608333333
+Ladakh,Leh,Deskit,Largiab,1411859,jk bank,largyab pachathang,2020-11-05 08:15:06.220,Transport/Admin,Bank,34.700501666667,77.149323333333
+Ladakh,Leh,Rong,Chumathang,1411877,veterinery,chumathang,2020-11-05 07:52:05.670,Medical ,Veterinary Hospital,33.35801394,78.33928703
+Ladakh,Leh,Rong,Chumathang,1411877,PHC,chumathang,2020-11-02 14:13:35.333,Medical ,Primary Health Centre,33.35848247,78.3392213
+Ladakh,Leh,Rong,Chumathang,1411877,Veterinary,Chumathang,2020-11-02 14:14:52.130,Medical ,Veterinary Hospital,33.3581158,78.33922428
+Ladakh,Leh,Rong,Chumathang,1411877,Education,Chumathang,2020-11-02 14:13:08.723,Education ,High School - General,33.35738065,78.34143894
+Ladakh,Leh,Rong,Chumathang,1411877,high school,chumathang,2020-11-05 07:29:55.867,Education ,High School - General,33.2015657,78.60241962
+Ladakh,Kargil,Kargil,Badgam Karkit Choo,1411992,Store ( sale centre),karkitchoo,2020-10-21 15:35:27.920,Agro ,Warehouse,34.602448333333,76.046631666667
+Ladakh,Kargil,Kargil,Badgam Karkit Choo,1411992,medical sub centre,karkitchoo,2020-10-21 15:36:47.890,Medical ,Primary Health Centre,34.602516666667,76.04668
+Ladakh,Kargil,Kargil,Badgam Karkit Choo,1411992,Animal husbandry,karkitchoo,2020-10-21 15:39:00.547,Medical ,Veterinary Hospital,34.600301666667,76.046796666667
+Ladakh,Kargil,Kargil,Badgam Karkit Choo,1411992,Education,Badgam,2020-10-21 15:28:13.033,Education ,High School - General,34.628475,76.04122
+Ladakh,Kargil,Kargil,Badgam Karkit Choo,1411992,Sale centre,Badgam,2020-10-21 15:32:19.000,Agro ,Warehouse,34.62659,76.042865
+Ladakh,Kargil,Kargil,Badgam Karkit Choo,1411992,Medical,Badgam,2020-10-21 15:29:14.093,Medical ,Primary Health Centre,34.629663333333,76.043713333333
+Ladakh,Kargil,Kargil,Badgam Karkit Choo,1411992,sheep husbandry,karkitchoo,2020-10-21 15:37:45.547,Medical ,Veterinary Hospital,34.602531666667,76.046766666667
+Ladakh,Leh,Khalsti,Lamayouro,1393038,govt. high school,lamayuru,2020-11-16 10:54:54.407,Education ,High School - General,34.284075,76.768713333333
+Ladakh,Leh,Khalsti,Lamayouro,1393038,j&k bank,lamayuru,2020-11-16 11:00:15.820,Transport/Admin,Bank,34.283773333333,76.767993333333
+Ladakh,Leh,Khalsti,Lamayouro,1393038,bus stand,lamayuru,2020-11-16 11:07:02.480,Transport/Admin,Bus Stand,34.282055,76.772553333333
+Ladakh,Leh,Khalsti,Lamayouro,1393038,warehouse,lamayuru,2020-11-16 11:01:41.950,Agro ,Warehouse,34.283708333333,76.768191666667
+Ladakh,Leh,Khalsti,Lamayouro,1393038,SEC,lamayuru,2020-11-16 10:58:25.390,Medical ,Veterinary Hospital,34.28318,76.76615
+Ladakh,Leh,Khalsti,Lamayouro,1393038,panchayat ghar,lamayuru,2020-11-16 11:03:57.750,Transport/Admin,Panchayat Headquarter,34.283293333333,76.77216
+Ladakh,Kargil,Shakar Chiktan,Kukshow,1393338,HALQA PANCHAYAT,Kukshow,2020-10-10 12:05:10.680,Transport/Admin,Panchayat Headquarter,34.44727561,76.62120167
+Ladakh,Kargil,Shakar Chiktan,Kukshow,1393338,Ration Store,Kukshow,2020-10-10 12:06:24.087,Agro ,Collection Centre or Pack House,34.44725851,76.62131193
+Ladakh,Kargil,Shakar Chiktan,Kukshow,1393338,GOVT HIGH SCHOOL,Kukshow,2020-10-10 12:04:11.427,Education ,High School - General,34.44750102,76.62110932
+Ladakh,Kargil,Zanaskar,Salapi Gyapak,1393445,INDIAN OIL FUEL STATION STARA,STARA,2020-11-06 20:58:25.440,Transport/Admin,Fuel Station,33.506898333333,76.809791666667
+Ladakh,Kargil,Zanaskar,Salapi Gyapak,1393445,Govt. Degree College zanskar,Zanskar,2020-10-16 15:31:43.500,Education ,Degree College,33.485955453288,76.864633155655
+Ladakh,Kargil,Zanaskar,Salapi Gyapak,1393445,Fuel Station stara,Salapi gyapak,2020-09-27 22:43:43.170,Transport/Admin,Fuel Station,33.477947386727,76.864499613717
+Ladakh,Kargil,Zanaskar,Salapi Gyapak,1393445,Govt. Degree College,Zanskar,2020-09-27 22:15:06.427,Education ,Degree College,33.485955453288,76.864633155655
+Ladakh,Kargil,Zanaskar,Salapi Gyapak,1393445,PANCHAYAT GHAR SALAPI GYAPAK,SALAPI,2020-10-16 16:44:10.647,Transport/Admin,Panchayat Headquarter,33.494196666667,76.845281666667
+Ladakh,Kargil,Zanaskar,Salapi Gyapak,1393445,Krishishi Vivyan Kendra,Salapi gyapak,2020-10-11 20:38:28.353,Agro ,Agro Industry,33.479792349494,76.870193694299
+Ladakh,Kargil,Zanaskar,Salapi Gyapak,1393445,HP FUEL STATION STARA,SALAPI GYAPAK,2020-10-17 10:49:33.573,Transport/Admin,Fuel Station,33.477875,76.864478333333
+Ladakh,Leh,Deskit,Skanpuk,1411865,busstand,skanpuk,2020-11-04 21:36:51.620,Transport/Admin,Bus Stand,34.624503333333,77.433201666667
+Ladakh,Leh,Deskit,Skanpuk,1411865,ware house,skampuk,2020-11-04 21:31:16.307,Agro ,Warehouse,34.627535,77.430506666667
+Ladakh,Leh,Deskit,Skanpuk,1411865,medical sub centre,skanpuk,2020-11-04 21:34:38.200,Medical ,Bedded Hospital,34.62735,77.430601666667
+Ladakh,Leh,Panamic,Tegar,1411872,Busstand,Tegar,2020-11-05 06:54:07.073,Transport/Admin,Bus Stand,34.63911857,77.61485267
+Ladakh,Leh,Panamic,Tegar,1411872,Warehouse,Tegar,2020-11-04 20:55:24.993,Agro ,Warehouse,34.63910822,77.61496755
+Ladakh,Leh,Panamic,Tegar,1411872,Bus stand,Tegar,2020-11-04 20:42:57.190,Transport/Admin,Bus Stand,34.63911857,77.61485267
+Ladakh,Leh,Panamic,Tegar,1411872,medical sub centre,tegar,2020-11-05 13:23:18.650,Medical ,Bedded Hospital,34.628931666667,77.615145
+Ladakh,Leh,Rong,Mahey,1411879,Ration store,Mahey,2020-11-02 14:12:53.617,Agro ,Warehouse,33.26339018,78.50062144
+Ladakh,Leh,Durbugh,Phobrang,1393009,Ration store,Phobrang,2020-11-03 11:21:13.510,Agro ,Warehouse,34.04766466,78.44191152
+Ladakh,Kargil,Drass,Mushkoo,1393223,Animal Husbandry,NH 1D,2020-10-02 11:03:59.580,Medical ,Veterinary Hospital,34.4363795,75.66873347
+Ladakh,Kargil,Kargil,Hundurman Broq,1393274,primary health centre,Hundurman,2020-10-21 15:41:49.810,Medical ,Primary Health Centre,34.615625,76.145711666667
+Ladakh,Kargil,Sankoo,Nagmakosar,1393309,horticulture,sankoo,2020-10-04 12:06:05.417,Agro ,Mandi (Notified),34.29361461,75.96116386
+Ladakh,Kargil,Soudh,Hordass,1411743,bus stand,hordas,2020-10-14 10:34:52.867,Transport/Admin,Bus Stand,34.63999751,76.36679343
+Ladakh,Leh,Skurbuchan,Hunu Yogma,1411808,panchayat headquarter,hanu yokma,2020-10-16 19:48:47.060,Transport/Admin,Panchayat Headquarter,34.589091666667,76.620836666667
+Ladakh,Leh,Skurbuchan,Hunu Yogma,1411808,sheep extension centre hanu,hanu yokma,2020-10-16 19:47:34.613,Medical ,Veterinary Hospital,34.58908,76.620706666667
+Ladakh,Leh,Skurbuchan,Hunu Yogma,1411808,govt. high school,hanoo yokma,2020-10-16 19:46:08.380,Education ,High School - General,34.590406666667,76.620506666667
+Ladakh,Leh,Skurbuchan,Hunu Yogma,1411808,bus stand,hanu yokma,2020-10-16 19:50:40.680,Transport/Admin,Bus Stand,34.588645,76.619926666667
+Ladakh,Leh,Skurbuchan,Hunu Yogma,1411808,Primary Health Centre,Hanu Yokma,2020-10-16 19:50:52.477,Medical ,Primary Health Centre,34.589816909283,76.62123279646
+Ladakh,Leh,Skurbuchan,Hunu Yogma,1411808,warehouse,hanu yokma,2020-10-16 19:52:36.297,Agro ,Warehouse,34.590996666667,76.621336666667
+Ladakh,Leh,Deskit,Hundar,1411843,bus stand,hunder,2020-11-05 07:36:57.620,Transport/Admin,Bus Stand,34.583691666667,77.470795
+Ladakh,Leh,Deskit,Hundar,1411843,warehouse,hunder,2020-11-04 22:39:23.220,Agro ,Warehouse,34.584336666667,77.473355
+Ladakh,Leh,Deskit,Hundar,1411843,vertinery,hunder,2020-11-04 22:51:52.293,Medical ,Veterinary Hospital,34.583853333333,77.470508333333
+Ladakh,Leh,Deskit,Hundar,1411843,panchayat ghar,hunder,2020-11-05 08:16:21.850,Transport/Admin,Panchayat Headquarter,34.585458333333,77.458656666667
+Ladakh,Leh,Deskit,Hundar,1411843,jk bank,hunder,2020-11-04 22:01:58.483,Transport/Admin,Bank,34.584741666667,77.47184
+Ladakh,Leh,Deskit,Hundar,1411843,medical sun centre,hunder,2020-11-04 22:50:55.140,Medical ,Bedded Hospital,34.584326666667,77.472951666667
+Ladakh,Leh,Deskit,Hundar,1411843,govt hr school,hunder,2020-11-04 22:22:06.537,Education ,High School - General,34.587581666667,77.463053333333
+Ladakh,Leh,Deskit,Trith,1411857,warehousee,trith,2020-11-09 11:15:35.840,Agro ,Warehouse,34.537593333333,77.647128333333
+Ladakh,Leh,Deskit,Trith,1411857,warehouse,tsati,2020-11-05 15:15:02.790,Agro ,Warehouse,34.476688333333,77.73108
+Ladakh,Leh,Deskit,Trith,1411857,busstand,tsati,2020-11-05 15:18:34.853,Transport/Admin,Bus Stand,34.476658333333,77.73108
+Ladakh,Leh,Deskit,Trith,1411857,LDC,trith,2020-11-05 15:24:46.870,Medical ,Veterinary Hospital,34.53897,77.64527
+Ladakh,Leh,Deskit,Trith,1411857,medical sub centree,tsati,2020-11-09 11:19:02.073,Medical ,Bedded Hospital,34.473633333333,77.732955
+Ladakh,Leh,Deskit,Trith,1411857,busstandd,trith,2020-11-05 15:21:42.823,Transport/Admin,Bus Stand,34.537635,77.647071666667
+Ladakh,Leh,Deskit,Trith,1411857,medical sub centre,trith,2020-11-05 13:19:30.010,Medical ,Bedded Hospital,34.537598333333,77.646238333333
+Ladakh,Kargil,Karsha,Tungri,1411957,GOVT. HIGH SCHOOL TUNGRI,TUNGRI,2020-10-24 16:34:44.603,Education ,High School - General,33.564086666667,76.762665
+Ladakh,Kargil,Karsha,Tungri,1411957,N.T.P.H.C TUNGRI,TUNGRI,2020-10-24 16:36:31.197,Medical ,Primary Health Centre,33.535653333333,76.789688333333
+Ladakh,Kargil,Karsha,Tungri,1411957,PANCHAYAT GHAR TUNGRI,TUNGRI,2020-10-18 15:27:42.833,Transport/Admin,Panchayat Headquarter,33.6055216,76.7137774
+Ladakh,Kargil,Karsha,Tungri,1411957,F.C.I SALE CENTRE TUNGRI,TUNGRI,2020-10-24 16:28:17.053,Agro ,Warehouse,33.534323333333,76.787363333333
