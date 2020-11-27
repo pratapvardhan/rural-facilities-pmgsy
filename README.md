@@ -2,11 +2,12 @@
 
 PMGSY (Pradhan Mantri Gram Sadak Yojana) released ~7,70,000 geo-tagged rural facilities data on it's portal omms.nic.in
 
-**License**: Government Open Data License - India (GODL). Refer to original source http://omms.nic.in/ (as data updates)
-
+- **License**: Government Open Data License - India (GODL).
+- **Citation**: PMGSY Rural Facilities Dataset, Ministry of Rural Development 2020 http://omms.nic.in
+---
 - This repo contains cleaned csv files for individual state.
 - Combined India dataset (120MB) is available on [Kaggle](https://www.kaggle.com/pratapvardhan/770k-geotagged-rural-facilities-in-india-pmgsy)
-- Last updated on 27th November 2020.
+- Last updated on 27th November 2020. When possible please refer to original source (as data could update)
 
 [![main](share/pmgsy.png)](https://twitter.com/PratapVardhan/status/1332174593877020673)
 
