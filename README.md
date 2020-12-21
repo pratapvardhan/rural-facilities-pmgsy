@@ -7,7 +7,7 @@ PMGSY (Pradhan Mantri Gram Sadak Yojana) released ~7,70,000 geo-tagged rural fac
 ---
 - This repo contains cleaned csv files for individual state.
 - Combined India dataset (120MB) is available on [Kaggle](https://www.kaggle.com/pratapvardhan/770k-geotagged-rural-facilities-in-india-pmgsy)
-- Last updated on 27th November 2020. When possible please refer to original source (as data could update)
+- Last updated on 21th December 2020. When possible please refer to original source (as data could update)
 
 [Visuals](./share/) are shared under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0) license.
 
