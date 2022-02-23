@@ -1,0 +1,578 @@
+State,District,Block,Habitation Name,Habitation ID,Facility Name,Address,File Upload Date,Facility Category,Facility Subcategory,Lattitude,Longitude
+Pondicherry,Puducherry,Ariankuppam,Ariankuppam West,1388227,Panchayat office,Ariyankuppam,2021-08-05 11:52:42.520,Transport/Admin,Panchayat Headquarter,11.89496,79.801778333333
+Pondicherry,Puducherry,Ariankuppam,Ariankuppam West,1388227,Indian oil,Nonankuppam,2021-08-05 12:05:18.140,Transport/Admin,Fuel Station,11.885816666667,79.800593333333
+Pondicherry,Puducherry,Ariankuppam,Ariankuppam West,1388227,Motherland English high school,Ariyankuppam,2021-08-05 11:56:55.573,Education ,High School - General,11.895643333333,79.801298333333
+Pondicherry,Puducherry,Ariankuppam,Ariankuppam West,1388227,Govt. High school,Ariyankuppam,2021-08-05 11:30:15.893,Education ,High School - General,11.895525,79.804705
+Pondicherry,Puducherry,Ariankuppam,Ariankuppam West,1388227,Govt. Higher secondary school,Nonankuppam,2021-08-05 11:58:59.810,Education ,Higher Secondary School,11.88492,79.795396666667
+Pondicherry,Puducherry,Ariankuppam,Ariankuppam West,1388227,Govt.Higher secondary school,Nonankuppam,2021-08-05 12:07:10.513,Education ,Higher Secondary School,11.886225,79.800575
+Pondicherry,Puducherry,Ariankuppam,Ariankuppam West,1388227,Govt. Primary school,Arunthathipuram,2021-08-05 11:54:32.617,Education ,High School - General,11.89895,79.79833
+Pondicherry,Puducherry,Ariankuppam,Ariankuppam West,1388227,Health sub centre,Nonankuppam,2021-08-05 12:00:40.463,Medical ,Primary Health Centre,11.88521,79.798841666667
+Pondicherry,Puducherry,Ariankuppam,Embalam,1388296,Sai krish agency,Embalam,2021-08-27 12:43:13.047,Transport/Admin,Fuel Station,11.866331666667,79.71722
+Pondicherry,Puducherry,Ariankuppam,Embalam,1388296,SS agency,Embalam,2021-08-27 12:42:32.293,Transport/Admin,Fuel Station,11.86652,79.719021666667
+Pondicherry,Puducherry,Ariankuppam,Embalam,1388296,Govt primary school,Embalam,2021-08-27 12:33:47.580,Education ,High School - General,11.872856666667,79.713581666667
+Pondicherry,Puducherry,Ariankuppam,Embalam,1388296,PLF office,Embalam,2021-08-27 12:30:56.623,Transport/Admin,Panchayat Headquarter,11.866588333333,79.712943333333
+Pondicherry,Puducherry,Ariankuppam,Embalam,1388296,milk collection centre,Embalam,2021-08-27 12:35:11.847,Agro ,Collection Centre or Pack House,11.872926666667,79.713548333333
+Pondicherry,Puducherry,Ariankuppam,Embalam,1388296,Grama panchayat office,Embalam,2021-08-27 12:32:57.657,Transport/Admin,Panchayat Headquarter,11.866681666667,79.712673333333
+Pondicherry,Puducherry,Ariankuppam,Embalam,1388296,IOB bank,Embalam,2021-08-27 12:32:06.390,Transport/Admin,Bank,11.866591666667,79.71271
+Pondicherry,Puducherry,Ariankuppam,Embalam,1388296,maraimalaiadigal Govt.HR.SEC school,Embalam,2021-08-27 12:18:43.777,Education ,Higher Secondary School,11.86677,79.712926666667
+Pondicherry,Puducherry,Villianur,Kothapurinatham,1388359,HP petrol bunk,kothapurinatham,2021-08-12 15:36:40.707,Transport/Admin,Fuel Station,11.92783166,79.66274016
+Pondicherry,Puducherry,Villianur,Kothapurinatham,1388359,Government High School,kothapurinatham,2021-08-12 15:35:46.547,Education ,High School - General,11.93537429,79.66842097
+Pondicherry,Puducherry,Villianur,Sellipet,1388410,Indian oil petrol bunk,Sellipet,2021-08-11 15:26:53.257,Transport/Admin,Fuel Station,11.95190617,79.69952293
+Pondicherry,Puducherry,Villianur,Sellipet,1388410,Government High School,Sellipet,2021-08-11 15:29:17.200,Education ,High School - General,11.95707549,79.69607876
+Pondicherry,Puducherry,Villianur,Sellipet,1388410,Puduvai Bharathiyar Grama Bank,Sellipet,2021-08-11 15:25:52.833,Transport/Admin,Bank,11.95462786,79.69262134
+Pondicherry,Puducherry,Villianur,Sellipet,1388410,veternary hospital,sallipet,2021-08-11 15:28:03.523,Medical ,Veterinary Hospital,11.95654291,79.69748668
+Pondicherry,Karaikal,karaikal,Vadakattalai,1388764,Sub center (Nedungadu  Vadakattalai),vadakattalai  ponpethy,2021-08-17 21:02:49.940,Medical ,Primary Health Centre,10.99092115,79.77615692
+Pondicherry,Puducherry,Ariankuppam,Karaiyamputhr,1388246,SS Agency HP Fuel station,Karaiyamputhur,2021-08-23 12:32:44.133,Transport/Admin,Fuel Station,11.820623333333,79.649576666667
+Pondicherry,Puducherry,Ariankuppam,Karaiyamputhr,1388246,Primary health centre,karaiyamputhur,2021-08-23 12:44:17.553,Medical ,Primary Health Centre,11.822956666667,79.647263333333
+Pondicherry,Puducherry,Ariankuppam,Karaiyamputhr,1388246,Govt higher secantary school,karaiyamputhu,2021-08-23 12:40:10.453,Education ,Higher Secondary School,11.821078333333,79.65027
+Pondicherry,Puducherry,Ariankuppam,Karaiyamputhr,1388246,Govt higher secondary school,karaiyamputhu,2021-08-23 12:43:28.757,Education ,Higher Secondary School,11.821078333333,79.65027
+Pondicherry,Puducherry,Ariankuppam,Karaiyamputhr,1388246,Govt.primary school,karaiyamputhur,2021-08-23 12:29:19.110,Education ,High School - General,11.820715,79.649
+Pondicherry,Puducherry,Ariankuppam,Bahour East,1388259,veterinary hospital,Bahour,2021-08-26 16:04:00.300,Medical ,Veterinary Hospital,11.805776666667,79.748878333333
+Pondicherry,Puducherry,Ariankuppam,Bahour East,1388259,PLFOffice,Bahour,2021-08-26 13:54:42.417,Transport/Admin,Panchayat Headquarter,11.808723333333,79.745565
+Pondicherry,Puducherry,Ariankuppam,Bahour East,1388259,Govt. primary school,Bahour,2021-08-26 13:52:21.940,Education ,High School - General,11.812158333333,79.746428333333
+Pondicherry,Puducherry,Ariankuppam,Bahour East,1388259,Kasthuribai ganthi Govt. Higher secondary school,Bahour,2021-08-26 16:04:46.283,Education ,Higher Secondary School,11.805481666667,79.749218333333
+Pondicherry,Puducherry,Ariankuppam,Manapet ,1388277,govt middle school,manapet,2021-09-23 11:54:22.290,Education ,High School - General,11.79637,79.786703333333
+Pondicherry,Puducherry,Ariankuppam,Manapet ,1388277,health and wellness centre,manapet,2021-09-23 11:53:16.613,Medical ,Primary Health Centre,11.795731666667,79.784023333333
+Pondicherry,Puducherry,Villianur,Katterikuppam,1388345,Government Higher secondary school,katerikuppam to LR palayam road,2021-08-10 19:49:27.803,Education ,Higher Secondary School,12.006187,79.70197771
+Pondicherry,Puducherry,Villianur,Katterikuppam,1388345,bus stop,katerikuppam to alai road,2021-08-10 19:47:15.233,Transport/Admin,Bus Stand,12.00216492,79.70152581
+Pondicherry,Puducherry,Villianur,Katterikuppam,1388345,Primary Health centre,katerikuppam,2021-08-10 19:50:31.027,Medical ,Primary Health Centre,12.00091919,79.70433001
+Pondicherry,Puducherry,Villianur,Katterikuppam,1388345,Indian Bank,katerikuppam to alai road,2021-08-10 19:48:30.637,Transport/Admin,Bank,12.00308045,79.70161323
+Pondicherry,Karaikal,karaikal,Kalikuppam,1388727,Govt  primary school,kalikupam,2021-08-24 20:59:54.103,Education ,High School - General,10.97989485,79.84812115
+Pondicherry,Karaikal,karaikal,Kalikuppam,1388727,Fisher Man Training  centre,kalikuppam,2021-08-24 21:00:15.993,Agro ,Collection Centre or Pack House,10.9787028,79.84928179
+Pondicherry,Karaikal,karaikal,Kalikuppam,1388727,Bus stop,Kali kuppam,2021-08-24 20:59:22.460,Transport/Admin,Bus Stand,10.9789656,79.85185429
+Pondicherry,Karaikal,karaikal,Nallathur,1388745,AH and AWD. key Unit,Nallathur,2021-08-17 20:54:49.377,Medical ,Veterinary Hospital,11.00045617,79.75213424
+Pondicherry,Karaikal,karaikal,Nallathur,1388745,Primary  Health center,Nallathur,2021-08-17 20:52:53.473,Medical ,Primary Health Centre,10.988811125867,79.764928513896
+Pondicherry,Karaikal,karaikal,Nallathur,1388745,Bus stop,Nallathur,2021-08-17 20:55:24.407,Transport/Admin,Bus Stand,11.0005836,79.75198032
+Pondicherry,Karaikal,karaikal,Nallathur,1388745,Petrol  Bunk,Nallathur,2021-08-17 20:54:03.473,Transport/Admin,Fuel Station,11.001301,79.7519191
+Pondicherry,Karaikal,karaikal,Nallathur,1388745,Govt primary  school,Nallathur,2021-08-17 20:55:51.740,Education ,High School - General,11.00031476,79.75190913
+Pondicherry,Puducherry,Ariankuppam,Koravallimedu,1388284,Health and wellness centre,koravallimedu,2021-09-23 10:56:29.587,Medical ,Primary Health Centre,11.791535,79.775521666667
+Pondicherry,Puducherry,Ariankuppam,Koravallimedu,1388284,KR Subramaniya padayatchi Govt higher secondary school,Koravallimedu,2021-09-23 10:55:26.613,Education ,Higher Secondary School,11.791941666667,79.7753
+Pondicherry,Puducherry,Villianur,Nallur,1388354,Govt. primary school,Nallur,2021-08-26 14:18:52.900,Education ,High School - General,11.9042335,79.63278338
+Pondicherry,Puducherry,Villianur,Nallur,1388354,milk collection centre,Nallur,2021-08-26 14:21:48.297,Agro ,Collection Centre or Pack House,11.90271278,79.63294523
+Pondicherry,Karaikal,karaikal,Thiruvettakudy,1388720,Health sub center,Thiruvettakudy,2021-08-24 21:02:08.890,Medical ,Primary Health Centre,10.97819022,79.83749395
+Pondicherry,Karaikal,karaikal,Thiruvettakudy,1388720,Govt  High school,Thiruvattakudy,2021-08-24 21:02:27.100,Education ,High School - General,10.97841231,79.83630077
+Pondicherry,Karaikal,karaikal,Thiruvettakudy,1388720,Grama  panchayat,Thiruvettakudy,2021-08-24 21:02:46.397,Transport/Admin,Panchayat Headquarter,10.978399515152,79.836289286613
+Pondicherry,Karaikal,karaikal,Thiruvettakudy,1388720,Bus stop,Thiruvettakudy,2021-08-24 21:01:17.920,Transport/Admin,Bus Stand,10.982099,79.83642374
+Pondicherry,Karaikal,karaikal,Kurumbagaram East,1388754,Health  sub center,Kurumbagaram,2021-08-17 21:00:48.320,Medical ,Primary Health Centre,10.98176489,79.7682132
+Pondicherry,Karaikal,karaikal,Kurumbagaram East,1388754,St  Theresa  Aided High school,Kurumbagaram,2021-08-17 21:00:04.723,Education ,High School - General,10.98435848,79.76789968
+Pondicherry,Karaikal,karaikal,Kurumbagaram East,1388754,Govt High  school,Kurumbagaram,2021-08-17 21:00:25.557,Education ,High School - General,10.98182096,79.76810047
+Pondicherry,Karaikal,karaikal,Ambagarathur,1389039,Laxmi vilas  Bank,Ambagarathur,2021-08-18 18:54:13.107,Transport/Admin,Bank,10.95682495,79.72781999
+Pondicherry,Karaikal,karaikal,Ambagarathur,1389039,Primary  Health centre,vella theru  Ambagarathur,2021-08-18 18:43:17.250,Medical ,Primary Health Centre,10.9587315,79.72829171
+Pondicherry,Karaikal,karaikal,Ambagarathur,1389039,kirama  panchayat,Ambagarathur,2021-08-18 18:55:09.530,Transport/Admin,Panchayat Headquarter,10.95648269,79.72735141
+Pondicherry,Karaikal,karaikal,Ambagarathur,1389039,Crescent  Higher  secondary school  (private),Ambagarathur,2021-08-18 18:53:27.420,Education ,Higher Secondary School,10.95579078,79.72915414
+Pondicherry,Karaikal,karaikal,Ambagarathur,1389039,High school (Private),KRM School  Ambagarathur,2021-08-18 18:44:32.083,Education ,High School - Girls,10.95909849,79.73179244
+Pondicherry,Karaikal,karaikal,Ambagarathur,1389039,Govt Higher Secondary school,Ambagarathur,2021-08-18 18:40:26.837,Education ,Higher Secondary School,10.9567694,79.7285978
+Pondicherry,Karaikal,karaikal,Ambagarathur,1389039,Govt Vetinary  Hospital,Main Road  Ambagarathur,2021-08-18 18:52:25.787,Medical ,Veterinary Hospital,10.955176949501,79.732498526573
+Pondicherry,Karaikal,karaikal,Ambagarathur,1389039,Govt  primary school,Ambagarathur,2021-08-18 18:42:08.250,Education ,High School - General,10.95712005,79.72727851
+Pondicherry,Karaikal,karaikal,Ambagarathur,1389039,Petrol  bunk,Ambagarathur,2021-08-18 18:51:49.983,Transport/Admin,Fuel Station,10.95430049,79.73277472
+Pondicherry,Karaikal,karaikal,Ambagarathur,1389039,IOB Bank,Ambagarathur,2021-08-18 18:52:43.257,Transport/Admin,Bank,10.95642152,79.72942918
+Pondicherry,Karaikal,karaikal,Ambagarathur,1389039,Bus  Stop,Ambagarathur,2021-08-18 18:54:46.527,Transport/Admin,Bus Stand,10.95695861,79.72742753
+Pondicherry,Karaikal,karaikal,Ambagarathur,1389039,Puduvai Bharathiar Grama  Bank,Ambagarathur,2021-08-18 18:54:31.730,Transport/Admin,Bank,10.95718963,79.7263664
+Pondicherry,Puducherry,Ariankuppam,Poornankuppam,1388241,govt middle school,poornankuppam,2021-09-17 11:45:06.603,Education ,High School - General,11.868921666667,79.80436
+Pondicherry,Puducherry,Ariankuppam,Poornankuppam,1388241,milk collection centre,poornankuppam,2021-09-17 11:46:04.207,Agro ,Collection Centre or Pack House,11.868936666667,79.80497
+Pondicherry,Puducherry,Ariankuppam,Paniyadikuppam,1388248,Health and wellness centre,Paniyadikuppam,2021-08-30 15:43:38.627,Medical ,Primary Health Centre,11.843418333333,79.650383333333
+Pondicherry,Puducherry,Ariankuppam,Paniyadikuppam,1388248,Govt middle school,paniyadikuppam,2021-08-30 15:44:35.530,Education ,High School - General,11.843471666667,79.649781666667
+Pondicherry,Puducherry,Ariankuppam,Mathikrishnapuram ,1388282,Govt primary school,Mathikrishnapuram,2021-09-23 10:50:23.580,Education ,High School - General,11.790775,79.772026666667
+Pondicherry,Puducherry,Villianur,Kalitheerthalkuppam,1388348,HP petrol bunk,Thirukkanur road,2021-08-12 14:16:30.160,Transport/Admin,Fuel Station,11.92176209,79.63218645
+Pondicherry,Puducherry,Villianur,Kalitheerthalkuppam,1388348,Bus stop,High way road,2021-08-12 14:17:57.710,Transport/Admin,Bus Stand,11.9184342,79.63344806
+Pondicherry,Puducherry,Villianur,Kalitheerthalkuppam,1388348,Bedded hospital,Hospital road,2021-08-12 14:17:02.070,Medical ,Bedded Hospital,11.92175269,79.62938338
+Pondicherry,Puducherry,Villianur,Kalitheerthalkuppam,1388348,Kamarajar Degree college,Thirukkanur road,2021-08-12 14:15:24.250,Education ,Degree College,11.92157755,79.63215266
+Pondicherry,Puducherry,Villianur,Sivaranthagam,1388384,Essar Petrol Bunk,kizhoor main road.,2021-08-05 17:03:33.353,Transport/Admin,Bank,11.8813959,79.67519767
+Pondicherry,Puducherry,Villianur,Sivaranthagam,1388384,Govt. primary school,sivaranthagam,2021-08-26 13:27:57.767,Education ,High School - General,11.89269549,79.69795509
+Pondicherry,Puducherry,Villianur,Sivaranthagam,1388384,Puduvai bharathiar Grama bank,"Sathamangalam main road, sivaranthagam.",2021-08-05 23:19:51.557,Transport/Admin,Bank,11.89061433,79.70263103
+Pondicherry,Puducherry,Villianur,Sivaranthagam,1388384,PBG bank,sivaranthagam,2021-08-26 13:30:55.727,Transport/Admin,Bank,11.89063213,79.70280884
+Pondicherry,Puducherry,Villianur,Sivaranthagam,1388384,veterinary hospital,sivaranthagam,2021-08-26 13:38:51.160,Medical ,Veterinary Hospital,11.89065863,79.70272728
+Pondicherry,Puducherry,Villianur,Villianur Central,1388405,Primary Health Centre,villianur,2021-08-05 23:13:07.417,Medical ,Primary Health Centre,11.91065524,79.75639138
+Pondicherry,Puducherry,Villianur,Villianur Central,1388405,Block Head Quarters,Villianur,2021-08-13 12:12:39.033,Transport/Admin,Block Headquarter,11.9105952,79.75652363
+Pondicherry,Puducherry,Villianur,Villianur Central,1388405,Indian Bank,Pondy Main Road,2021-08-05 23:11:54.150,Transport/Admin,Bank,11.91373616,79.75646768
+Pondicherry,Puducherry,Villianur,Villianur Central,1388405,Bus stop,villanur,2021-08-12 14:14:47.500,Transport/Admin,Bus Stand,11.91268456,79.75594782
+Pondicherry,Karaikal,karaikal,Nallazhandur,1389041,Govt primary school,Nallazhandur,2021-08-18 18:55:53.063,Education ,High School - General,10.95107974,79.74438109
+Pondicherry,Karaikal,karaikal,Sellur,1389111,Rural development  center,Sellur,2021-08-27 17:58:32.150,Transport/Admin,Block Headquarter,10.92696334,79.76911681
+Pondicherry,Karaikal,karaikal,Sellur,1389111,Bus  stop,sellur,2021-08-27 17:58:14.087,Transport/Admin,Bus Stand,10.92692484,79.76909773
+Pondicherry,Karaikal,karaikal,Sellur,1389111,Mount  Carmel  high school  private,Sellur,2021-08-27 17:59:15.957,Education ,High School - General,10.92752649,79.76765149
+Pondicherry,Karaikal,karaikal,Sellur,1389111,Govt  Middle school,Sellur,2021-08-27 17:58:54.347,Education ,High School - General,10.925951600075,79.769260883331
+Pondicherry,Puducherry,Ariankuppam,Soriankuppam,1388252,Govt middle school,soriankuppam,2021-09-17 10:57:44.753,Education ,High School - General,11.78882,79.731005
+Pondicherry,Puducherry,Ariankuppam,Soriankuppam,1388252,milk collection centre,soriankuppam,2021-09-17 10:58:14.613,Agro ,Collection Centre or Pack House,11.787025,79.73151
+Pondicherry,Puducherry,Ariankuppam,Soriankuppam,1388252,Grama panchayat office,soriankuppam,2021-09-17 10:59:03.133,Transport/Admin,Panchayat Headquarter,11.787968333333,79.732635
+Pondicherry,Puducherry,Ariankuppam,Soriankuppam,1388252,Indian oil fuel station,soriankuppam,2021-09-17 10:57:15.217,Transport/Admin,Fuel Station,11.789728333333,79.731161666667
+Pondicherry,Puducherry,Ariankuppam,Korkadu,1388301,Gurunam international High school,korkadu,2021-08-30 12:42:51.260,Education ,High School - General,11.880658333333,79.738173333333
+Pondicherry,Puducherry,Ariankuppam,Korkadu,1388301,Moral vidya mandir higher secondary school,korkadu,2021-08-30 13:32:25.730,Education ,Higher Secondary School,11.877283333333,79.7489
+Pondicherry,Puducherry,Ariankuppam,Korkadu,1388301,Govt primary school,korkadu,2021-08-30 12:42:05.157,Education ,High School - General,11.880551666667,79.739715
+Pondicherry,Puducherry,Ariankuppam,Korkadu,1388301,Health and wellness centre,korkadu,2021-08-30 13:31:46.230,Medical ,Primary Health Centre,11.880503333333,79.746071666667
+Pondicherry,Puducherry,Ariankuppam,Korkadu,1388301,Govt higher secondary school,korkadu,2021-08-30 12:40:55.867,Education ,Higher Secondary School,11.880348333333,79.740275
+Pondicherry,Puducherry,Villianur,Madagadipet,1388352,Bharat Petroleum,High way road,2021-08-12 14:31:51.893,Transport/Admin,Fuel Station,11.91815888,79.63912443
+Pondicherry,Puducherry,Villianur,Madagadipet,1388352,Mandi,madagadipet,2021-08-12 14:29:45.487,Agro ,Mandi (Notified),11.91895183,79.63679399
+Pondicherry,Puducherry,Villianur,Madagadipet,1388352,Higher secondary school,Thirukkanur road,2021-08-12 14:33:42.713,Education ,High School - General,11.91963595,79.6327375
+Pondicherry,Puducherry,Villianur,Madagadipet,1388352,veternary hospital,madagadipet,2021-08-12 14:30:58.970,Medical ,Veterinary Hospital,11.91738491,79.63226602
+Pondicherry,Puducherry,Villianur,Kottaimedu,1388371,vivekananda government boys higher secondary school,"main road, villianur",2021-08-05 23:26:05.050,Education ,Higher Secondary School,11.90814524,79.75445815
+Pondicherry,Puducherry,Villianur,Kottaimedu,1388371,canara bank,"villianur main road, Ariya palayam",2021-08-05 23:15:00.700,Transport/Admin,Bank,11.91001209,79.75028179
+Pondicherry,Puducherry,Villianur,Kottaimedu,1388371,Veveganandha Govt Higher Secondary School,Kottaimedu,2021-08-27 16:13:13.450,Education ,Higher Secondary School,11.90835336,79.75461067
+Pondicherry,Karaikal,karaikal,Andoor pet,1388771,Bus stop,Andoor,2021-08-17 21:03:24.980,Transport/Admin,Bus Stand,10.99005833,79.78163212
+Pondicherry,Karaikal,karaikal,T.R.Pattinam North,1389122,Puduvai  Barathiar  Grama  Bank,TR Pattinam,2021-08-22 14:18:31.960,Transport/Admin,Bank,10.87668715,79.83181686
+Pondicherry,Karaikal,karaikal,T.R.Pattinam North,1389122,Govt Girls  High school,TR Pattinam,2021-08-20 21:02:55.423,Education ,High School - Girls,10.87614396,79.83076755
+Pondicherry,Karaikal,karaikal,T.R.Pattinam North,1389122,Grama  Panchayat  North,TR pattinam,2021-08-22 14:19:03.927,Transport/Admin,Panchayat Headquarter,10.87730363,79.83279291
+Pondicherry,Karaikal,karaikal,T.R.Pattinam North,1389122,Thirumalairayanpattinam  commune  Panchayat office,TR pattinam,2021-08-22 14:18:14.517,Transport/Admin,Panchayat Headquarter,10.90368728,79.83188159
+Pondicherry,Karaikal,karaikal,T.R.Pattinam North,1389122,Govt  Middle school,TR Pattinam,2021-08-22 14:18:48.457,Education ,High School - General,10.87798049,79.83256125
+Pondicherry,Puducherry,Ariankuppam,Abishegapakkam,1388224,Govt. primary school,Abishegapakkam,2021-08-07 12:24:38.807,Education ,High School - General,11.863125,79.778365
+Pondicherry,Puducherry,Ariankuppam,Abishegapakkam,1388224,Setthilal Govt. High school,Abishegapakkam,2021-08-07 12:23:33.977,Education ,High School - General,11.862306666667,79.779845
+Pondicherry,Puducherry,Ariankuppam,Abishegapakkam,1388224,T palayam Agri co operative bank,Abishegapakkam,2021-08-07 12:29:05.797,Transport/Admin,Bank,11.861443333333,79.781536666667
+Pondicherry,Puducherry,Ariankuppam,Abishegapakkam,1388224,Abishegapakkam panchayat office,Abishegapakkam,2021-08-07 12:25:58.433,Transport/Admin,Panchayat Headquarter,11.86272,79.778465
+Pondicherry,Puducherry,Ariankuppam,Abishegapakkam,1388224,High school,Abishegapkkam ward 4,2021-07-30 10:54:58.153,Education ,High School - General,11.931886666667,79.80918
+Pondicherry,Puducherry,Ariankuppam,Abishegapakkam,1388224,Primary Health centre,Abishegapakkam,2021-08-07 12:21:33.740,Medical ,Primary Health Centre,11.860171,79.7809448
+Pondicherry,Puducherry,Ariankuppam,Sooramangalam,1388292,milk collection centre,sooramangalam,2021-08-27 14:14:16.457,Agro ,Collection Centre or Pack House,11.88872,79.626881666667
+Pondicherry,Puducherry,Ariankuppam,Sooramangalam,1388292,Grama panchayat office,sooramangalam,2021-08-27 14:06:01.627,Transport/Admin,Panchayat Headquarter,11.882118333333,79.625776666667
+Pondicherry,Puducherry,Ariankuppam,Sooramangalam,1388292,Milk collection and cooler centre,sooramangalam,2021-08-27 14:28:39.747,Agro ,Collection Centre or Pack House,11.88872,79.626881666667
+Pondicherry,Puducherry,Ariankuppam,Sooramangalam,1388292,Govt primary school,sooramangalam,2021-08-27 14:08:51.227,Education ,High School - General,11.882121666667,79.62577
+Pondicherry,Puducherry,Ariankuppam,Sooramangalam,1388292,HP Fuel station,sooramangalam,2021-08-27 14:09:32.633,Transport/Admin,Fuel Station,11.88205,79.629653333333
+Pondicherry,Puducherry,Ariankuppam,Sooramangalam,1388292,Hayagriva polytechnic college,sooramangalam,2021-08-27 14:12:18.780,Education ,Degree College,11.889226666667,79.623868333333
+Pondicherry,Puducherry,Ariankuppam,Sooramangalam,1388292,primary Health centre,sooramangalam,2021-08-27 14:10:29.480,Medical ,Primary Health Centre,11.887361666667,79.629338333333
+Pondicherry,Puducherry,Ariankuppam,Pudukuppam,1388299,milk collection centre,pudukuppam,2021-08-27 12:39:43.870,Agro ,Collection Centre or Pack House,11.8784,79.723928333333
+Pondicherry,Puducherry,Ariankuppam,Pudukuppam,1388299,veterinary hospital,pudukuppam,2021-08-27 12:38:58.273,Medical ,Veterinary Hospital,11.878578333333,79.723943333333
+Pondicherry,Karaikal,karaikal,Konnakavely,1388717,Govt primary school,konnakavely,2021-08-25 21:23:04.447,Education ,High School - General,10.99757348,79.80897611
+Pondicherry,Karaikal,karaikal,Thirunallar,1389092,Co operative  society  Farmer,Thirunallar,2021-08-27 18:03:40.573,Agro ,Collection Centre or Pack House,10.92625119,79.7935051
+Pondicherry,Karaikal,karaikal,Thirunallar,1389092,Bus stand,Thirunallar,2021-08-27 17:54:16.140,Transport/Admin,Bus Stand,10.92641683,79.79832125
+Pondicherry,Karaikal,karaikal,Thirunallar,1389092,Minor  vetinary  Dispensery,Thirunallar,2021-08-27 17:57:22.660,Medical ,Veterinary Hospital,10.92633947,79.78808328
+Pondicherry,Karaikal,karaikal,Thirunallar,1389092,Govt  Fish  induced  breeding  center,Thirunallar,2021-08-27 18:02:22.403,Agro ,Collection Centre or Pack House,10.92621733,79.78709615
+Pondicherry,Karaikal,karaikal,Thirunallar,1389092,Govt  Girls higher secondary school,Thirunallar,2021-08-27 18:02:50.297,Education ,Higher Secondary School,10.92533357,79.79059421
+Pondicherry,Karaikal,karaikal,Thirunallar,1389092,Indian  bank,Thirunallar,2021-08-27 18:03:07.837,Transport/Admin,Bank,10.92458251,79.78892988
+Pondicherry,Puducherry,Ariankuppam,Veerampatinam,1388230,Govt. primary school,veerampattinam,2021-08-05 18:31:35.097,Education ,High School - General,11.89499,79.82379
+Pondicherry,Puducherry,Ariankuppam,Veerampatinam,1388230,Grama panchayat office,veerampattinam,2021-08-05 18:32:15.237,Transport/Admin,Panchayat Headquarter,11.894261666667,79.824628333333
+Pondicherry,Puducherry,Ariankuppam,Veerampatinam,1388230,Govt. High school,veerampattinam,2021-08-05 18:29:16.260,Education ,High School - General,11.894628333333,79.823053333333
+Pondicherry,Puducherry,Ariankuppam,Veerampatinam,1388230,Health sub centre,veerampattinam,2021-08-05 18:28:08.307,Medical ,Primary Health Centre,11.894211666667,79.822478333333
+Pondicherry,Puducherry,Ariankuppam,Veerampatinam,1388230,Govt. girls middle school,veerampatinam,2021-08-05 18:27:19.917,Education ,High School - Girls,11.894305,79.821971666667
+Pondicherry,Puducherry,Ariankuppam,Adhingapet ,1388264,Govt. middle school,Adhingapet,2021-08-26 13:48:59.080,Education ,High School - General,11.817568333333,79.760798333333
+Pondicherry,Puducherry,Ariankuppam,Embalam Nathamedu,1388298,Govt. primary school,Nathamedu,2021-08-27 12:41:04.950,Education ,High School - General,11.863188333333,79.721411666667
+Pondicherry,Puducherry,Villianur,Thirukkanur,1388332,Primary Health centre,Thirukkanur,2021-08-10 18:33:26.343,Medical ,Primary Health Centre,11.99202908,79.63723974
+Pondicherry,Puducherry,Villianur,Thirukkanur,1388332,Indian oil petrol bunk,TV malai road,2021-08-10 20:09:42.967,Transport/Admin,Fuel Station,11.99370755,79.63833546
+Pondicherry,Puducherry,Villianur,Thirukkanur,1388332,Government High school,Mannadipet road,2021-08-10 20:13:23.807,Education ,High School - General,11.99205248,79.63799331
+Pondicherry,Puducherry,Villianur,Thondamanatham,1388366,Puduvai bharathiyar grama bank,sedarapet main road,2021-08-09 18:25:10.107,Transport/Admin,Bank,11.96093103,79.72435029
+Pondicherry,Puducherry,Villianur,Thondamanatham,1388366,veternary hospital,sedarpeta main road,2021-08-09 18:31:06.693,Medical ,Veterinary Hospital,11.96091461,79.72525317
+Pondicherry,Puducherry,Villianur,Thondamanatham,1388366,Ansari Duraisamy Govt Hr School,Thondamanatham,2021-08-09 18:32:25.087,Education ,Higher Secondary School,11.95985657,79.72988296
+Pondicherry,Karaikal,karaikal,Nedungadu,1389025,IOB  Bank,Nedungadu,2021-08-26 13:28:49.643,Transport/Admin,Bank,10.96955667,79.77153369
+Pondicherry,Karaikal,karaikal,Nedungadu,1389025,Co operative  Farmer  society,Nedungadu,2021-08-26 13:28:33.767,Transport/Admin,Block Headquarter,10.97140706,79.77099675
+Pondicherry,Karaikal,karaikal,Nedungadu,1389025,ESI Hospital,Nedungadu,2021-08-26 13:31:48.463,Medical ,Primary Health Centre,10.972681045532,79.770720005035
+Pondicherry,Karaikal,karaikal,Nedungadu,1389025,Bus stop Near  Mariaman koil,Mariaman  koil   busstop,2021-08-26 13:34:34.343,Transport/Admin,Bus Stand,10.97297973,79.77175361
+Pondicherry,Karaikal,karaikal,Nedungadu,1389025,Bus  stop,"Kamarajar salai  ,Nedungadu",2021-08-26 13:29:58.210,Transport/Admin,Bus Stand,10.9672098,79.77191669
+Pondicherry,Karaikal,karaikal,Nedungadu,1389025,Govt  Higher  secondary school,Nedungadu,2021-08-26 13:29:32.007,Education ,Higher Secondary School,10.96706598,79.77191524
+Pondicherry,Karaikal,karaikal,Nedungadu,1389025,Ladies  Hostel  Social  welfare  Department,Nedungau,2021-08-26 13:25:45.920,Transport/Admin,Block Headquarter,10.95488965,79.82571624
+Pondicherry,Karaikal,karaikal,Nedungadu,1389025,Upgraded  Primary  Health centre,Nedungadu,2021-08-26 13:26:39.360,Medical ,Primary Health Centre,10.97164956,79.77140501
+Pondicherry,Karaikal,karaikal,Nedungadu,1389025,Govt primary school,Nedungadu,2021-08-26 13:29:08.647,Education ,High School - General,10.967729687691,79.772737026215
+Pondicherry,Karaikal,karaikal,Nedungadu,1389025,Bus stop,Nedungadu,2021-08-17 21:06:27.210,Transport/Admin,Bus Stand,10.97417299,79.769281
+Pondicherry,Puducherry,Villianur,Thirukkanji,1388374,Govt. primary school,Thirukanji,2021-08-26 10:44:38.210,Education ,High School - General,11.89252371,79.7630743
+Pondicherry,Puducherry,Villianur,Manavely,1388392,Primary Health Centre,Manavely,2021-08-05 12:50:00.247,Medical ,Primary Health Centre,11.91839561,79.77216153
+Pondicherry,Karaikal,karaikal,Melakasakudy,1389017,GOOD SHEPERD ENGLISH  SCHOOL.,Melakasakudy,2021-08-13 17:15:04.797,Education ,Higher Secondary School,10.95150975,79.80325105
+Pondicherry,Karaikal,karaikal,Melakasakudy,1389017,Bus stop,Melakasakudi,2021-08-13 17:06:51.227,Transport/Admin,Bus Stand,10.95598719,79.79366028
+Pondicherry,Karaikal,karaikal,Melakasakudy,1389017,Village Panchayat office,Nadutheru Melakasakudi,2021-08-13 17:08:50.380,Transport/Admin,Panchayat Headquarter,10.95583024,79.79195929
+Pondicherry,Karaikal,karaikal,Melakasakudy,1389017,Pvt  Milk producer  Unit (Ammaiyar  Milk),Melakasakudi,2021-08-13 17:13:11.877,Agro ,Collection Centre or Pack House,10.95252868,79.79913324
+Pondicherry,Karaikal,karaikal,Melakasakudy,1389017,Govt.  Middle  school (CBSC),Melakasakudy,2021-08-13 17:01:27.230,Education ,High School - General,10.95578394,79.7944474
+Pondicherry,Karaikal,karaikal,Melakasakudy,1389017,Co operative  milk producer  center,Melakasakudi,2021-08-13 17:05:57.693,Agro ,Collection Centre or Pack House,10.95579308,79.79376642
+Pondicherry,Karaikal,karaikal,Melakasakudy,1389017,Petrole  bunk  (Pvt),Melakasakudi,2021-08-13 17:11:04.407,Transport/Admin,Fuel Station,10.95871162,79.79126573
+Pondicherry,Karaikal,karaikal,Melakasakudy,1389017,Health sub center,Melakasakudi,2021-08-13 16:58:45.943,Medical ,Primary Health Centre,10.95344927,79.79526043
+Pondicherry,Karaikal,karaikal,Melakasakudy,1389017,key village unit,Melakasakudi,2021-08-13 17:00:23.273,Medical ,Veterinary Hospital,10.95326612,79.79566017
+Pondicherry,Karaikal,karaikal,Keezhvour,1389085,ONGC  Quarters Bus stop,Thirunallar,2021-08-27 17:51:43.827,Transport/Admin,Bus Stand,10.92667897,79.80310755
+Pondicherry,Karaikal,karaikal,T.R.Pattinam Central,1389124,Rural  development  office,TR pattinam,2021-08-20 21:04:47.127,Transport/Admin,Block Headquarter,10.8718977,79.82839646
+Pondicherry,Karaikal,karaikal,T.R.Pattinam Central,1389124,Govt  Higher  secondary school,TR Pattinam,2021-08-20 21:03:52.670,Education ,Higher Secondary School,10.87305943,79.83055123
+Pondicherry,Karaikal,karaikal,T.R.Pattinam Central,1389124,Petrol    Bunk,Melaiyur,2021-08-20 21:06:48.323,Transport/Admin,Fuel Station,10.87187718,79.8231265
+Pondicherry,Karaikal,karaikal,T.R.Pattinam Central,1389124,Immaculate  English  Higher  secondary school,TR pattinam,2021-08-22 14:21:20.810,Education ,Higher Secondary School,10.87125675,79.83575359
+Pondicherry,Karaikal,karaikal,T.R.Pattinam Central,1389124,ITI  for Women,TR pattimam,2021-08-20 21:05:47.377,Education ,ITI,10.87368025,79.82645847
+Pondicherry,Karaikal,karaikal,T.R.Pattinam Central,1389124,Indian  bank,TR Pattinam,2021-08-22 14:23:21.670,Transport/Admin,Bank,10.87046867,79.83022901
+Pondicherry,Karaikal,karaikal,T.R.Pattinam Central,1389124,Govt  primary school,TR  pattinam,2021-08-20 21:04:29.113,Education ,High School - General,10.87309561,79.82949155
+Pondicherry,Karaikal,karaikal,T.R.Pattinam Central,1389124,Govt Primary school  Cbsc,TR pattinam,2021-08-20 21:05:10.337,Education ,High School - General,10.8701642,79.82872491
+Pondicherry,Karaikal,karaikal,T.R.Pattinam Central,1389124,Govt primary school,Karudapalayam  Tr  pattinam,2021-08-22 14:22:52.520,Education ,High School - General,10.87431118,79.83369531
+Pondicherry,Karaikal,karaikal,T.R.Pattinam Central,1389124,Vetinary hospital,TR Pattinan,2021-08-22 14:22:38.953,Medical ,Veterinary Hospital,10.87350664,79.8365142
+Pondicherry,Puducherry,Ariankuppam,Thanampalayam,1388239,St.joseph English High school,Thanampalayam,2021-09-17 11:20:21.447,Education ,High School - General,11.861251666667,79.797536666667
+Pondicherry,Puducherry,Ariankuppam,Thanampalayam,1388239,Govt primary school,thanampalayam,2021-09-17 11:23:52.620,Education ,High School - General,11.860991666667,79.798691666667
+Pondicherry,Puducherry,Ariankuppam,Thanampalayam,1388239,Bank of India,Thavalakuppam,2021-09-17 11:18:13.310,Transport/Admin,Bank,11.858158333333,79.792983333333
+Pondicherry,Puducherry,Ariankuppam,Vadukuppam,1388305,Govt primary school,vadukuppam,2021-08-30 13:53:32.867,Education ,High School - General,11.863911666667,79.661885
+Pondicherry,Puducherry,Ariankuppam,Vadukuppam,1388305,milk collection centre,vadukuppam,2021-08-30 13:54:02.367,Agro ,Collection Centre or Pack House,11.865151666667,79.663415
+Pondicherry,Puducherry,Villianur,Mel Thirukkanji,1388375,milk collection centre,mel Thirukanji,2021-08-26 10:29:58.223,Agro ,Collection Centre or Pack House,11.89205231,79.75828484
+Pondicherry,Puducherry,Villianur,Mel Thirukkanji,1388375,Govt. Primary school,Mel Thirukanji,2021-08-26 10:06:35.947,Education ,High School - General,11.8914804,79.75538395
+Pondicherry,Puducherry,Ariankuppam,Odaively,1388232,Govt primary school,Odaively,2021-09-23 13:05:29.363,Education ,High School - General,11.886788333333,79.816023333333
+Pondicherry,Puducherry,Ariankuppam,Kariamanickam,1388291,Indian bank,kariamanickam,2021-08-27 14:23:38.230,Transport/Admin,Bank,11.871146666667,79.627105
+Pondicherry,Puducherry,Ariankuppam,Kariamanickam,1388291,Holyflowers higher secondary school,kariamanickam,2021-08-30 15:24:32.617,Education ,Higher Secondary School,11.871193333333,79.623858333333
+Pondicherry,Puducherry,Ariankuppam,Kariamanickam,1388291,Govt middle school,kariamanickam,2021-08-30 15:23:03.710,Education ,High School - General,11.870216666667,79.629513333333
+Pondicherry,Puducherry,Ariankuppam,Kariamanickam,1388291,Indian oil fuel station,kariamanickam,2021-08-30 15:23:47.437,Transport/Admin,Fuel Station,11.872351666667,79.628698333333
+Pondicherry,Karaikal,karaikal,Sethur,1389100,Bus Stop,Sethur,2021-08-17 12:00:03.510,Transport/Admin,Bus Stand,10.93944805,79.74330256
+Pondicherry,Karaikal,karaikal,Sethur,1389100,Health  sub center,Sethur,2021-08-17 11:55:10.750,Medical ,Primary Health Centre,10.93819676,79.74491895
+Pondicherry,Karaikal,karaikal,Sethur,1389100,sethur,Push thru sethur,2021-08-17 11:54:19.623,Education ,High School - General,10.93606073,79.7369785
+Pondicherry,Karaikal,karaikal,Sethur,1389100,petrol  Bunk,sethur,2021-08-17 12:01:18.607,Transport/Admin,Fuel Station,10.93561705,79.74855761
+Pondicherry,Karaikal,karaikal,Sethur,1389100,Rural  Development  center,Sethur,2021-08-17 11:59:17.213,Transport/Admin,Block Headquarter,10.93947062,79.74330699
+Pondicherry,Karaikal,karaikal,Sethur,1389100,Puduvai barathiar  kirama Bank,sethur,2021-08-17 12:00:40.510,Transport/Admin,Bank,10.93957839,79.74332375
+Pondicherry,Puducherry,Ariankuppam,Kirumampakkam,1388268,govt primary school,kirumampakkam,2021-09-23 12:30:38.440,Education ,High School - General,11.819388333333,79.785571666667
+Pondicherry,Puducherry,Ariankuppam,Kirumampakkam,1388268,health and wellness centre,kirumampakkam,2021-09-23 12:29:42.670,Medical ,Primary Health Centre,11.820558333333,79.784051666667
+Pondicherry,Puducherry,Ariankuppam,Kirumampakkam,1388268,Govt higher secondary school,kirumampakkam,2021-09-23 12:31:14.410,Education ,Higher Secondary School,11.816478333333,79.790853333333
+Pondicherry,Puducherry,Ariankuppam,Karickalampakkam,1388302,SRK higher secondary school,karickalampakkam,2021-08-30 13:32:55.863,Education ,Higher Secondary School,11.865201666667,79.748595
+Pondicherry,Puducherry,Ariankuppam,Karickalampakkam,1388302,Govt higher secondary school,karickalampakkam,2021-08-30 13:35:49.900,Education ,Higher Secondary School,11.864576666667,79.750206666667
+Pondicherry,Puducherry,Ariankuppam,Karickalampakkam,1388302,Arunai higher secondary school,karickalampakkam,2021-08-30 13:35:03.010,Education ,Higher Secondary School,11.862451666667,79.750948333333
+Pondicherry,Puducherry,Ariankuppam,Karickalampakkam,1388302,community health centre,karickalampakkam,2021-08-30 13:36:40.127,Medical ,Community Health Centre,11.864898333333,79.748778333333
+Pondicherry,Puducherry,Ariankuppam,Karickalampakkam,1388302,milk collection centre,karickalampakkam,2021-08-30 13:37:15.227,Agro ,Collection Centre or Pack House,11.864276666667,79.747885
+Pondicherry,Puducherry,Ariankuppam,Karickalampakkam,1388302,SBI bank,karickalampakkam,2021-08-30 13:33:33.697,Transport/Admin,Bank,11.86494,79.750911666667
+Pondicherry,Puducherry,Ariankuppam,Karickalampakkam,1388302,PBG bank,karickalampakkam,2021-08-30 13:34:11.660,Transport/Admin,Bank,11.864688333333,79.750723333333
+Pondicherry,Puducherry,Villianur,Kanuvapet,1388370,Government Highschool General,"3, vanniyar street, kanuvapet",2021-08-05 23:14:21.183,Education ,High School - General,11.9067644,79.76171372
+Pondicherry,Karaikal,karaikal,SoniyaGandhi Nagar,1388702,Grama  panchayat,varichikudi,2021-08-25 21:21:05.407,Transport/Admin,Panchayat Headquarter,10.98250939,79.82736506
+Pondicherry,Karaikal,karaikal,Keezha Nedungadu,1389021,Donbosco  school,Nedungadu  Vadamattam  Road,2021-08-26 13:34:56.093,Education ,Higher Secondary School,10.97173034,79.77700324
+Pondicherry,Puducherry,Ariankuppam,Chinna Karayaputhur,1388247,Govt.primary school,cinnakaraiyamputhur,2021-08-23 12:45:48.057,Education ,High School - General,11.816961666667,79.667585
+Pondicherry,Puducherry,Ariankuppam,Sembiapalayam,1388297,Pudukuppam PAC bank,sembiapalayam,2021-08-27 12:38:05.617,Transport/Admin,Bank,11.883368333333,79.72985
+Pondicherry,Puducherry,Ariankuppam,Sembiapalayam,1388297,Grama panchayat office,sembiapalayam,2021-08-27 12:37:17.880,Transport/Admin,Panchayat Headquarter,11.884043333333,79.730051666667
+Pondicherry,Puducherry,Ariankuppam,Sembiapalayam,1388297,Govt primary school,sembiapalayam,2021-08-27 12:36:26.350,Education ,High School - General,11.883971666667,79.729953333333
+Pondicherry,Puducherry,Villianur,Keezhur,1388383,ESSAR Fuel station,keezhur,2021-08-26 14:24:15.023,Transport/Admin,Fuel Station,11.88169416,79.67511582
+Pondicherry,Puducherry,Villianur,Keezhur,1388383,Govt. middle school,keezhur,2021-08-26 14:01:49.290,Education ,High School - General,11.88169473,79.67501391
+Pondicherry,Karaikal,karaikal,Mandapathur,1388726,NIT,Thiruvattakudi,2021-08-24 20:56:52.230,Education ,Degree College,10.98530885,79.84509211
+Pondicherry,Karaikal,karaikal,Mandapathur,1388726,Bus stop,Mandapathur,2021-08-24 20:58:44.290,Transport/Admin,Bus Stand,10.98380254,79.84921673
+Pondicherry,Karaikal,karaikal,Mandapathur,1388726,Bharathiar  Engineering college,Thiruvattakudi,2021-08-24 20:58:11.390,Education ,Degree College,10.98364995,79.84919108
+Pondicherry,Karaikal,karaikal,Kottucherry North W1,1388733,commune panchayat  west office,kottucherry,2021-08-17 14:39:04.903,Transport/Admin,Panchayat Headquarter,10.96221747,79.82494072
+Pondicherry,Karaikal,karaikal,Kottucherry North W1,1388733,Veterinary  Hospital,kottucherry,2021-08-17 14:29:48.207,Medical ,Veterinary Hospital,10.96769413,79.82487885
+Pondicherry,Karaikal,karaikal,Kottucherry North W1,1388733,V. O. C Higher secondary  school,kottucherry,2021-08-17 14:36:18.600,Education ,High School - General,10.96080383,79.82538597
+Pondicherry,Karaikal,karaikal,Kottucherry North W1,1388733,State bank of india,kottucherry,2021-08-17 14:39:38.957,Transport/Admin,Bank,10.96595273,79.82505108
+Pondicherry,Karaikal,karaikal,Puthakudy ,1388783,ENPEE  International  pvt  school,Vadamattam,2021-08-26 13:46:06.810,Education ,High School - General,10.96081725,79.80996842
+Pondicherry,Karaikal,karaikal,Puthakudy ,1388783,Bus stop,Vadamattam  bus stop,2021-08-26 13:42:49.323,Transport/Admin,Bus Stand,10.96598763,79.80198016
+Pondicherry,Karaikal,karaikal,Puthakudy ,1388783,"Petrole bunk  ,Vadamattam",Vadamattam,2021-08-26 13:44:45.107,Transport/Admin,Fuel Station,10.96246185,79.80862813
+Pondicherry,Karaikal,karaikal,Puthakudy ,1388783,"Govt  Middle school, Vadamattam","Vadamattam,  puthakudy",2021-08-26 13:40:53.633,Education ,High School - General,10.96715119,79.79855401
+Pondicherry,Karaikal,karaikal,Puthakudy ,1388783,Govt primary school,puthakudy,2021-08-26 13:43:23.730,Education ,High School - General,10.96939329,79.80245938
+Pondicherry,Karaikal,karaikal,Puthakudy ,1388783,"Health  sub center,Vadamattam","Vadamattam, puthakudy",2021-08-26 13:42:08.883,Medical ,Primary Health Centre,10.967150330544,79.798555970192
+Pondicherry,Puducherry,Ariankuppam,Radhakrishnan Nagar,1388228,veterinary dispensary,Ariyankuppam,2021-08-05 18:21:20.183,Medical ,Veterinary Hospital,11.89586,79.812071666667
+Pondicherry,Puducherry,Ariankuppam,Radhakrishnan Nagar,1388228,Grama panchayat office,Radhakrishnan nagar,2021-08-05 18:24:31.590,Transport/Admin,Panchayat Headquarter,11.89528,79.811686666667
+Pondicherry,Puducherry,Ariankuppam,Eripakkam,1388295,Govt primary school,Eripakkam,2021-08-27 13:01:37.150,Education ,High School - General,11.88112,79.639248333333
+Pondicherry,Puducherry,Ariankuppam,Eripakkam,1388295,milk collection centre,Eripakkam,2021-08-27 13:00:35.553,Agro ,Collection Centre or Pack House,11.880378333333,79.640485
+Pondicherry,Puducherry,Villianur,Lingareddy Palayam,1388346,Indian oil bunk,sugar factory road,2021-08-10 19:53:25.810,Transport/Admin,Fuel Station,12.02075762,79.70273257
+Pondicherry,Puducherry,Villianur,Lingareddy Palayam,1388346,bus stop,LR palayam,2021-08-10 19:51:50.220,Transport/Admin,Bus Stand,12.02046475,79.70263929
+Pondicherry,Puducherry,Villianur,Lingareddy Palayam,1388346,LR palayam Cooperative sugar mill,LR palayam,2021-08-10 19:54:43.277,Agro ,Sugar Mills,12.02342938,79.70301195
+Pondicherry,Puducherry,Villianur,sorapet,1388360,Government High School,Sorapet,2021-08-11 15:21:58.593,Education ,High School - General,11.95659149,79.65986849
+Pondicherry,Puducherry,Villianur,sorapet,1388360,PSC bank,sorapet,2021-08-11 15:20:50.110,Transport/Admin,Bank,11.95981743,79.66104325
+Pondicherry,Puducherry,Villianur,sorapet,1388360,Primary Health Centre,Sorapet,2021-08-11 15:23:01.457,Medical ,Primary Health Centre,11.9555582,79.66083535
+Pondicherry,Puducherry,Villianur,Sedarapet,1388363,HP Petrol bunk,Mailam main road,2021-08-09 18:29:29.823,Transport/Admin,Fuel Station,12.0020868,79.75942904
+Pondicherry,Puducherry,Villianur,Sedarapet,1388363,Government Higher Secondary School,Sedarapet main road,2021-08-09 18:28:33.130,Education ,Higher Secondary School,11.99126782,79.7521247
+Pondicherry,Puducherry,Villianur,Sedarapet,1388363,Primary health centre,sedarpet main road,2021-08-09 18:27:15.940,Medical ,Primary Health Centre,11.99049287,79.75148057
+Pondicherry,Puducherry,Villianur,Keezh Agraharam,1388377,"Keezh Agraharam PACHI, LTD",keezh Agraharam,2021-08-26 10:50:57.287,Transport/Admin,Bank,11.88867423,79.77099554
+Pondicherry,Puducherry,Villianur,Keezh Agraharam,1388377,Govt. Middle school,Keezh Agraharam,2021-08-26 10:48:13.720,Education ,High School - General,11.88892655,79.76824133
+Pondicherry,Puducherry,Villianur,Keezh Agraharam,1388377,Indian Oil feul station,Keezh Agraharam,2021-08-28 09:40:35.047,Transport/Admin,Fuel Station,11.88588075,79.7695654
+Pondicherry,Karaikal,karaikal,Pandaravadai,1388746,Bus stop,pandaravadai Main Road,2021-08-17 20:58:37.893,Transport/Admin,Bus Stand,10.99929634,79.75776215
+Pondicherry,Karaikal,karaikal,Melaponbethy,1388777,Govt Middle school Ponbethy,Ponbethy,2021-08-17 21:04:54.247,Education ,High School - General,10.97327891,79.7772474
+Pondicherry,Karaikal,karaikal,Subbaiya Nagar,1389163,"Vetinary  Hospital, Neravy",Ongc  first salai,2021-08-18 14:18:57.320,Medical ,Veterinary Hospital,10.89297232,79.8190426
+Pondicherry,Puducherry,Ariankuppam,Ariankuppam East,1388226,Higher secondary school,Ariyankuppam,2021-07-09 13:09:42.110,Education ,Higher Secondary School,11.89575963188,79.804872907698
+Pondicherry,Puducherry,Ariankuppam,Ariankuppam East,1388226,Primary Health Centre,Ariyankuppam,2021-07-09 13:10:54.223,Medical ,Primary Health Centre,11.895630969666,79.805304491892
+Pondicherry,Puducherry,Ariankuppam,Narambai,1388276,Govt primary school,Narambai,2021-09-23 12:40:11.453,Education ,High School - General,11.813041666667,79.799248333333
+Pondicherry,Karaikal,karaikal,Oozhiapathu,1389147,Govt High school,Oziapathu,2021-08-19 16:24:10.383,Education ,High School - General,10.9008418,79.7949475
+Pondicherry,Karaikal,karaikal,Oozhiapathu,1389147,Bus stop near Bangalathottam,oziapathu Main road,2021-08-19 17:02:59.657,Transport/Admin,Bus Stand,10.90388201,79.80629893
+Pondicherry,Karaikal,karaikal,Oozhiapathu,1389147,Grama Panchayat Kezamanai,Oziapathu,2021-08-19 16:26:17.387,Transport/Admin,Panchayat Headquarter,10.89959382,79.79450971
+Pondicherry,Karaikal,karaikal,Oozhiapathu,1389147,Bus stop,Ooziapathu,2021-08-19 16:27:19.510,Transport/Admin,Bus Stand,10.89114363,79.78515222
+Pondicherry,Karaikal,karaikal,Oozhiapathu,1389147,Bus stop at Junction,ooziapathu,2021-08-19 16:52:08.117,Transport/Admin,Bus Stand,10.899614,79.79861065
+Pondicherry,Karaikal,karaikal,Kumaran Koil,1389162,Govt  Higher  secondary  school,Neravy,2021-08-18 14:24:58.143,Education ,Higher Secondary School,10.89410695,79.81248451
+Pondicherry,Karaikal,karaikal,Kumaran Koil,1389162,Kendria vidyalaya.   Neravy,Neravy,2021-08-18 14:25:10.033,Education ,Higher Secondary School,10.8944363,79.81317553
+Pondicherry,Puducherry,Ariankuppam,Melparickalpet,1388255,Thirukumaran agency,melparickalpet,2021-09-17 11:17:23.317,Transport/Admin,Fuel Station,11.795783333333,79.749906666667
+Pondicherry,Puducherry,Ariankuppam,Melparickalpet,1388255,AG Padmavathy college of nursing,melparickalpet,2021-09-17 11:09:04.590,Education ,Degree College,11.795808333333,79.746628333333
+Pondicherry,Puducherry,Ariankuppam,Maducarai  East,1388289,BALAR VIDYALAYA HIGH SCHOOL,Maducarai,2021-08-27 14:22:06.867,Education ,High School - General,11.871266666667,79.605513333333
+Pondicherry,Puducherry,Ariankuppam,Maducarai  East,1388289,Grama panchayat office,maducarai,2021-08-27 14:17:29.343,Transport/Admin,Panchayat Headquarter,11.868388333333,79.608318333333
+Pondicherry,Puducherry,Ariankuppam,Maducarai  East,1388289,VRamamurthy Govt high school,maducarai,2021-08-27 14:22:54.730,Education ,High School - General,11.870726666667,79.615111666667
+Pondicherry,Puducherry,Ariankuppam,Maducarai  East,1388289,Bharat Petroleum,Maducarai East,2021-08-27 14:21:16.350,Transport/Admin,Fuel Station,11.875596666667,79.60662
+Pondicherry,Puducherry,Ariankuppam,Maducarai  East,1388289,Indian bank,maducarai,2021-08-27 14:18:17.690,Transport/Admin,Bank,11.868735,79.608433333333
+Pondicherry,Puducherry,Villianur,Thirubuvanai Palayam,1388357,IOB bank,Thirubuvanai palayam,2021-08-26 14:16:21.720,Transport/Admin,Bank,11.91843221,79.64870985
+Pondicherry,Karaikal,karaikal,Panchatcharapuram,1388757,Puduvai  Bharathiyar  Grama  Bank,Nedungadu,2021-08-26 13:31:32.167,Transport/Admin,Bank,10.97413085,79.77023539
+Pondicherry,Karaikal,karaikal,Panchatcharapuram,1388757,Higher secondary school (Private),Nedungadu,2021-08-17 21:11:14.310,Education ,High School - General,10.97522593,79.77151388
+Pondicherry,Karaikal,karaikal,Panchatcharapuram,1388757,Rural  Development center,panchatcharapuram,2021-08-17 21:08:24.830,Transport/Admin,Block Headquarter,10.97567848,79.77251275
+Pondicherry,Karaikal,karaikal,Keezhavanjure,1389136,Govt primary school,Kezhavanjure,2021-08-20 21:19:30.583,Education ,High School - General,10.83831683,79.83791513
+Pondicherry,Karaikal,karaikal,Keezhavanjure,1389136,Bus stop  near  Petrol  bunk,kezhavanjore,2021-08-20 21:10:32.070,Transport/Admin,Bus Stand,10.83782198,79.83267014
+Pondicherry,Karaikal,karaikal,Keezhavanjure,1389136,Grama panchayat  office,keezhavanjure,2021-08-20 21:20:57.607,Transport/Admin,Panchayat Headquarter,10.83372358,79.83942253
+Pondicherry,Karaikal,karaikal,Keezhavanjure,1389136,IOC Petrol bunk,Keezhavanjore,2021-08-20 21:10:57.090,Transport/Admin,Fuel Station,10.83777775,79.83263645
+Pondicherry,Karaikal,karaikal,Keezhavanjure,1389136,Petrol  bunk  HP,Keezhavanjore,2021-08-20 21:09:22.470,Transport/Admin,Fuel Station,10.84544892,79.83115765
+Pondicherry,Karaikal,karaikal,Keezhavanjure,1389136,Vetinary  hospital Key  Unit,kezhavanjure,2021-08-20 21:20:18.217,Medical ,Veterinary Hospital,10.83814399,79.83795262
+Pondicherry,Karaikal,karaikal,Keezhavanjure,1389136,Petrol  bunk  IOC,Keezhavanjore,2021-08-20 21:09:49.700,Transport/Admin,Fuel Station,10.84206596,79.83164443
+Pondicherry,Puducherry,Ariankuppam,Pinnatchikuppam,1388263,Health sub centre,pinnatchikuppam,2021-08-26 13:50:16.820,Medical ,Primary Health Centre,11.814381666667,79.761658333333
+Pondicherry,Puducherry,Villianur,Mannadipet,1388331,krishna Engineering College,Mannadipeta,2021-08-11 15:13:00.393,Education ,Degree College,11.98219047,79.62914697
+Pondicherry,Puducherry,Villianur,Mannadipet,1388331,Puduvai bharatiyar grama bank,TV malai road,2021-08-11 15:11:21.470,Transport/Admin,Bank,11.9826823,79.62463456
+Pondicherry,Puducherry,Villianur,Mannadipet,1388331,community health centre,Mannadipet,2021-08-11 15:12:01.957,Medical ,Community Health Centre,11.98357852,79.62118975
+Pondicherry,Puducherry,Villianur,Mannadipet,1388331,veternary hospital,Mannadipet,2021-08-11 15:14:04.740,Medical ,Veterinary Hospital,11.97616194,79.62747266
+Pondicherry,Puducherry,Villianur,Poraiyur,1388399,Sri Lakshmi Narayana Institute of Medical sciences.,Vazhudavur road,2021-08-13 12:15:28.610,Education ,Degree College,11.94011203,79.73764067
+Pondicherry,Puducherry,Villianur,Poraiyur,1388399,Petrol bunk,ulaivaikkal road,2021-08-13 12:10:32.937,Transport/Admin,Fuel Station,11.92886764,79.74375281
+Pondicherry,Karaikal,karaikal,Mathalankudy,1388749,Govt primary school,Mathalangudy,2021-08-17 21:13:00.693,Education ,High School - General,10.98921732,79.75654524
+Pondicherry,Karaikal,karaikal,Thamanankudy,1389042,High school. (Private),"Sai  Ram  English  School  ,Thamanangudi",2021-08-18 18:46:22.490,Education ,High School - General,10.954769253731,79.738678336144
+Pondicherry,Karaikal,karaikal,Thamanankudy,1389042,High school. (Private ),Thamanangudi,2021-08-18 18:47:47.460,Education ,High School - General,10.9513356,79.73810334
+Pondicherry,Karaikal,karaikal,Thamanankudy,1389042,Danbosco pvt  college,Thamanangudi,2021-08-18 18:48:17.400,Education ,Degree College,10.9513356,79.73810334
+Pondicherry,Karaikal,karaikal,Banglathottam,1389149,Bus stop,Banglathottam,2021-08-19 16:53:51.580,Transport/Admin,Bus Stand,10.90390499,79.8062816
+Pondicherry,Puducherry,Ariankuppam,Irulanchandai,1388253,Govt primary school,Irulanchandai,2021-09-17 11:08:20.013,Education ,High School - General,11.800266666667,79.72935
+Pondicherry,Puducherry,Ariankuppam,Kalamandabam ,1388304,milk collection centre,kalmandabam,2021-08-30 14:39:34.733,Agro ,Collection Centre or Pack House,11.87068,79.649451666667
+Pondicherry,Puducherry,Ariankuppam,Kalamandabam ,1388304,Indian oil fuel station,kalmandabam,2021-08-30 14:34:55.973,Transport/Admin,Fuel Station,11.870748333333,79.643388333333
+Pondicherry,Puducherry,Ariankuppam,Kalamandabam ,1388304,Govt High school,kalmandabam,2021-08-30 14:02:16.097,Education ,High School - General,11.870315,79.654148333333
+Pondicherry,Karaikal,karaikal,Kottagam ,1388772,Govt primary school  cbsc,kottagam,2021-08-17 21:04:17.603,Education ,High School - General,10.98441835,79.78301379
+Pondicherry,Karaikal,karaikal,Kottagam ,1388772,Bus stop,kottagam,2021-08-17 21:03:53.737,Transport/Admin,Bus Stand,10.98365096,79.78214589
+Pondicherry,Karaikal,karaikal,Ambethkar Nagar,1389023,Rural  Development  center,Nedungadu,2021-08-26 13:26:05.797,Transport/Admin,Block Headquarter,10.96917679,79.77711284
+Pondicherry,Karaikal,karaikal,Muppaithankudy,1389223,Govt primary  school,Muppaithankudy,2021-08-27 18:00:39.550,Education ,High School - General,10.92130099,79.75576629
+Pondicherry,Karaikal,karaikal,Muppaithankudy,1389223,Health  sub center Muppaithangudy,Muppaithangudy,2021-08-28 17:11:21.327,Medical ,Primary Health Centre,10.921121,79.75457523
+Pondicherry,Puducherry,Ariankuppam,Themmanayakkam palayam,1388244,Govt. middle school,T N Palayam,2021-08-07 12:30:29.953,Education ,High School - General,11.842293333333,79.771585
+Pondicherry,Puducherry,Ariankuppam,Themmanayakkam palayam,1388244,Health sub centre,T N Palayam,2021-08-07 12:31:48.020,Medical ,Primary Health Centre,11.843153333333,79.768968333333
+Pondicherry,Puducherry,Ariankuppam,Themmanayakkam palayam,1388244,"Office of the junior enginer, PWD",T N Palayam,2021-08-07 12:36:21.383,Transport/Admin,Block Headquarter,11.844516666667,79.766643333333
+Pondicherry,Puducherry,Ariankuppam,Themmanayakkam palayam,1388244,KEY village unit,TN Palayam,2021-08-07 12:34:13.867,Medical ,Veterinary Hospital,11.843433333333,79.769251666667
+Pondicherry,Puducherry,Ariankuppam,Kanniakoil,1388279,Indian oil fuel station,kanniakoil,2021-09-23 11:46:21.720,Transport/Admin,Fuel Station,11.794828333333,79.770788333333
+Pondicherry,Puducherry,Ariankuppam,Kanniakoil,1388279,veterinary hospital,kanniakoil,2021-09-23 11:46:51.690,Medical ,Veterinary Hospital,11.79551,79.77119
+Pondicherry,Puducherry,Ariankuppam,Kanniakoil,1388279,State Bank of India,kanniakoil,2021-09-23 11:47:47.837,Transport/Admin,Bank,11.796311666667,79.772261666667
+Pondicherry,Puducherry,Ariankuppam,Kanniakoil,1388279,govt primary school,kanniakoil,2021-09-23 11:51:28.900,Education ,Degree College,11.79913,79.774375
+Pondicherry,Puducherry,Ariankuppam,Molapkkam,1388293,Govt middle school,molapakkam,2021-08-27 14:16:00.747,Education ,High School - General,11.881278333333,79.617943333333
+Pondicherry,Puducherry,Ariankuppam,Molapkkam,1388293,milk collection centre,molapakkam,2021-08-27 14:16:42.810,Agro ,Collection Centre or Pack House,11.881266666667,79.618233333333
+Pondicherry,Puducherry,Villianur,Sandaipudukuppam,1388344,Government High school,sandai pudukuppam,2021-08-10 19:58:14.860,Education ,High School - General,12.02178579,79.68712971
+Pondicherry,Puducherry,Villianur,Sandaipudukuppam,1388344,bus stop,sandaipudukuppam,2021-08-10 19:59:24.390,Transport/Admin,Bus Stand,12.0203638,79.68632999
+Pondicherry,Puducherry,Villianur,Sandaipudukuppam,1388344,veternary hospital,murugan koil street,2021-08-10 20:00:07.190,Medical ,Veterinary Hospital,12.02012933,79.68604165
+Pondicherry,Karaikal,karaikal,Annanagar,1388730,Govt  primary  school,"Anna nagar ,Kottuchery",2021-08-17 14:31:14.460,Education ,High School - General,10.96558341,79.82777355
+Pondicherry,Karaikal,karaikal,Vadakattalai,1389130,Govt  Primary school,TR pattinam  vadakattalai,2021-08-22 14:19:33.177,Education ,High School - General,10.8792916,79.83743349
+Pondicherry,Karaikal,karaikal,Vadakattalai,1389130,Grama  panchayat  Kezaiyur,TR pattinam Vadakattalai,2021-08-22 14:19:48.783,Transport/Admin,Panchayat Headquarter,10.87880374,79.83745376
+Pondicherry,Karaikal,karaikal,Pallivasal,1389165,Govt  High school. Neravy,King  Street  Neravy,2021-08-18 14:17:54.150,Education ,High School - General,10.88982888,79.81793163
+Pondicherry,Karaikal,karaikal,Pallivasal,1389165,Kamalia  High  school (Girls)  Aided.   Neravy,kamalia  street Neravy,2021-08-18 14:17:10.460,Education ,High School - Girls,10.88967193,79.82029076
+Pondicherry,Karaikal,karaikal,Seshamoolai Road,1389139,Indian  oil  Petrol  bunk  Vizhithiyur,Vizhthiyur,2021-08-28 17:06:45.720,Transport/Admin,Fuel Station,10.908361673355,79.772597551346
+Pondicherry,Karaikal,karaikal,Seshamoolai Road,1389139,Puduvai  Bharathiar  Grams  Bank,Vizhthiyur,2021-08-19 18:48:19.443,Transport/Admin,Bank,10.90928526,79.7623706
+Pondicherry,Karaikal,karaikal,Seshamoolai Road,1389139,Bus stop,Vizhithiyur,2021-08-19 18:48:01.617,Transport/Admin,Bus Stand,10.9084323,79.76019063
+Pondicherry,Karaikal,karaikal,Seshamoolai Road,1389139,Bus stop near  Petrol  Bunk,Main Road  Vizhithiyur,2021-08-19 18:49:50.470,Transport/Admin,Bus Stand,10.90860144,79.77072353
+Pondicherry,Karaikal,karaikal,Seshamoolai Road,1389139,primary  Health  center,Vizhithiyur,2021-08-19 18:48:36.087,Medical ,Primary Health Centre,10.90911622,79.76535509
+Pondicherry,Puducherry,Ariankuppam,Manamedu,1388249,Health and wellness centre,manamedu,2021-08-30 16:17:10.877,Medical ,Primary Health Centre,11.810205,79.684896666667
+Pondicherry,Puducherry,Ariankuppam,Manamedu,1388249,Govt primary school,Manamedu,2021-08-30 16:09:16.207,Education ,High School - General,11.810336666667,79.684533333333
+Pondicherry,Puducherry,Ariankuppam,Pudukuppam,1388288,govt primary school,Pudukuppam,2021-09-23 11:02:55.737,Education ,High School - General,11.789288333333,79.788935
+Pondicherry,Puducherry,Villianur,Kumarapalayam,1388342,HP petrol bunk,Thirukkanur main road,2021-08-10 20:03:35.353,Transport/Admin,Fuel Station,11.9862603,79.68028195
+Pondicherry,Puducherry,Villianur,Kumarapalayam,1388342,bus stop,Thirukkanur main road,2021-08-10 20:02:41.140,Transport/Admin,Bus Stand,11.98699439,79.67978668
+Pondicherry,Puducherry,Villianur,Thirubuvanai,1388356,Primary Health Centre,Thirubuvanai,2021-08-12 15:33:34.310,Medical ,Primary Health Centre,11.92530563,79.64523584
+Pondicherry,Puducherry,Villianur,Thirubuvanai,1388356,Indian Overseas Bank,Thirubuvanai,2021-08-12 15:34:29.480,Transport/Admin,Bank,11.91814558,79.64866739
+Pondicherry,Puducherry,Villianur,Thirubuvanai,1388356,High School,Thirubuvanai,2021-08-12 14:34:54.560,Education ,High School - General,11.92739829,79.64318275
+Pondicherry,Puducherry,Villianur,Thirubuvanai,1388356,Panchayat Head quarters,Thirubuvanai,2021-08-12 15:32:58.963,Transport/Admin,Panchayat Headquarter,11.92738996,79.64313546
+Pondicherry,Puducherry,Villianur,Ramanathapuram,1388367,Bedded Hospital,Ramanathapuram,2021-08-11 15:32:29.157,Medical ,Bedded Hospital,11.95388464,79.71801749
+Pondicherry,Puducherry,Villianur,Manakuppam,1388381,Indtan oil Fuel station,manakuppam,2021-08-26 13:11:04.290,Transport/Admin,Fuel Station,11.86766258,79.69841507
+Pondicherry,Puducherry,Villianur,Manakuppam,1388381,Indian Oil Petrol Bunk,Manakuppam,2021-08-13 12:14:31.917,Transport/Admin,Fuel Station,11.86786905,79.69848102
+Pondicherry,Puducherry,Villianur,Manakuppam,1388381,Govt. primary school,manakuppam,2021-08-26 13:14:33.967,Education ,High School - General,11.86515594,79.69698459
+Pondicherry,Karaikal,karaikal,Keezha Annavasal,1389035,Bus stop,Keza  Annavasal,2021-08-26 13:33:38.123,Transport/Admin,Bus Stand,10.97439049,79.76269533
+Pondicherry,Karaikal,karaikal,Sorakudy,1389049,Bus stop  sorakudy,sorakudy,2021-08-28 17:08:27.117,Transport/Admin,Bus Stand,10.94115075,79.77984001
+Pondicherry,Karaikal,karaikal,Sorakudy,1389049,Govt  Middle school,Sorakudy,2021-08-28 17:08:47.883,Education ,High School - General,10.94110993,79.77978621
+Pondicherry,Karaikal,karaikal,Sorakudy,1389049,Govt Middle school,Sorakudy,2021-08-28 17:07:03.113,Education ,High School - General,10.9390726,79.78026013
+Pondicherry,Karaikal,karaikal,Sorakudy,1389049,Govt  Agriculture  college  PAJANCOA,Sorakudy,2021-08-18 19:03:49.290,Education ,Degree College,10.95055839,79.77801456
+Pondicherry,Karaikal,karaikal,Manampet,1389142,Govt. Primary school,Manampet,2021-08-19 17:25:13.857,Education ,High School - General,10.89354549,79.76232368
+Pondicherry,Karaikal,karaikal,Manampet,1389142,Health  Sub center,Manampet,2021-08-19 17:24:35.377,Medical ,Primary Health Centre,10.89362693,79.76230213
+Pondicherry,Karaikal,karaikal,Perumal Koil,1389160,Pvt  primary  English school,Neravy,2021-08-18 14:24:25.063,Education ,High School - General,10.89367183,79.810946
+Pondicherry,Karaikal,karaikal,Perumal Koil,1389160,Bus Stop,Perumal  koil  street Neravy,2021-08-18 14:24:36.830,Transport/Admin,Bus Stand,10.89350714,79.81023684
+Pondicherry,Puducherry,Ariankuppam,Kuruvinatham,1388251,Indian Bank,kuruvinatham,2021-09-17 11:07:08.433,Transport/Admin,Bank,11.795255,79.736083333333
+Pondicherry,Puducherry,Ariankuppam,Kuruvinatham,1388251,Govt High school,kuruvinatham,2021-09-17 11:05:15.193,Education ,High School - General,11.793616666667,79.730951666667
+Pondicherry,Puducherry,Ariankuppam,Kuruvinatham,1388251,Health and wellness centre,kuruvinatham,2021-09-17 11:02:28.600,Medical ,Primary Health Centre,11.79297,79.731368333333
+Pondicherry,Puducherry,Ariankuppam,Kuruvinatham,1388251,Grama panchayat office,kuruvinatham,2021-09-17 11:04:18.410,Transport/Admin,Panchayat Headquarter,11.793278333333,79.730931666667
+Pondicherry,Puducherry,Ariankuppam,Kuruvinatham,1388251,milk collection centre,kuruvinatham,2021-09-17 11:06:02.893,Agro ,Collection Centre or Pack House,11.79377,79.732051666667
+Pondicherry,Puducherry,Villianur,Madagadipet Palayam,1388353,Government High School,Madagadipet Palayam,2021-08-12 14:33:04.427,Education ,High School - General,11.91421055,79.64740201
+Pondicherry,Karaikal,karaikal,MelaAnnavasal,1389038,Bus stop,Annavasal,2021-08-26 13:32:41.027,Transport/Admin,Bus Stand,10.97429934,79.75817417
+Pondicherry,Karaikal,karaikal,Nadutheru,1389140,Milk producer sangam,Main road  Vizhithiyur,2021-08-19 17:21:33.227,Agro ,Collection Centre or Pack House,10.90874911,79.76648666
+Pondicherry,Karaikal,karaikal,Nadutheru,1389140,Rural  Development  center,Vizhithiyur,2021-08-19 17:23:18.070,Transport/Admin,Block Headquarter,10.90808299,79.76589768
+Pondicherry,Karaikal,karaikal,Nadutheru,1389140,Govt primary school,Vizhthiyur,2021-08-19 17:24:11.767,Education ,High School - General,10.90653897,79.76626233
+Pondicherry,Karaikal,karaikal,Nadutheru,1389140,Bus stop,Main road  Vizhithiyur,2021-08-19 17:22:40.060,Transport/Admin,Bus Stand,10.9087727,79.76642698
+Pondicherry,Karaikal,karaikal,Nadutheru,1389140,Govt  High school,Main  Road  Vizhithiyur,2021-08-19 17:07:07.790,Education ,High School - General,10.90693544,79.78607368
+Pondicherry,Karaikal,karaikal,Nadutheru,1389140,Vetinary  Hospital,Main road  Vizhithiyur,2021-08-19 17:20:34.003,Medical ,Veterinary Hospital,10.90879241,79.76654619
+Pondicherry,Karaikal,karaikal,Thennankudy,1389221,Bus stop,Thennankudy,2021-08-27 18:00:01.817,Transport/Admin,Bus Stand,10.92863902,79.76054631
+Pondicherry,Karaikal,karaikal,Thennankudy,1389221,Vertenary  Hospital,Thennankudy,2021-08-27 17:59:40.707,Medical ,Veterinary Hospital,10.92892079,79.76055062
+Pondicherry,Puducherry,Ariankuppam,Seliamedu ,1388261,milk collection centre,seliamedu,2021-08-26 12:59:19.883,Agro ,Collection Centre or Pack House,11.824298333333,79.75181
+Pondicherry,Puducherry,Ariankuppam,Seliamedu ,1388261,veterinary hospital,seliamedu,2021-08-26 13:42:51.917,Medical ,Veterinary Hospital,11.827728333333,79.751923333333
+Pondicherry,Puducherry,Ariankuppam,Seliamedu ,1388261,Health sub centre,seliamedu,2021-08-26 13:01:18.777,Medical ,Primary Health Centre,11.823058333333,79.751876666667
+Pondicherry,Puducherry,Ariankuppam,Seliamedu ,1388261,Govt. High school,seliamedu,2021-08-26 12:57:57.427,Education ,High School - General,11.824225,79.751656666667
+Pondicherry,Puducherry,Ariankuppam,Seliamedu ,1388261,Indian bank,seliamedu,2021-08-26 13:00:17.447,Transport/Admin,Bank,11.823241666667,79.751995
+Pondicherry,Puducherry,Ariankuppam,Kudiyirupupalayam ,1388262,Govt. primary school,kudiyirupupalayam,2021-08-26 13:45:21.623,Education ,High School - General,11.820133333333,79.751266666667
+Pondicherry,Puducherry,Villianur,Vinayagampet,1388361,Bus stop,vinayagampet,2021-08-11 15:24:44.253,Transport/Admin,Bus Stand,11.95565837,79.68056328
+Pondicherry,Puducherry,Villianur,Vinayagampet,1388361,Essar bunk,vinayagampet,2021-08-11 15:23:32.160,Transport/Admin,Fuel Station,11.9567106,79.67582072
+Pondicherry,Karaikal,karaikal,Ponnagar Colony,1388761,Govt primary school  cbsc,Nedungadu  Main Road,2021-08-17 21:07:09.863,Education ,High School - General,10.97422801,79.76891386
+Pondicherry,Karaikal,karaikal,Valathamangalam,1389048,Govt primary school,Valathamangalam,2021-08-18 18:56:15.100,Education ,High School - General,10.94865093,79.75593018
+Pondicherry,Karaikal,karaikal,Thoothuponamoolai,1389148,Govt  primary  school  cbsc,Thoothuponamolai,2021-08-19 16:26:46.057,Education ,High School - General,10.89114269,79.7851631
+Pondicherry,Karaikal,karaikal,Thirunallar,1389092,Bus stop  near veteniery  Hospital,Thirunallar,2021-08-27 17:57:51.680,Transport/Admin,Bus Stand,10.92633979,79.78796586
+Pondicherry,Karaikal,karaikal,Thirunallar,1389092,Govt primary school  Subarayapuram,Subarayapuram,2021-08-28 17:11:39.280,Education ,High School - General,10.93744216,79.79296418
+Pondicherry,Karaikal,karaikal,Thirunallar,1389092,Govt Middle school  Neyvatchery,Thirunallar,2021-08-19 18:52:51.647,Education ,High School - General,10.92374091,79.79573941
+Pondicherry,Karaikal,karaikal,Thirunallar,1389092,Commune  Panchayat office,Thirunallar,2021-08-27 17:56:45.410,Transport/Admin,Panchayat Headquarter,10.926257371902,79.788594245911
+Pondicherry,Karaikal,karaikal,Thirunallar,1389092,Bank of India,Thirunallar,2021-08-27 17:55:27.923,Transport/Admin,Bank,10.92670646,79.79335867
+Pondicherry,Karaikal,karaikal,Thirunallar,1389092,HP  petrol  Bunk,Thirunallar  near Bus stand,2021-08-27 17:52:05.967,Transport/Admin,Fuel Station,10.92640275,79.79844721
+Pondicherry,Karaikal,karaikal,Mela Athipadugai,1389117,Milk  producer  sangam,Athipadugai,2021-08-19 18:52:18.363,Agro ,Collection Centre or Pack House,10.90632953,79.79476473
+Pondicherry,Karaikal,karaikal,Mela Athipadugai,1389117,Govt primary school,Athipadugai,2021-08-19 18:52:07.987,Education ,High School - General,10.90523916,79.79700222
+Pondicherry,Karaikal,karaikal,Padutharkollai,1389171,Govt primary school,padutharkolai,2021-08-20 21:07:39.287,Education ,High School - General,10.878326296806,79.807691574097
+Pondicherry,Puducherry,Ariankuppam,Pannithittu,1388269,Govt High school,Panithittu,2021-09-23 12:40:42.877,Education ,High School - General,11.829988333333,79.802768333333
+Pondicherry,Puducherry,Ariankuppam,Pandasollanallur,1388303,veterinary hospital,pandasollanallur,2021-08-30 15:13:05.863,Medical ,Veterinary Hospital,11.858956666667,79.644685
+Pondicherry,Puducherry,Ariankuppam,Pandasollanallur,1388303,milk collection centre,pandasollanallur,2021-08-30 15:13:59.017,Agro ,Collection Centre or Pack House,11.858251666667,79.643753333333
+Pondicherry,Puducherry,Ariankuppam,Pandasollanallur,1388303,Govt middle school,pandasollanallur,2021-08-30 15:15:06.027,Education ,High School - General,11.858021666667,79.644015
+Pondicherry,Puducherry,Ariankuppam,Pandasollanallur,1388303,Grama panchayat office,pandasollanallur,2021-08-30 15:11:26.693,Transport/Admin,Panchayat Headquarter,11.860016666667,79.644518333333
+Pondicherry,Puducherry,Ariankuppam,Pandasollanallur,1388303,Health and wellness centre,pandasollanallur,2021-08-30 15:12:12.860,Medical ,Primary Health Centre,11.859475,79.644565
+Pondicherry,Puducherry,Ariankuppam,Pandasollanallur,1388303,Govt primary school,pandasollanallur,2021-08-30 15:18:53.510,Education ,High School - General,11.856748333333,79.644933333333
+Pondicherry,Puducherry,Villianur,Koodapakkam,1388369,Primary health centre,koodapakkam,2021-08-09 18:34:34.717,Medical ,Primary Health Centre,11.93486007,79.73354066
+Pondicherry,Puducherry,Villianur,Koodapakkam,1388369,Government higher secondary school,near koneri kuppam road,2021-08-09 18:35:41.133,Education ,Higher Secondary School,11.93243124,79.73004284
+Pondicherry,Puducherry,Villianur,Koodapakkam,1388369,Indianoil petrol bunk,pathukannu junction road,2021-08-09 18:33:25.027,Transport/Admin,Fuel Station,11.94271048,79.72645676
+Pondicherry,Puducherry,Villianur,Agaram,1388403,Bus Stop,kudapakkam road,2021-08-13 12:10:01.590,Transport/Admin,Bus Stand,11.93146012,79.73784211
+Pondicherry,Karaikal,karaikal,Rayanpalayam,1388703,Karaikal   Govt polytechnic,"Main road  , varichikudy",2021-08-25 21:23:35.823,Education ,Higher Secondary School,10.97670162,79.82458321
+Pondicherry,Karaikal,karaikal,Rayanpalayam,1388703,Govt primary school,Rayanpalayam,2021-08-25 21:24:07.593,Education ,High School - General,10.97364964,79.82104338
+Pondicherry,Karaikal,karaikal,Rayanpalayam,1388703,Navodaya  vidyalaya,"Rayanpalayam, Varichikudy",2021-08-25 21:23:53.777,Education ,Higher Secondary School,10.971718,79.82477352
+Pondicherry,Karaikal,karaikal,Rayanpalayam,1388703,Health  sub center,Rayanpalayam,2021-08-25 21:24:46.587,Medical ,Primary Health Centre,10.97404911,79.82057455
+Pondicherry,Karaikal,karaikal,Pandaravadai Sethur,1389103,Govt primary  school  cbsc,sethur  pandaravadai,2021-08-17 11:58:10.167,Education ,High School - General,10.93068577,79.74380329
+Pondicherry,Puducherry,Ariankuppam,Manavely,1388233,Govt girls higher secondary school,manavely,2021-09-23 13:00:26.230,Education ,Higher Secondary School,11.892145,79.809761666667
+Pondicherry,Puducherry,Ariankuppam,Manavely,1388233,Govt primary school,Manavely,2021-09-23 12:56:26.157,Education ,High School - General,11.890723333333,79.809626666667
+Pondicherry,Puducherry,Ariankuppam,Edayarpalayam,1388240,Govt primary school,Edayarpalayam,2021-09-17 12:00:59.903,Education ,High School - General,11.870065,79.798666666667
+Pondicherry,Puducherry,Ariankuppam,Maducarai  West,1388290,Primary Health Centre,Madukarai,2021-08-04 18:27:25.120,Medical ,Primary Health Centre,11.870693333333,79.605426666667
+Pondicherry,Puducherry,Ariankuppam,Maducarai  West,1388290,Bus Stand,Manthavel Madukarai,2021-08-04 18:22:16.923,Transport/Admin,Bus Stand,11.86948,79.60605
+Pondicherry,Puducherry,Ariankuppam,Maducarai  West,1388290,"Govt. Primary School, English Medium (CBSC syllabus)",Madukarai,2021-08-04 18:28:39.157,Education ,High School - General,11.870163333333,79.605776666667
+Pondicherry,Puducherry,Ariankuppam,Maducarai  West,1388290,Govt. Girls Higher Secondary School,Madukarai,2021-08-04 18:24:57.583,Education ,Higher Secondary School,11.87005,79.605566666667
+Pondicherry,Puducherry,Ariankuppam,Maducarai  West,1388290,PBGB Bank,Madukarai,2021-08-27 14:18:59.750,Transport/Admin,Bank,11.868918333333,79.605725
+Pondicherry,Puducherry,Ariankuppam,Maducarai  West,1388290,Idian oil fuel station,maducarai,2021-08-27 14:20:27.800,Transport/Admin,Fuel Station,11.872768333333,79.60208
+Pondicherry,Puducherry,Ariankuppam,Maducarai  West,1388290,EVERGREEN ENGLISH HIGH SCHOOL,Maducarai,2021-08-27 14:19:46.567,Education ,High School - General,11.871201666667,79.60531
+Pondicherry,Puducherry,Villianur,Sulthanpet,1388390,Indian Bank,Sulthanpet,2021-08-13 12:11:01.767,Transport/Admin,Bank,11.92411547,79.76080055
+Pondicherry,Puducherry,Villianur,Sulthanpet,1388390,kanniamigu quaide milleth government higher secondary school,sulthanpet,2021-08-13 12:12:06.250,Education ,Higher Secondary School,11.92058716,79.76069662
+Pondicherry,Puducherry,Villianur,Odiampet East,1388397,SRI SANKARA VIDHYASHRAMAM HIGHER SECONDERY SCHOOL,Odiampet,2021-08-28 09:37:09.063,Education ,Higher Secondary School,11.89819587,79.76690314
+Pondicherry,Puducherry,Villianur,Odiampet East,1388397,Govt Primary school,Odiampet,2021-08-27 16:37:20.743,Education ,High School - General,11.90701378,79.77562761
+Pondicherry,Karaikal,karaikal,Kannapore,1389040,Govt  Primary school,Kannapore,2021-08-18 18:45:18.693,Education ,High School - General,10.96143287,79.74232692
+Pondicherry,Karaikal,karaikal,Nallathur,1388745,govt primary school,Nallathur,2021-08-12 18:03:51.603,Education ,High School - General,10.9260719,79.8381016
+Pondicherry,Karaikal,karaikal,Nallathur,1388745,IOC Petrol  bunk,Nallathur,2021-08-17 20:57:44.457,Transport/Admin,Fuel Station,11.00013201,79.7529036
+Pondicherry,Karaikal,karaikal,Karukkankudy,1389046,Andavar High school (Private),Karukankudi,2021-08-18 18:58:14.417,Education ,High School - General,10.94408703,79.7729902
+Pondicherry,Karaikal,karaikal,Karukkankudy,1389046,Govt  Middle school,Karukankudi,2021-08-18 18:56:52.780,Education ,High School - General,10.94878431,79.75574047
+Pondicherry,Karaikal,karaikal,Karukkankudy,1389046,Health  sub center,Karukkankudi,2021-08-18 18:57:16.910,Medical ,Primary Health Centre,10.94555682,79.77293414
+Pondicherry,Karaikal,karaikal,Kakamozhy,1389145,Govt Primary  school,Kakamozhy,2021-08-19 16:28:36.310,Education ,High School - General,10.89411884,79.79916166
+Pondicherry,Karaikal,karaikal,Kakamozhy,1389145,Bus stop,Kakamozhi,2021-08-19 16:27:56.467,Transport/Admin,Bus Stand,10.89484939,79.80042902
+Pondicherry,Karaikal,karaikal,T.R.Pattinam Central,1389124,Bus stop,TR Pattinam,2021-08-22 14:24:04.110,Transport/Admin,Bus Stand,10.87481856,79.83256516
+Pondicherry,Karaikal,karaikal,T.R.Pattinam Central,1389124,PSCB Bank,Tr pattinam,2021-08-22 14:23:50.007,Transport/Admin,Bank,10.87476898,79.83260715
+Pondicherry,Karaikal,karaikal,T.R.Pattinam Central,1389124,IOB Bank,TR Pattinam,2021-08-22 14:23:36.323,Transport/Admin,Bank,10.87322624,79.83263437
+Pondicherry,Karaikal,karaikal,T.R.Pattinam Central,1389124,Co operative  agro  credit  society,TR  pattinam,2021-08-22 14:23:06.900,Agro ,Collection Centre or Pack House,10.872983336449,79.834905266762
+Pondicherry,Karaikal,karaikal,T.R.Pattinam Central,1389124,Govt Primary school  Melaiyur,Melaiyur   T R pattinam,2021-08-20 21:06:08.597,Education ,High School - General,10.87229634,79.82539448
+Pondicherry,Karaikal,karaikal,Vadakkuvanjure,1389135,Govt primary school KV Kuppam,Vadakkuu  vanjure,2021-08-22 14:22:11.243,Education ,High School - General,10.85181282,79.84459298
+Pondicherry,Karaikal,karaikal,Vadakkuvanjure,1389135,Health  sub  center,Vadakku vanjore,2021-08-22 14:22:24.400,Medical ,Primary Health Centre,10.85153729,79.84559605
+Pondicherry,Puducherry,Ariankuppam,Aranganur ,1388266,milk collection centre,Aranganur,2021-08-26 13:41:08.867,Agro ,Collection Centre or Pack House,11.831411666667,79.749945
+Pondicherry,Puducherry,Ariankuppam,Aranganur ,1388266,Govt.Primary school,Aranganur,2021-08-26 13:40:08.727,Education ,High School - General,11.831393333333,79.750021666667
+Pondicherry,Puducherry,Ariankuppam,Aranganur ,1388266,Health sub centre,Aranganur,2021-08-26 12:54:43.767,Medical ,Primary Health Centre,11.831855,79.749871666667
+Pondicherry,Puducherry,Ariankuppam,Aranganur ,1388266,ESSAR Fuel station,Aranganur,2021-08-26 12:45:50.913,Transport/Admin,Fuel Station,11.832176666667,79.749826666667
+Pondicherry,Puducherry,Ariankuppam,Aranganur ,1388266,ESSAR Fuel bunk,Aranganur,2021-08-27 14:31:15.890,Transport/Admin,Fuel Station,11.832176666667,79.749826666667
+Pondicherry,Puducherry,Villianur,Karasur,1388364,Indian oil Petrol bunk,sedarapet main road,2021-08-09 18:30:29.443,Transport/Admin,Fuel Station,11.98621846,79.73634535
+Pondicherry,Puducherry,Villianur,Kurumbapet,1388389,Bus stop,vazudhavur road,2021-08-13 12:09:23.310,Transport/Admin,Bus Stand,11.93999995,79.7707098
+Pondicherry,Puducherry,Villianur,Kurumbapet,1388389,Degree college,vazudhavur road,2021-08-09 18:17:34.907,Education ,Degree College,11.94089766,79.767513
+Pondicherry,Puducherry,Villianur,Kurumbapet,1388389,Bank of Baroda,vazhudavur road,2021-08-09 18:16:21.780,Transport/Admin,Bank,11.94126447,79.76532536
+Pondicherry,Karaikal,karaikal,Arulapillai street,1388734,Ruler development  center,kottucherry west,2021-08-17 14:27:16.463,Transport/Admin,Block Headquarter,10.969671607018,79.821730256081
+Pondicherry,Karaikal,karaikal,Manalmedu,1389027,Bus stop,opp  to SR spinning  Mill,2021-08-26 13:31:13.230,Transport/Admin,Bus Stand,10.96308169,79.77356669
+Pondicherry,Karaikal,karaikal,Kaliyamman koil,1389159,Kirama  panchayat  office,Neravy  west,2021-08-18 14:24:47.550,Transport/Admin,Panchayat Headquarter,10.89265035,79.80685577
+Pondicherry,Karaikal,karaikal,South Pet,1389168,Nearvy  Co operative credit  society,Kamarajajar  salai. Neravy,2021-08-18 14:16:03.923,Agro ,Collection Centre or Pack House,10.88949262,79.82439773
+Pondicherry,Karaikal,karaikal,South Pet,1389168,Kirama  panchayat  office,Nearavy,2021-08-18 14:15:12.500,Transport/Admin,Panchayat Headquarter,10.93990042,79.82994063
+Pondicherry,Karaikal,karaikal,Madhur ,1389227,Govt  seed  unit,Madur,2021-08-27 18:01:15.100,Agro ,Collection Centre or Pack House,10.92291044,79.7530855
+Pondicherry,Puducherry,Ariankuppam,Kaduvanur,1388250,Govt primary school,kaduvanur,2021-08-30 16:25:52.910,Education ,High School - General,11.815583333333,79.69722
+Pondicherry,Puducherry,Ariankuppam,Pillayarkuppam,1388273,Health and wellness centre,Pillayarkuppam,2021-09-23 12:38:00.817,Medical ,Primary Health Centre,11.815655,79.792871666667
+Pondicherry,Puducherry,Ariankuppam,Pillayarkuppam,1388273,Maghatma gandhi medical College,pillayarkuppam,2021-09-23 12:28:43.680,Education ,Degree College,11.81264,79.779353333333
+Pondicherry,Puducherry,Ariankuppam,Pillayarkuppam,1388273,Govt primary school,pillayarkuppam,2021-09-23 12:39:36.887,Education ,High School - General,11.81263,79.791655
+Pondicherry,Puducherry,Ariankuppam,Kattukupam,1388280,govt primary school,kattukuppam,2021-09-23 12:28:08.253,Education ,High School - General,11.806823333333,79.779796666667
+Pondicherry,Puducherry,Villianur,Uruvaiyar,1388373,Government Veternary Hospital,"Mangalam main road, Uruvaiyar",2021-08-05 23:23:30.350,Medical ,Veterinary Hospital,11.8910083,79.75154124
+Pondicherry,Puducherry,Villianur,Uruvaiyar,1388373,Indian oil petrol bunk,"villianur road, uruviauar",2021-08-05 23:25:19.387,Transport/Admin,Fuel Station,11.89990328,79.75233686
+Pondicherry,Puducherry,Villianur,Uruvaiyar,1388373,Puduvai Bharathiar grama bank,"mangalam main road, uruvaiyar",2021-08-05 23:24:25.277,Transport/Admin,Bank,11.890602,79.75275975
+Pondicherry,Karaikal,karaikal,Rajiv Nagar,1388750,Village panchayat  office,Kurumbagaram,2021-08-17 20:59:02.760,Transport/Admin,Panchayat Headquarter,10.98746519,79.7667107
+Pondicherry,Karaikal,karaikal,Nallambal,1389043,Primary  Health  centre,Nallambal,2021-08-18 18:51:16.920,Medical ,Primary Health Centre,10.94665969,79.7382623
+Pondicherry,Karaikal,karaikal,Nallambal,1389043,Govt Middle school,Nallambal,2021-08-18 18:55:34.080,Education ,High School - General,10.94810717,79.74077033
+Pondicherry,Karaikal,karaikal,Serumavilangai,1389050,Govt primary school,Serumavilangai,2021-08-18 19:02:30.810,Education ,High School - General,10.95817475,79.77476029
+Pondicherry,Karaikal,karaikal,Serumavilangai,1389050,Govt Engineering  college,serumavilangai,2021-08-18 19:03:18.827,Education ,Degree College,10.95236832,79.77710474
+Pondicherry,Karaikal,karaikal,Serumavilangai,1389050,Indian  Bank,PKIT Campus  Serumavilangai,2021-08-18 19:02:48.400,Transport/Admin,Bank,10.95316045,79.77659402
+Pondicherry,Puducherry,Ariankuppam,Andiyarpalayam,1388236,Health and wellness centre,Andiyarpalayam,2021-09-17 11:26:59.357,Medical ,Primary Health Centre,11.857368333333,79.801693333333
+Pondicherry,Puducherry,Ariankuppam,Andiyarpalayam,1388236,Govt primary school,Andiyarpalayam,2021-09-17 11:27:53.120,Education ,High School - General,11.857125,79.802286666667
+Pondicherry,Puducherry,Ariankuppam,Andiyarpalayam,1388236,milk collection centre,Andiyarpalayam,2021-09-17 11:31:55.657,Agro ,Collection Centre or Pack House,11.857131666667,79.802848333333
+Pondicherry,Puducherry,Ariankuppam,Moorthikuppam,1388287,Govt Smart primary school,moorthikuppam,2021-09-23 11:08:16.517,Education ,High School - General,11.791036666667,79.788003333333
+Pondicherry,Puducherry,Ariankuppam,Moorthikuppam,1388287,health and wellness centre,moorthikuppam,2021-09-23 11:12:37.820,Medical ,Primary Health Centre,11.790851666667,79.788026666667
+Pondicherry,Puducherry,Villianur,Kodathur,1388338,Government High school,kodathur,2021-08-10 20:04:50.083,Education ,High School - General,11.99272869,79.66546254
+Pondicherry,Puducherry,Villianur,Pillaiyarkuppam,1388368,Government high school,Pillayarkuppam,2021-08-11 15:30:24.060,Education ,High School - General,11.95809945,79.7046516
+Pondicherry,Puducherry,Villianur,Pillaiyarkuppam,1388368,Bharat petroleum,Pillaiyarkuppam,2021-08-11 15:31:20.717,Transport/Admin,Fuel Station,11.96591275,79.70433595
+Pondicherry,Puducherry,Villianur,Ariyur,1388385,sri venkateshwaraa medical college and research centre,High way road,2021-08-13 12:13:35.680,Education ,Degree College,11.9070666,79.7030236
+Pondicherry,Puducherry,Villianur,Ariyur,1388385,Primary health centre,"villupuram main road, Ariyur",2021-08-05 23:16:28.983,Medical ,Primary Health Centre,11.90679578,79.70336457
+Pondicherry,Puducherry,Villianur,Ariyur,1388385,Indian Bank,"villupuram main road, Ariyur",2021-08-05 23:17:36.587,Transport/Admin,Bank,11.90782972,79.70087054
+Pondicherry,Puducherry,Villianur,Ariyur,1388385,Government higher secondary school,villupuram main road,2021-08-05 23:18:11.367,Education ,Higher Secondary School,11.90827393,79.70054338
+Pondicherry,Puducherry,Villianur,Ariyur,1388385,New Horizon Sugar Mills,Highway road,2021-08-12 15:39:28.227,Agro ,Sugar Mills,11.90927063,79.69842943
+Pondicherry,Karaikal,karaikal,Kottucherrymedu,1388738,Vinayaka  mission  Medical  college,kottuchery  Medu,2021-08-17 14:34:14.753,Medical ,Bedded Hospital,10.96091444,79.8431568
+Pondicherry,Karaikal,karaikal,Kottucherrymedu,1388738,sub  center,kottucherry Medu,2021-08-17 14:32:51.313,Medical ,Primary Health Centre,10.96073156,79.85170535
+Pondicherry,Karaikal,karaikal,Kottucherrymedu,1388738,Govt  Smart  primary  School,kottucherry  Medu,2021-08-17 14:32:22.500,Education ,High School - General,10.96081251,79.85161893
+Pondicherry,Karaikal,karaikal,Kurumbagaram West,1388755,Pvt  Higher  secondary  school,Nedungadu,2021-08-17 21:11:55.527,Education ,High School - General,10.97529946,79.76928197
+Pondicherry,Karaikal,karaikal,Kurumbagaram West,1388755,Govt Veterinary  Hospital,Kurumbagaram,2021-08-17 21:12:14.923,Medical ,Veterinary Hospital,10.97941556,79.76858364
+Pondicherry,Karaikal,karaikal,T.R.Pattinam South,1389127,Bus stop Mudaliar  Theru,TR Pattinam,2021-08-20 21:26:20.940,Transport/Admin,Bus Stand,10.8692079,79.8301064
+Pondicherry,Karaikal,karaikal,T.R.Pattinam South,1389127,ITI for Men,TR Pattinam,2021-08-20 21:05:29.683,Education ,ITI,10.86837065,79.82573765
+Pondicherry,Karaikal,karaikal,T.R.Pattinam South,1389127,Primary  health centre,TR pattinam,2021-08-20 21:26:02.033,Medical ,Primary Health Centre,10.86834666,79.82999516
+Pondicherry,Karaikal,karaikal,Edatheru,1389132,Govt primary school,Edatheru. Kezaiyur  south,2021-08-22 14:21:55.503,Education ,High School - General,10.865446329117,79.837308526039
+Pondicherry,Karaikal,karaikal,Edatheru,1389132,Grama  panchayat  office,Edatheru  T R pattinam,2021-08-22 14:21:36.440,Transport/Admin,Panchayat Headquarter,10.8680187,79.83798556
+Pondicherry,Karaikal,karaikal,Pillayar Koil,1389161,Bus  stop,SivanKoil  south street,2021-08-18 14:23:36.140,Transport/Admin,Bus Stand,10.893196463585,79.812358617783
+Pondicherry,Karaikal,karaikal,Pillayar Koil,1389161,primary  Health center  Neravy,Neravy,2021-08-18 14:24:10.297,Medical ,Primary Health Centre,10.89319809,79.811743
+Pondicherry,Karaikal,karaikal,Pillayar Koil,1389161,Neravy commune  panchayat office,pillaiyar koil street  Neravy,2021-08-18 14:23:21.170,Transport/Admin,Panchayat Headquarter,10.89313534,79.81298091
+Pondicherry,Karaikal,karaikal,Pillayar Koil,1389161,"Govt  Middle  School ,Neravy",Pillaiyarkoil street.  Neravy,2021-08-18 14:22:52.467,Education ,High School - General,10.89275598,79.81573216
+Pondicherry,Karaikal,karaikal,Classpet,1389166,Indian Bank,Kezaraja Veethi.    Neravy,2021-08-18 14:16:22.737,Transport/Admin,Bank,10.88995713,79.82146729
+Pondicherry,Karaikal,karaikal,Classpet,1389166,Bus  stop.,Ongc  First  salai,2021-08-18 14:20:05.043,Transport/Admin,Bus Stand,10.89297951,79.81898416
+Pondicherry,Karaikal,karaikal,Pathakudy,1389045,Govt primary school,pathakudy,2021-08-18 19:02:10.467,Education ,High School - General,10.95407511,79.76419316
+Pondicherry,Karaikal,karaikal,Agalancannu,1389113,Bright  Academy  Pvt  High  school,Agalangannu,2021-08-27 18:01:37.053,Education ,High School - General,10.91864884,79.77020737
+Pondicherry,Karaikal,karaikal,Agalancannu,1389113,Govt primary school,Agalangannu,2021-08-27 18:01:56.400,Education ,High School - General,10.91332673,79.76742841
+Pondicherry,Karaikal,karaikal,Thiruvasal kollai,1389164,Bus stop,King  Street,2021-08-18 14:20:37.500,Transport/Admin,Bus Stand,10.8901397,79.81671686
+Pondicherry,Puducherry,Villianur,Thiruvandar Koil,1388358,FCI Godowns,Thiruvandar koil,2021-08-12 15:38:55.400,Agro ,Warehouse,11.91799362,79.65822786
+Pondicherry,Puducherry,Villianur,Thiruvandar Koil,1388358,SBI Bank,Highway road,2021-08-12 15:37:19.350,Transport/Admin,Bank,11.91822486,79.66030329
+Pondicherry,Puducherry,Villianur,Thiruvandar Koil,1388358,Government Higher Secondary School,Thiruvandar koil,2021-08-12 15:38:18.070,Education ,Higher Secondary School,11.91797088,79.65898029
+Pondicherry,Puducherry,Villianur,Thuthipet,1388365,"P R Agencies,Bharat Petroleum",sedarapet main road,2021-08-09 18:26:09.420,Transport/Admin,Fuel Station,11.97951408,79.72388218
+Pondicherry,Karaikal,karaikal,Panchatcharapuram pet,1388758,Pvt  Higher  secondary  school,Nedungadu,2021-08-17 21:09:39.643,Education ,High School - General,10.976870656013,79.772216677666
+Pondicherry,Karaikal,karaikal,Thenur,1389051,Bus stop  near  sub  register  office  Thenur,Thenur  Bye  Pass  road  corner,2021-08-28 17:10:23.347,Transport/Admin,Bus Stand,10.92972433,79.78440906
+Pondicherry,Karaikal,karaikal,Thenur,1389051,Taluk  office,Thirunallar,2021-08-28 17:09:34.997,Transport/Admin,Block Headquarter,10.9300866,79.78359451
+Pondicherry,Karaikal,karaikal,Thenur,1389051,Community Health  centre,Thirunallar,2021-08-28 17:09:13.010,Medical ,Community Health Centre,10.9308532,79.78356975
+Pondicherry,Karaikal,karaikal,Thenur,1389051,Office of  The sub  Register,Thirunallar,2021-08-28 17:09:50.750,Transport/Admin,Block Headquarter,10.92977008,79.78421954
+Pondicherry,Karaikal,karaikal,Thenur,1389051,Govt Higher secondary school,"Thenur, Thirunallar",2021-08-28 17:07:40.980,Education ,Higher Secondary School,10.93412816,79.78258722
+Pondicherry,Puducherry,Ariankuppam,Nallavadu,1388242,health and wellness centre,nallavadu,2021-09-17 11:47:12.583,Medical ,Primary Health Centre,11.856483333333,79.812956666667
+Pondicherry,Puducherry,Ariankuppam,Nallavadu,1388242,govt middle school,nallavadu,2021-09-17 11:49:27.277,Education ,Degree College,11.856408333333,79.813086666667
+Pondicherry,Puducherry,Ariankuppam,Bahour West,1388260,milk cooler centre,Bahour,2021-08-26 16:06:24.397,Agro ,Cold Storage,11.806361666667,79.744196666667
+Pondicherry,Puducherry,Ariankuppam,Bahour West,1388260,Govt middle school,Bahour,2021-08-26 16:06:55.647,Education ,High School - General,11.806498333333,79.74398
+Pondicherry,Puducherry,Ariankuppam,Bahour West,1388260,PSC bank,Bahour,2021-08-26 16:05:32.190,Transport/Admin,Bank,11.806185,79.74437
+Pondicherry,Puducherry,Villianur,Mangalam,1388378,Essar Petrol Bunk,"Main road, Mangalam",2021-08-05 23:22:11.920,Transport/Admin,Fuel Station,11.89243333,79.74221687
+Pondicherry,Puducherry,Villianur,Mangalam,1388378,Government High School,"Mariamman koil street, Mangalam",2021-08-05 23:21:07.063,Education ,High School - General,11.89366359,79.73583475
+Pondicherry,Puducherry,Villianur,Odiampet West,1388396,IDEAL HIGHER SECONDARY SCHOOL,"Viillianour, Odiampet",2021-08-27 16:48:21.683,Education ,Higher Secondary School,11.90970092,79.7666296
+Pondicherry,Puducherry,Villianur,Odiampet West,1388396,Bharat Petroleum,"Uthiravaginipet, Odiampet",2021-08-27 16:49:57.327,Transport/Admin,Fuel Station,11.90906974,79.76907445
+Pondicherry,Puducherry,Villianur,Odiampet West,1388396,Govt Veterinary Hospital,"villianour, Kanuvapet",2021-08-27 16:59:16.567,Medical ,Veterinary Hospital,11.91007057,79.76311569
+Pondicherry,Karaikal,karaikal,Akkampettai,1388728,RVS college,Akkampettai,2021-08-24 21:01:00.030,Education ,Degree College,10.97708657,79.85191294
+Pondicherry,Karaikal,karaikal,Akkampettai,1388728,Bus stop,Akkampettai,2021-08-24 21:00:43.403,Transport/Admin,Bus Stand,10.9701648,79.85241485
+Pondicherry,Karaikal,karaikal,Keezhaponbethy,1388778,Grama  panchayat  Ponbethy,"Ponbethy  ,Nedungadu",2021-08-26 13:36:39.080,Transport/Admin,Panchayat Headquarter,10.97306902,79.7811744
+Pondicherry,Karaikal,karaikal,Keezhaponbethy,1388778,Bus stop,"Keza ponpethy,  Nedungadu",2021-08-26 13:35:27.313,Transport/Admin,Bus Stand,10.97164387,79.77700566
+Pondicherry,Karaikal,karaikal,Polagam,1389128,Govt Middle school,Polagam,2021-08-20 21:24:40.000,Education ,High School - General,10.83380391,79.83376435
+Pondicherry,Karaikal,karaikal,Polagam,1389128,Grama Panchayat  office  south,polagam,2021-08-20 21:08:18.220,Transport/Admin,Panchayat Headquarter,10.8632914,79.82897233
+Pondicherry,Karaikal,karaikal,Polagam,1389128,Bus Stop,polagam,2021-08-20 21:08:36.797,Transport/Admin,Bus Stand,10.8630049,79.82967192
+Pondicherry,Karaikal,karaikal,Polagam,1389128,Govt primary school,polagam,2021-08-20 21:07:56.827,Education ,High School - General,10.86211461,79.82476555
+Pondicherry,Karaikal,karaikal,Polagam,1389128,Pvt  High school,Vengatesvara  High school.  polagam,2021-08-20 21:25:20.847,Education ,High School - General,10.86545661,79.82534011
+Pondicherry,Karaikal,karaikal,Pattinacherry,1389131,Fisher Man Co operative  society,Pattinacherry,2021-08-22 14:21:05.190,Agro ,Collection Centre or Pack House,10.88058257,79.84685475
+Pondicherry,Karaikal,karaikal,Pattinacherry,1389131,Health Sub center,Pattinacherry,2021-08-22 14:20:47.923,Medical ,Primary Health Centre,10.88138416,79.84785507
+Pondicherry,Karaikal,karaikal,Pattinacherry,1389131,Govt primary school,Pattinacherray,2021-08-22 14:20:23.063,Education ,High School - General,10.87664808,79.83716096
+Pondicherry,Puducherry,Ariankuppam,Kakayanthopu,1388229,Govt. primary school,kakayanthope,2021-08-05 18:22:01.880,Education ,High School - General,11.895316666667,79.815211666667
+Pondicherry,Puducherry,Ariankuppam,Kakayanthopu,1388229,Santha Trust high school,kakayanthope,2021-08-05 18:26:22.817,Education ,High School - General,11.895981666667,79.814121666667
+Pondicherry,Puducherry,Ariankuppam,Kakayanthopu,1388229,Indian bank,karaiyamputhur,2021-08-26 12:01:20.970,Transport/Admin,Bank,11.82007,79.649278333333
+Pondicherry,Puducherry,Ariankuppam,Pudukuppam,1388243,govt primary school,pudukuppam,2021-09-17 11:46:26.367,Education ,High School - General,11.866595,79.814656666667
+Pondicherry,Puducherry,Ariankuppam,Eripakkam Nathamedu,1388294,Health and wellness centre,Nathamedu,2021-08-27 12:59:40.367,Medical ,Primary Health Centre,11.87814,79.640036666667
+Pondicherry,Puducherry,Villianur,Kunitchempet,1388329,Indian oil bunk,Thiruvannamalai road,2021-08-10 20:07:37.123,Transport/Admin,Fuel Station,11.99759726,79.62817715
+Pondicherry,Puducherry,Villianur,Kunitchempet,1388329,Government Higher secondary school,kunichempet,2021-08-10 20:06:15.263,Education ,High School - General,12.00441361,79.62971049
+Pondicherry,Puducherry,Villianur,Kunitchempet,1388329,Marketing committee,Thiruvannamalai road,2021-08-10 20:08:44.167,Agro ,Mandi (Notified),11.9975503,79.62828271
+Pondicherry,Puducherry,Villianur,Kunitchempet,1388329,veternary hospital,kunichempet,2021-08-10 20:06:46.233,Medical ,Veterinary Hospital,11.99736053,79.63023655
+Pondicherry,Puducherry,Villianur,Suthukeny,1388343,Government high school,suthukeny,2021-08-10 20:01:18.200,Education ,High School - General,12.01741527,79.67648338
+Pondicherry,Karaikal,karaikal,Kottucherry North E1,1388729,Grama panchayat  office,Kottucherry  East,2021-08-17 14:31:44.263,Transport/Admin,Panchayat Headquarter,10.964447,79.8313469
+Pondicherry,Karaikal,karaikal,Kottucherry North E1,1388729,"Annai  Abirami  National  High school  , Kottucherry     (pvt)",kottucherry East,2021-08-17 14:30:48.440,Education ,High School - General,10.96686881,79.82666821
+Pondicherry,Karaikal,karaikal,Kottucherry North E1,1388729,Commune  panchayat office  kottucherry,kottucherry,2021-08-17 14:38:10.170,Transport/Admin,Panchayat Headquarter,10.9584285,79.82692808
+Pondicherry,Karaikal,karaikal,Kottucherry North E1,1388729,Primary  Health  center,kottucherry,2021-08-17 14:37:00.003,Medical ,Primary Health Centre,10.95909968,79.82524591
+Pondicherry,Karaikal,karaikal,Kottucherry North E1,1388729,Revenue  Department,kottucherry,2021-08-17 14:38:33.797,Transport/Admin,Panchayat Headquarter,10.95914364,79.82867587
+Pondicherry,Puducherry,Ariankuppam,Thavalakuppam,1388235,Indian overseas Bank,thavalakuppam,2021-09-17 11:44:02.370,Transport/Admin,Bank,11.864155,79.792753333333
+Pondicherry,Puducherry,Ariankuppam,Thavalakuppam,1388235,Rajivgandhi Arts and science College,Thavalakuppam,2021-09-17 11:26:08.797,Education ,Degree College,11.862471666667,79.799113333333
+Pondicherry,Puducherry,Ariankuppam,Thavalakuppam,1388235,Aravindar eye hospital,Thavalakuppam,2021-09-17 11:43:12.917,Medical ,Bedded Hospital,11.863913333333,79.7928
+Pondicherry,Puducherry,Ariankuppam,Thavalakuppam,1388235,Arun agency HP fuel station,Thavalakuppam,2021-09-17 11:32:31.607,Transport/Admin,Fuel Station,11.858018333333,79.791323333333
+Pondicherry,Puducherry,Villianur,Vadhanur,1388335,Central bank of india,vadhanur,2021-08-11 15:15:09.913,Transport/Admin,Bank,11.971365,79.63665084
+Pondicherry,Puducherry,Villianur,Vadhanur,1388335,veternary hospital,vadhanur,2021-08-11 15:16:28.883,Medical ,Veterinary Hospital,11.97096816,79.63778546
+Pondicherry,Puducherry,Villianur,Vadhanur,1388335,Annai sarada devi government high school,vadhanur,2021-08-11 15:17:45.540,Education ,High School - General,11.97051239,79.63882564
+Pondicherry,Puducherry,Villianur,Puranasinga Palayam,1388337,Indian oil petrol bunk,PS palayam,2021-08-11 15:18:40.183,Transport/Admin,Fuel Station,11.95403697,79.62916254
+Pondicherry,Puducherry,Villianur,Puranasinga Palayam,1388337,Pavendar bharatidasan government higher secondary school,PS palayam,2021-08-11 15:19:52.310,Education ,High School - General,11.95019308,79.63417667
+Pondicherry,Puducherry,Villianur,Pangoor,1388386,Amudhasurabhi cooperative petrol bunk,"villupuram main road, Pangoor",2021-08-05 23:15:32.187,Transport/Admin,Fuel Station,11.90544422,79.70647729
+Pondicherry,Karaikal,karaikal,Yadaval street,1388686,Govt primary school,Poovam,2021-08-25 21:17:12.593,Education ,High School - General,10.99275566,79.83028887
+Pondicherry,Karaikal,karaikal,Yadaval street,1388686,Grama  panchayat  office,poovam,2021-08-25 21:20:06.557,Transport/Admin,Panchayat Headquarter,10.99272207,79.83033324
+Pondicherry,Karaikal,karaikal,Yadaval street,1388686,"Govt  High school,Poovam",poovam,2021-08-25 21:18:15.323,Education ,High School - General,10.99272924,79.83032648
+Pondicherry,Karaikal,karaikal,Yadaval street,1388686,Health sub center,poovam,2021-08-25 21:19:36.977,Medical ,Primary Health Centre,10.99272207,79.83033324
+Pondicherry,Karaikal,karaikal,Poovam South,1388688,Rural Development  center,varichikudy,2021-08-25 21:21:21.940,Transport/Admin,Block Headquarter,10.984461,79.82602023
+Pondicherry,Karaikal,karaikal,Poovam South,1388688,Veterinary  Hospital  Key  village  unit,poovam,2021-08-25 21:20:37.693,Medical ,Veterinary Hospital,10.986730456352,79.826558232307
+Pondicherry,Karaikal,karaikal,Poovam South,1388688,Canara  Bank,Poovam,2021-08-25 21:20:21.890,Transport/Admin,Bank,10.99181946,79.82901376
+Pondicherry,Karaikal,karaikal,Poovam South,1388688,Govt primary school,varichikudy east,2021-08-25 21:21:46.573,Education ,High School - General,10.98474234,79.82597527
+Pondicherry,Karaikal,karaikal,Poovam South,1388688,Primary  Health centre,varichikudy,2021-08-25 21:22:46.450,Medical ,Primary Health Centre,10.98529659,79.82619807
+Pondicherry,Karaikal,karaikal,Poovam South,1388688,Bus stop,varichikudy,2021-08-25 21:22:06.917,Transport/Admin,Bus Stand,10.98524083,79.82625503
+Pondicherry,Karaikal,karaikal,Vellapillaiyar Koil Street,1388735,Govt Girls High school,kottucherry,2021-08-17 14:35:16.600,Education ,High School - Girls,10.96108669,79.82630525
+Pondicherry,Karaikal,karaikal,Jeeva nagar,1388737,Govt primary  school cbsc,Jeeva nagar,2021-08-17 14:34:37.177,Education ,High School - General,10.95877981,79.83175028
+Pondicherry,Karaikal,karaikal,Annavasal,1389037,Pvt Higher  secondary  school,Nedungadu,2021-08-17 21:07:36.060,Education ,High School - General,10.97422678,79.76486943
+Pondicherry,Karaikal,karaikal,Annavasal,1389037,Indian  oil Petrol  Bunk,"Annavasal  ,Nedungadu",2021-08-26 13:32:10.103,Transport/Admin,Fuel Station,10.97439857,79.7559616
+Pondicherry,Karaikal,karaikal,Annavasal,1389037,Pvt  petrol  bunk,Nedungadu,2021-08-17 21:08:06.120,Transport/Admin,Fuel Station,10.97416827,79.76656477
+Pondicherry,Karaikal,karaikal,Melavanjure,1389137,Bus stop  Near  Karaikal Port,vanjure,2021-08-20 21:22:26.703,Transport/Admin,Bus Stand,10.82821725,79.83451239
+Pondicherry,Karaikal,karaikal,Melavanjure,1389137,Govt  Primary school,vanjure,2021-08-20 21:21:38.047,Education ,High School - General,10.82828936,79.83320661
+Pondicherry,Karaikal,karaikal,Melavanjure,1389137,Pvt  High  school (Mahalaximi CBSC),Mahalaxmi  cbsc school.  Vanjure,2021-08-20 21:24:22.310,Education ,High School - General,10.83397925,79.83352264
+Pondicherry,Karaikal,karaikal,Melavanjure,1389137,Bus stop,Chemplast  ind  stop,2021-08-20 21:08:56.907,Transport/Admin,Bus Stand,10.84678841,79.83113722
+Pondicherry,Puducherry,Villianur,Perungalore,1388408,Govt. Primary school,Perungalore,2021-08-26 10:53:16.980,Education ,High School - General,11.8732253,79.75691069
+Pondicherry,Puducherry,Villianur,Perungalore,1388408,milk collection centre,perugalore,2021-08-26 10:55:37.877,Agro ,Collection Centre or Pack House,11.87058602,79.75644902
+Pondicherry,Karaikal,karaikal,Pulianthoppu,1388715,Govt  High school,"Varichikudy, Perumal  koil  Street",2021-08-25 21:23:17.967,Education ,High School - General,10.98795763,79.81897019
+Pondicherry,Karaikal,karaikal,Thiruvengadapuram,1389008,Bus stop,Thiruvengatapuram,2021-08-26 13:37:50.440,Transport/Admin,Bus Stand,10.96897199,79.79232316
+Pondicherry,Karaikal,karaikal,Thiruvengadapuram,1389008,veteinary key unit,Thiruvengatapuram,2021-08-26 13:39:18.303,Medical ,Veterinary Hospital,10.96894224,79.7930728
+Pondicherry,Puducherry,Ariankuppam,Nettapakkam,1388307,Health and wellness centre,Nettapakkam,2021-08-30 15:20:59.930,Medical ,Primary Health Centre,11.866616666667,79.63282
+Pondicherry,Puducherry,Ariankuppam,Nettapakkam,1388307,Govt primary school,Nettapakkam,2021-08-30 15:19:42.320,Education ,High School - General,11.864763333333,79.633756666667
+Pondicherry,Puducherry,Ariankuppam,Nettapakkam,1388307,Govt ITI,nettapakkam,2021-08-30 15:25:40.383,Education ,ITI,11.868998333333,79.632516666667
+Pondicherry,Puducherry,Ariankuppam,Nettapakkam,1388307,IOB bank,nettapakkam,2021-08-30 15:29:50.130,Transport/Admin,Bank,11.863531666667,79.636155
+Pondicherry,Puducherry,Ariankuppam,Nettapakkam,1388307,Nettapakkam commune panchayat,Nettapakkam,2021-08-30 15:20:17.860,Transport/Admin,Panchayat Headquarter,11.864371666667,79.633911666667
+Pondicherry,Puducherry,Ariankuppam,Nettapakkam,1388307,Govt higher secondary school,nettapakkam,2021-08-30 15:21:56.160,Education ,Higher Secondary School,11.867061666667,79.632646666667
+Pondicherry,Puducherry,Ariankuppam,Nettapakkam,1388307,PBG bank,Nettapakkam,2021-08-30 15:29:06.233,Transport/Admin,Bank,11.864381666667,79.634073333333
+Pondicherry,Puducherry,Villianur,Villianur West,1388407,kannagi government girls Higher Secondary School,villianur,2021-08-05 23:12:35.537,Education ,Higher Secondary School,11.9086311,79.75105293
+Pondicherry,Puducherry,Villianur,Villianur West,1388407,kasthurba college for women,villianur,2021-08-12 15:40:00.633,Education ,Degree College,11.90996132,79.75099963
+Pondicherry,Karaikal,karaikal,Pettai,1389186,Govt primary school,Pettai,2021-08-19 18:51:34.707,Education ,High School - General,10.91129882,79.78006814
